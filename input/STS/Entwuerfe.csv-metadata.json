@@ -1,0 +1,41 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "example.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "Ausstatter"
+      },
+      {
+        "titles": "Bemerkungen"
+      },
+      {
+        "titles": "Bildmass"
+      },
+      {
+        "titles": "Blattmass"
+      },
+      {
+        "titles": "Figurine"
+      },
+      {
+        "titles": "RepertoirenID"
+      },
+      {
+        "titles": "Schachtel"
+      },
+      {
+        "titles": "Schauplatz"
+      },
+      {
+        "titles": "Signatur"
+      },
+      {
+        "titles": "Technik"
+      },
+      {
+        "titles": "Versicherungswert"
+      }
+    ]
+  }
+}

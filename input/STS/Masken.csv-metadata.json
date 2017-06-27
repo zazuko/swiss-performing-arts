@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "example.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "Bemerkungen"
+      },
+      {
+        "titles": "Figur"
+      },
+      {
+        "titles": "Maskenbildner"
+      },
+      {
+        "titles": "Masse"
+      },
+      {
+        "titles": "Material"
+      },
+      {
+        "titles": "RepertorienID"
+      },
+      {
+        "titles": "Signatur"
+      },
+      {
+        "titles": "Versicherungswert"
+      }
+    ]
+  }
+}

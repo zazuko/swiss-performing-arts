@@ -1,0 +1,179 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "example.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "AnzAkte"
+      },
+      {
+        "titles": "AnzBilder"
+      },
+      {
+        "titles": "AnzVorstellungen"
+      },
+      {
+        "titles": "Auffuehrungssprache"
+      },
+      {
+        "titles": "Auffuehrungsstaette"
+      },
+      {
+        "titles": "Auffuehrungstitel"
+      },
+      {
+        "titles": "AV_Dokumente_TS"
+      },
+      {
+        "titles": "BbEntwurf_TS"
+      },
+      {
+        "titles": "BbModell_TS"
+      },
+      {
+        "titles": "Bearbeiter"
+      },
+      {
+        "titles": "Bearbeitet_von"
+      },
+      {
+        "titles": "Bearbeitungsdatum"
+      },
+      {
+        "titles": "Bemerkungen1"
+      },
+      {
+        "titles": "BemerkungenDok_TS"
+      },
+      {
+        "titles": "Bezugswerk"
+      },
+      {
+        "titles": "Bilder_TS"
+      },
+      {
+        "titles": "Buehnenbild"
+      },
+      {
+        "titles": "Buehnenmusik"
+      },
+      {
+        "titles": "Choreographie"
+      },
+      {
+        "titles": "Chorleitung"
+      },
+      {
+        "titles": "Darsteller"
+      },
+      {
+        "titles": "Dias_TS"
+      },
+      {
+        "titles": "DokDiv_TS"
+      },
+      {
+        "titles": "Dramaturgie"
+      },
+      {
+        "titles": "Erstellt_von"
+      },
+      {
+        "titles": "Erstellungsdatum"
+      },
+      {
+        "titles": "Fotos_TS"
+      },
+      {
+        "titles": "Gattung"
+      },
+      {
+        "titles": "Kostueme"
+      },
+      {
+        "titles": "Licht"
+      },
+      {
+        "titles": "Musikalische Leitung"
+      },
+      {
+        "titles": "Musikautor"
+      },
+      {
+        "titles": "Negative_TS"
+      },
+      {
+        "titles": "Originaltitel"
+      },
+      {
+        "titles": "PA_TS"
+      },
+      {
+        "titles": "PHeft_TS"
+      },
+      {
+        "titles": "PHeftEingang_TS"
+      },
+      {
+        "titles": "PHeftNr_TS"
+      },
+      {
+        "titles": "Plakat"
+      },
+      {
+        "titles": "Plakat_TS"
+      },
+      {
+        "titles": "Premierenart"
+      },
+      {
+        "titles": "Premierendatum"
+      },
+      {
+        "titles": "ProdNummer"
+      },
+      {
+        "titles": "ProdTruppe"
+      },
+      {
+        "titles": "Projektion"
+      },
+      {
+        "titles": "Regie"
+      },
+      {
+        "titles": "Regieassistenz"
+      },
+      {
+        "titles": "RepertorienID"
+      },
+      {
+        "titles": "Spielort"
+      },
+      {
+        "titles": "Spielzeit"
+      },
+      {
+        "titles": "StabDiv"
+      },
+      {
+        "titles": "Textautor"
+      },
+      {
+        "titles": "Theatercode"
+      },
+      {
+        "titles": "Ton"
+      },
+      {
+        "titles": "Uebersetzer"
+      },
+      {
+        "titles": "Video"
+      },
+      {
+        "titles": "Werktitel"
+      }
+    ]
+  }
+}

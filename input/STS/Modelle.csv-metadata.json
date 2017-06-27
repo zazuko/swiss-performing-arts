@@ -1,0 +1,47 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "example.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "Bemerkungen"
+      },
+      {
+        "titles": "Buehnenbildmodell"
+      },
+      {
+        "titles": "Buehnenbildner"
+      },
+      {
+        "titles": "Buehnenbildrelief"
+      },
+      {
+        "titles": "Masse"
+      },
+      {
+        "titles": "Massstab"
+      },
+      {
+        "titles": "RepertorienID"
+      },
+      {
+        "titles": "Schachtel"
+      },
+      {
+        "titles": "Schauplatz"
+      },
+      {
+        "titles": "Signatur"
+      },
+      {
+        "titles": "Standort"
+      },
+      {
+        "titles": "Theaterbaumodell"
+      },
+      {
+        "titles": "Versicherungswert"
+      }
+    ]
+  }
+}
