@@ -1,40 +1,60 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
   "url": "Entwuerfe.csv",
+  "dialect": {
+    "delimiter": ","
+  },
   "tableSchema": {
+    "aboutUrl": "http://data.performing-arts.ch/sts/entwuerfe/{RepertoirenID}",
     "columns": [
       {
-        "titles": "Ausstatter"
+        "titles": "Ausstatter",
+        "propertyUrl": "http://vocab.performing-arts.ch/hasDesigner"
       },
       {
-        "titles": "Bemerkungen"
+        "titles": "Bemerkungen",
+        "propertyUrl": "http://vocab.performing-arts.ch/generalNote"
       },
       {
-        "titles": "Bildmass"
+        "titles": "Bildmass",
+        "propertyUrl": "http://vocab.performing-arts.ch/contentExtend"
       },
       {
-        "titles": "Blattmass"
+        "titles": "Blattmass",
+        "propertyUrl": "http://vocab.performing-arts.ch/dimension"
       },
       {
-        "titles": "Figurine"
+        "titles": "Figurine",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasSubject"
       },
       {
-        "titles": "RepertoirenID"
+        "titles": "RepertoirenID",
+        "propertyUrl": "http://vocab.performing-arts.ch/hasSubject",
+        "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertoirenID}"
       },
       {
-        "titles": "Schachtel"
+        "titles": "Schachtel",
+        "propertyUrl": "http://vocab.performing-arts.ch/sts_inSchachtelNr"      },
+      {
+        "titles": "Schauplatz",
+        "propertyUrl": "http://vocab.performing-arts.ch/depictedScene"
       },
       {
-        "titles": "Schauplatz"
+        "titles": "Signatur",
+        "propertyUrl": "http://vocab.performing-arts.ch/accessionNumber"
       },
       {
-        "titles": "Signatur"
+        "titles": "Technik",
+        "propertyUrl": "http://vocab.performing-arts.ch/productionTechnique"
       },
       {
-        "titles": "Technik"
+        "titles": "Versicherungswert",
+        "propertyUrl": "http://vocab.performing-arts.ch/insuranceValue"
       },
       {
-        "titles": "Versicherungswert"
+        "virtual": true,
+        "propertyUrl": "rdf:type",
+        "valueUrl": "http://vocab.performing-arts.ch/E5"
       }
     ]
   }

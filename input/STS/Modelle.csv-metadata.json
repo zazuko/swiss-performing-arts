@@ -4,43 +4,57 @@
   "tableSchema": {
     "columns": [
       {
-        "titles": "Bemerkungen"
+        "titles": "Bemerkungen",
+        "propertyUrl": "http://vocab.performing-arts.ch/generalNote"
       },
       {
-        "titles": "Buehnenbildmodell"
+        "titles": "Buehnenbildmodell",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasDocumentaryForm"
       },
       {
-        "titles": "Buehnenbildner"
+        "titles": "Buehnenbildner",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasDesigner"
       },
       {
-        "titles": "Buehnenbildrelief"
+        "titles": "Buehnenbildrelief",
+        "propertyUrl": "http://vocab.performing-arts.ch/rc_hasDocumentaryForm"
       },
       {
-        "titles": "Masse"
+        "titles": "Masse",
+        "propertyUrl": "http://vocab.performing-arts.ch/dimensions"
       },
       {
-        "titles": "Massstab"
+        "titles": "Massstab",
+        "propertyUrl": "http://vocab.performing-arts.ch/scale"
       },
       {
-        "titles": "RepertorienID"
+        "titles": "RepertorienID",
+        "propertyUrl": "http://vocab.performing-arts.ch/hasSubject",
+        "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertoirenID}"
       },
       {
-        "titles": "Schachtel"
+        "titles": "Schachtel",
+        "propertyUrl": "http://vocab.performing-arts.ch/sts_inSchachtelNr"
       },
       {
-        "titles": "Schauplatz"
+        "titles": "Schauplatz",
+        "propertyUrl": "http://vocab.performing-arts.ch/depictedScene"
       },
       {
-        "titles": "Signatur"
+        "titles": "Signatur",
+        "propertyUrl": "http://vocab.performing-arts.ch/accessionNumber"
       },
       {
-        "titles": "Standort"
+        "titles": "Standort",
+        "propertyUrl": "http://vocab.performing-arts.ch/sts_standort"
       },
       {
-        "titles": "Theaterbaumodell"
+        "titles": "Theaterbaumodell",
+        "propertyUrl": "http://vocab.performing-arts.ch/rc_hasDocumentaryForm"
       },
       {
-        "titles": "Versicherungswert"
+        "titles": "Versicherungswert",
+        "propertyUrl": "http://vocab.performing-arts.ch/insuranceValue"
       }
     ]
   }

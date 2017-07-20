@@ -1,72 +1,67 @@
-"Bemerkungen";"Buehnenbildmodell";"Buehnenbildner";"Buehnenbildrelief";"Masse";"Massstab";"RepertorienID";"Schachtel";"Schauplatz";"Signatur";"Standort";"Theaterbaumodell";"Versicherungswert"
-;"x";"Robert Furrer";;"45 x 70 x 66 ";;"80020193811031";;;"1900.078";"7-4-h";;3000
-;"x";"Max Bignens";;"52 x 57 x 62";;"30010194401311";;"Drehbühne";"1900.090";"4-Ausstellung STS";;4000
-"Drehbühne. Total 6 Fotografien auf 2 Datensätze verteilt";"x";"Max Bignens";;"38 x 55 x 55";;"30010194509051";;;"1900.094";"7-6-vo";;2000
-;"x";"Eduard Gunzinger";;"51 x 62 x 46";;"40010194904231";;;"1900.103";"7-4-vo";;2500
-;"x";"Heinrich Müller";;"36 x 69 x 57";;"30010195010201";;;"1900.121";"6-4-vm";;1500
-;"x";"Jörg Zimmermann";;"29 x 61 x 44";;"80020196709071";;;"1967.001";"7-5-h";;2000
-;"x";"Kony Müller";;"28 x 43 x 47";"1 : 20";"84020197411201";;;"1974.001";"6-3-vm";;2000
-;"x";"Marietta Eggmann";;"36 x 83 x 41";;"30040196902161";;;"1981.001";"6-3-vm";;2000
-"Premiere Solothurn: 20.9.94; Premiere Biel: 22.9.94";"x";"Andreas Tschui";;"40 x 29 x 32";;"25010199409201";"1995:01";;"1995.003";"Aussenlager Hodlerstrasse Raum B L-1";;
-"x";;"Ary Oechslin";"x";;;"30010196801201";;"Fichtelgebirge";"1979.001";;;
-"x";;"Ary Oechslin";"x";;;"30010197105061";;"An einem Brunnen?";"1979.002";;;
-"x";;"Ary Oechslin";"x";;;"30010196811041";;"III. Akt: Auf dem Schiff.";"1979.003";;;
-"x";;"Ary Oechslin";"x";;;"30010197110241";;"Zwischenvorhang";"1979.005";;;
-"x";;"Ary Oechslin";"x";;;"30010196709031";;"I.1./II.3./III.1.,6: Eine Strasse oder III.2: Vor Hastings Haus oder III.3: Zu Pomfret vor der Burg oder III.3: Der Hof in Booynards Schloss oder V.1: Salisbury, ein offener Platz?";"1979.006";;;
-"x";"x";"Ary Oechslin";;"25 x 32 x 27";;"30020195910011";;"Zimmer beim Musikus oder Ein sehr prächtiger Saal bei der Lady?";"1900.119";"6-7-vu";;1500
-;"x";"Ary Oechslin";;;;"30010197309151";;"Die Bühne bleibt Bühne: rechts Freitreppe in chinesischer Manier, links Sesselgruppe in moderner Manier.";"1979.008";"6-9-vm";;
-"x";"x";"Ary Oechslin";;"19 x 41 x 31";;"30020196204261";;"5./8./10./12. Bild: Platz von Andorra. (ev. Grundbau)";"1979.009";"7-5-vo";;1000
-;"x";"Ary Oechslin";;;;"30010197209241";;"II. Akt: Schenke des Lillas Pastia.";"1979.010";"6-7-vm";;
-;"x";"Ary Oechslin";;"30 x 53 x 45";;"30010196812141";;"Auftritt 1-24: Schlachtfeld bei Troja.";"1979.011";"7-8-vo";;2000
-"x";"x";"Ary Oechslin";;"37 x 52 x 35";;"30010196704251";;"III.1.";"1979.012";"7-9-vo";;1500
-;"x";"Ary Oechslin";;;;"30010197102281";;"Grundbau?";"1979.013";"7-3-vm";;
-;"x";"Ary Oechslin";;"37 x 55 x 51";;"30010196806091";;"I. Akt: Galerie in Créons Palast.";"1979.014";"7-9-vm";;2000
-;;"Ary Oechslin";;;;"30010197504061";;"Bühnenskulptur: ""Hitler-Vogelscheuche“";"1979.015";"7-1-v";;
-;"x";"Kony Müller";;"30 x 44 x 45";"1 : 50";"40030198205241";;;"1982.001";"Aussenlager Hodlerstrasse Raum B Q-3-V";;2000
-;"x";"Kony Müller";;"32 x 43 x 47";"1 : 20";"84020197610251";;;"1976.001";;;2000
-;"x";"Markus Schmid";;"19 x 46 x 49";;"84020199106291";"2000:05";"B01";"1998.001";"Aussenlager Hodlerstrasse Raum B Q-3-H";;1000
-;"x";"Markus Schmid";;"24 x 44 x 36";;"84020199209301";"2000:05";"B03";"1998.003";"Aussenlager Hodlerstrasse Raum B Q-3-H";;1000
-;"x";"Markus Schmid";;"21 x 39 x 41";;"84020199303141";"2000:04";"B04";"1998.004";"Aussenlager Hodlerstrasse Raum B Q-1";;1500
-;"x";"Andreas Tschui";;"19 x 43 x 31";;"84020198610181";"2000:08";"B10";"1999.006";"Aussenlager Hodlerstrasse Raum B Q-3-H";;1500
-;"x";"Andreas Tschui";;"16 x 41 x 21";;"25010197403021";"2000:08";"B11";"1999.007";"Aussenlager Hodlerstrasse Raum B Q-3-H";;1000
-;"x";"Andreas Tschui";;"20 x 36 x 36";;"84020198509181";"2000:03";"B12";"1999.008";"Aussenlager Hodlerstrasse Raum B Q-1";;1500
-;"x";"Andreas Tschui";;"33 x 47 x 31";;"40030198205281";"2000:09";"B13";"1999.009";"Aussenlager Hodlerstrasse Raum B Q-3-H";;1500
-;"x";"Andreas Tschui";;"30 x 51 x 37";;"84020199509291";"2000:06";"B15";"1999.012";"Aussenlager Hodlerstrasse Raum B Q-3-H";;1500
-;"x";"Andreas Tschui";;"25 x 45 x 46";;"84020198410261";"2000:08";"B16";"1999.013";"Aussenlager Hodlerstrasse Raum B Q-3-H";;1500
-;"x";"Andreas Tschui";;"33 x 57 x 46";;"40010198410211";"2000:07";;"1999.014";"Aussenlager Hodlerstrasse Raum B Q-3-V";;2000
-;"x";"Andreas Tschui";;"22 x 39 x 39";;"84020199711221";"2000:01";;"1999.011";"Aussenlager Hodlerstrasse Raum B Q-1";;2000
-"leicht beschädigt (Palme geknickt), Inventur 08/2012";"x";"Andreas Tschui";;"21 x 32 x 29";;"90010198402251";"2000:01";;"1999.015";"Aussenlager Hodlerstrasse Raum B Q-1";;1500
-;"x";"Andreas Tschui";;"27 x 41 x 29";;"25010197509261";"2000:07";;"1999.016";"Aussenlager Hodlerstrasse Raum B Q-3-V";;1500
-;"x";"Andreas Tschui";;"26 x 44 x 31";;"25010199012211";"2000:07";;"1999.017";"Aussenlager Hodlerstrasse Raum B Q-3-V";;1500
-;"x";"Andreas Tschui";;"28 x 62 x 35";;"90010199010261";"2000:12
-";;"1999.018";"Aussenlager Hodlerstrasse Raum B Q-3-H";;1500
-;"x";"Manfred Schröter";;"14 x 32 x 20";"1 : 20";"30010198402221";;;"1984.001";"6-6-vm";;1000
-;"x";"Ary Oechslin";;"33 x 42 x 41";;"30010197104021";;;"1979.007";;;1500
-"x";"x";"Kony Müller";;"25 x 50 x 30";"1:20";"25010198802051";;;"1988.033";;;2000
-;;"Werner Hutterli";;"54 x 56 x 112";;"30010198006051";;;"1980.006";"6-Ausstellung STS";"x";5000
-;;"Herbert Wernicke";;"55 x 89 x 54";;"40030199712311";;;"1997.001";"7-Ausstellung STS";;5000
-;;"Toni Businger";;"53 x 95 x 80";;"80010197606161";;;"1976.006";"4-Ausstellung STS";;3500
-;"x";"Ruodi Barth";;"26 x 49 x 55";;"80020196902201";;;"1969.001";"7-3-vm";;1500
-;"x";"Andreas Tschui";;"23 x 31 x 29";;"25010199302271";"2000:09";;"1999.019";"Aussenlager Hodlerstrasse Raum B Q-3-H";;1000
-;"x";"Andreas Tschui";;;;"84020199509291";"2000:12";;"1999.021";"Aussenlager Hodlerstrasse Raum B Q-3-H";;2000
-;;"Peter Bissegger";;"18 x 32 x 30";"1 : 25";"84020198911301";;;"1989.001";"9-8-vo";;1000
-"Aus ausstellungstechnischen Gründen eineinhalbfach vergrösserter Nachbau duch Martin Dreier (Ausstellung «Heureka», Zürich 1991)
-
-";;"Peter Bissegger";;"26 x 46 x 46";"1 : 16 2/3";"84020198911301";;;"1989.002";"9-8-v";;1500
-;"x";"Kony Müller";;"32 x 43 x 47";"1 : 20";"84020197610251";;;"1976.002";;;2000
-;"x";"Kony Müller";;"32 x 43 x 47";"1 : 20";"84020197610251";;"Menagerie Himmelmeier";"1976.003";;;2000
-;"x";"Kony Müller";;"32 x 43 x 47";"1 : 20";"84020197610251";;"Kinderzirkus in der leeren Scheune";"1976.004";;;2000
-;"x";"Kony Müller";;"32 x 43 x 47";"1 : 20";"84020197610251";;"Scapin";"1976.005";;;2000
-;"x";"Kony Müller";;"25 x 40 x 43";;"84020197710261";;;"1977.001";;;2000
-;;"Manfred Schröter";;;;"30010198201241";;;"1982.003";;;3000
-;"x";"Bernard Arnould";;;;"00010199104131";;;"1987.007";;;
-;"x";"Manfred Schröter";;"47 x 83 x 66";;"30010198201151";;;"1982.002";"9-1-v";;3500
-;"x";"Andreas Tschui";;"51 x 105 x 51";;"00010199111261";;;"1987.006";"Aussenlager Hodlerstrasse Raum B Q-2-V";;3000
-;"x";"Jean-Claude Maret";;"57 x 89 x 62";;"30010198809241";;;"1988.034";"Aussenlager Hodlerstrasse Raum B Q-2-V";;3000
-;"x";"Manfred Schröter";;"33 x 62 x 62";;"30010198101161";;;"1981.002";"Aussenlager Hodlerstrasse Raum B Q-3-H";;
-"""Ausgelagert (Bahnstrasse) 11.5.09 "" : bei Inventur Aug. 2012 im Aussenlager Hodlerstrasse nicht gefunden";"x";"Manfred Schröter";;;;"30010198003141";;;"1980.008";;;
-;"x";"Manfred Schröter";;;;"300011980050401";;;"1980.007";;;
-;"x";"Manfred Schröter";;;;"300011981050301";;;"1981.003";;;
-"Drehbühne. Total 6 Fotografien auf 2 Datensätze verteilt";"x";"Max Bignens";;"38 x 55 x 55";;"30010194509051";;"(Fortsetzung)";"1900.094-1";"7-6-vo";;2000
-"Bild provisorisch!";"x";"Max Röthlisberger";;;;"800011969110801";;;"1969.003";"Aussenlager Hodlerstrasse Raum B Q-1";;
-;"x";"Max Röthlisberger";;;;"800011978100101";;;"1978.001";"Aussenlager Hodlerstrasse Raum B Q-1";;
+Bemerkungen,Buehnenbildmodell,Buehnenbildner,Buehnenbildrelief,Masse,Massstab,RepertorienID,Schachtel,Schauplatz,Signatur,Standort,Theaterbaumodell,Versicherungswert
+,x,Robert Furrer,,45 x 70 x 66,,800201938110301,,,1900.078,7-4-h,,3000
+,x,Max Bignens,,52 x 57 x 62,,300101944013101,,Drehbühne,1900.090,4-Ausstellung STS,,4000
+Drehbühne. Total 6 Fotografien auf 2 Datensätze verteilt,x,Max Bignens,,38 x 55 x 55,,300101945090501,,,1900.094,7-6-vo,,2000
+,x,Eduard Gunzinger,,51 x 62 x 46,,400101949042301,,,1900.103,7-4-vo,,2500
+,x,Heinrich Müller,,36 x 69 x 57,,300101950102001,,,1900.121,6-4-vm,,1500
+,x,Jörg Zimmermann,,29 x 61 x 44,,800201967090701,,,1967.001,7-5-h,,2000
+,x,Kony Müller,,28 x 43 x 47,1 : 20,840201974112001,,,1974.001,6-3-vm,,2000
+,x,Marietta Eggmann,,36 x 83 x 41,,300401969021601,,,1981.001,6-3-vm,,2000
+Premiere Solothurn: 20.9.94; Premiere Biel: 22.9.94,x,Andreas Tschui,,40 x 29 x 32,,250101994092001,1995:01,,1995.003,Aussenlager Hodlerstrasse Raum B L-1,,
+x,,Ary Oechslin,x,,,300101968012001,,Fichtelgebirge,1979.001,,,
+x,,Ary Oechslin,x,,,300101971050601,,An einem Brunnen?,1979.002,,,
+x,,Ary Oechslin,x,,,300101968110401,,III. Akt: Auf dem Schiff.,1979.003,,,
+x,,Ary Oechslin,x,,,300101971102401,,Zwischenvorhang,1979.005,,,
+x,,Ary Oechslin,x,,,300101967090301,,"I.1./II.3./III.1.,6: Eine Strasse oder III.2: Vor Hastings Haus oder III.3: Zu Pomfret vor der Burg oder III.3: Der Hof in Booynards Schloss oder V.1: Salisbury, ein offener Platz?",1979.006,,,
+x,x,Ary Oechslin,,25 x 32 x 27,,300201959100101,,Zimmer beim Musikus oder Ein sehr prächtiger Saal bei der Lady?,1900.119,6-7-vu,,1500
+,x,Ary Oechslin,,,,300101973091501,,"Die Bühne bleibt Bühne: rechts Freitreppe in chinesischer Manier, links Sesselgruppe in moderner Manier.",1979.008,6-9-vm,,
+x,x,Ary Oechslin,,19 x 41 x 31,,300201962042601,,5./8./10./12. Bild: Platz von Andorra. (ev. Grundbau),1979.009,7-5-vo,,1000
+,x,Ary Oechslin,,,,300101972092401,,II. Akt: Schenke des Lillas Pastia.,1979.010,6-7-vm,,
+,x,Ary Oechslin,,30 x 53 x 45,,300101968121401,,Auftritt 1-24: Schlachtfeld bei Troja.,1979.011,7-8-vo,,2000
+x,x,Ary Oechslin,,37 x 52 x 35,,300101967042501,,III.1.,1979.012,7-9-vo,,1500
+,x,Ary Oechslin,,,,300101971022801,,Grundbau?,1979.013,7-3-vm,,
+,x,Ary Oechslin,,37 x 55 x 51,,300101968060901,,I. Akt: Galerie in Créons Palast.,1979.014,7-9-vm,,2000
+,,Ary Oechslin,,,,300101975040601,,"Bühnenskulptur: ""Hitler-Vogelscheuche“",1979.015,7-1-v,,
+,x,Kony Müller,,30 x 44 x 45,1 : 50,400301982052401,,,1982.001,Aussenlager Hodlerstrasse Raum B Q-3-V,,2000
+,x,Kony Müller,,32 x 43 x 47,1 : 20,840201976102501,,,1976.001,,,2000
+,x,Markus Schmid,,19 x 46 x 49,,840201991062901,2000:05,B01,1998.001,Aussenlager Hodlerstrasse Raum B Q-3-H,,1000
+,x,Markus Schmid,,24 x 44 x 36,,840201992093001,2000:05,B03,1998.003,Aussenlager Hodlerstrasse Raum B Q-3-H,,1000
+,x,Markus Schmid,,21 x 39 x 41,,840201993031401,2000:04,B04,1998.004,Aussenlager Hodlerstrasse Raum B Q-1,,1500
+,x,Andreas Tschui,,19 x 43 x 31,,840201986101801,2000:08,B10,1999.006,Aussenlager Hodlerstrasse Raum B Q-3-H,,1500
+,x,Andreas Tschui,,16 x 41 x 21,,250101974030201,2000:08,B11,1999.007,Aussenlager Hodlerstrasse Raum B Q-3-H,,1000
+,x,Andreas Tschui,,20 x 36 x 36,,840201985091801,2000:03,B12,1999.008,Aussenlager Hodlerstrasse Raum B Q-1,,1500
+,x,Andreas Tschui,,33 x 47 x 31,,400301982052801,2000:09,B13,1999.009,Aussenlager Hodlerstrasse Raum B Q-3-H,,1500
+,x,Andreas Tschui,,30 x 51 x 37,,840201995092901,2000:06,B15,1999.012,Aussenlager Hodlerstrasse Raum B Q-3-H,,1500
+,x,Andreas Tschui,,25 x 45 x 46,,840201984102601,2000:08,B16,1999.013,Aussenlager Hodlerstrasse Raum B Q-3-H,,1500
+,x,Andreas Tschui,,33 x 57 x 46,,400101984102101,2000:07,,1999.014,Aussenlager Hodlerstrasse Raum B Q-3-V,,2000
+,x,Andreas Tschui,,22 x 39 x 39,,840201997112201,2000:01,,1999.011,Aussenlager Hodlerstrasse Raum B Q-1,,2000
+"leicht beschädigt (Palme geknickt), Inventur 08/2012",x,Andreas Tschui,,21 x 32 x 29,,900101984022501,2000:01,,1999.015,Aussenlager Hodlerstrasse Raum B Q-1,,1500
+,x,Andreas Tschui,,27 x 41 x 29,,250101975092601,2000:07,,1999.016,Aussenlager Hodlerstrasse Raum B Q-3-V,,1500
+,x,Andreas Tschui,,26 x 44 x 31,,250101990122101,2000:07,,1999.017,Aussenlager Hodlerstrasse Raum B Q-3-V,,1500
+,x,Andreas Tschui,,28 x 62 x 35,,900101990102601,2000:12,,1999.018,Aussenlager Hodlerstrasse Raum B Q-3-H,,1500
+,x,Manfred Schröter,,14 x 32 x 20,1 : 20,300101984022201,,,1984.001,6-6-vm,,1000
+,x,Ary Oechslin,,33 x 42 x 41,,300101971040201,,,1979.007,,,1500
+x,x,Kony Müller,,25 x 50 x 30,1:20,250101988020501,,,1988.033,,,2000
+,,Werner Hutterli,,54 x 56 x 112,,300101980060501,,,1980.006,6-Ausstellung STS,x,5000
+,,Herbert Wernicke,,55 x 89 x 54,,400301997123101,,,1997.001,7-Ausstellung STS,,5000
+,,Toni Businger,,53 x 95 x 80,,800101976061601,,,1976.006,4-Ausstellung STS,,3500
+,x,Ruodi Barth,,26 x 49 x 55,,800201969022001,,,1969.001,7-3-vm,,1500
+,x,Andreas Tschui,,23 x 31 x 29,,250101993022701,2000:09,,1999.019,Aussenlager Hodlerstrasse Raum B Q-3-H,,1000
+,x,Andreas Tschui,,,,840201995092901,2000:12,,1999.021,Aussenlager Hodlerstrasse Raum B Q-3-H,,2000
+,,Peter Bissegger,,18 x 32 x 30,1 : 25,840201989113001,,,1989.001,9-8-vo,,1000
+"Aus ausstellungstechnischen Gründen eineinhalbfach vergrösserter Nachbau duch Martin Dreier (Ausstellung «Heureka», Zürich 1991)",,Peter Bissegger,,26 x 46 x 46,1 : 16 2/3,840201989113001,,,1989.002,9-8-v,,1500
+,x,Kony Müller,,32 x 43 x 47,1 : 20,840201976102501,,,1976.002,,,2000
+,x,Kony Müller,,32 x 43 x 47,1 : 20,840201976102501,,Menagerie Himmelmeier,1976.003,,,2000
+,x,Kony Müller,,32 x 43 x 47,1 : 20,840201976102501,,Kinderzirkus in der leeren Scheune,1976.004,,,2000
+,x,Kony Müller,,32 x 43 x 47,1 : 20,840201976102501,,Scapin,1976.005,,,2000
+,x,Kony Müller,,25 x 40 x 43,,840201977102601,,,1977.001,,,2000
+,,Manfred Schröter,,,,300101982012401,,,1982.003,,,3000
+,x,Manfred Schröter,,47 x 83 x 66,,300101982011501,,,1982.002,9-1-v,,3500
+,x,Jean-Claude Maret,,57 x 89 x 62,,300101988092401,,,1988.034,Aussenlager Hodlerstrasse Raum B Q-2-V,,3000
+,x,Manfred Schröter,,33 x 62 x 62,,300101981011601,,,1981.002,Aussenlager Hodlerstrasse Raum B Q-3-H,,
+"""Ausgelagert (Bahnstrasse) 11.5.09 "" : bei Inventur Aug. 2012 im Aussenlager Hodlerstrasse nicht gefunden",x,Manfred Schröter,,,,300101980031401,,,1980.008,,,
+,x,Manfred Schröter,,,,300011980050401,,,1980.007,,,
+,x,Manfred Schröter,,,,300011981050301,,,1981.003,,,
+Drehbühne. Total 6 Fotografien auf 2 Datensätze verteilt,x,Max Bignens,,38 x 55 x 55,,300101945090501,,(Fortsetzung),1900.094-1,7-6-vo,,2000
+Bild provisorisch!,x,Max Röthlisberger,,,,800011969110801,,,1969.003,Aussenlager Hodlerstrasse Raum B Q-1,,
+,x,Max Röthlisberger,,,,800011978100101,,,1978.001,Aussenlager Hodlerstrasse Raum B Q-1,,

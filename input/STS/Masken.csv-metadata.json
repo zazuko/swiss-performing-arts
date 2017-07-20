@@ -4,28 +4,42 @@
   "tableSchema": {
     "columns": [
       {
-        "titles": "Bemerkungen"
+        "titles": "Bemerkungen",
+        "propertyUrl": "http://vocab.performing-arts.ch/generalNote"
       },
       {
-        "titles": "Figur"
+        "titles": "Figur",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasSubject"
       },
       {
-        "titles": "Maskenbildner"
+        "titles": "Maskenbildner",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasCreator"
       },
       {
-        "titles": "Masse"
+        "titles": "Masse",
+        "propertyUrl": "http://vocab.performing-arts.ch/dimensions"
       },
       {
-        "titles": "Material"
+        "titles": "Material",
+        "propertyUrl": "http://vocab.performing-arts.ch/materialUsed"
       },
       {
-        "titles": "RepertorienID"
+        "titles": "RepertorienID",
+        "propertyUrl": "http://vocab.performing-arts.ch/hasSubject",
+        "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertoirenID}"
       },
       {
-        "titles": "Signatur"
+        "titles": "Signatur",
+        "propertyUrl": "http://vocab.performing-arts.ch/accessionNumber"
       },
       {
-        "titles": "Versicherungswert"
+        "titles": "Versicherungswert",
+        "propertyUrl": "http://vocab.performing-arts.ch/insuranceValue"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "rdf:type",
+        "valueUrl": "http://vocab.performing-arts.ch/E5_Mask"
       }
     ]
   }

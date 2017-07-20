@@ -4,31 +4,41 @@
   "tableSchema": {
     "columns": [
       {
-        "titles": "Bemerkungen"
+        "titles": "Bemerkungen",
+        "propertyUrl": "http://vocab.performing-arts.ch/generalNote"
       },
       {
-        "titles": "Drucker"
+        "titles": "Drucker",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasPrinter"
       },
       {
-        "titles": "Grafiker"
+        "titles": "Grafiker",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasDesigner"
       },
       {
-        "titles": "Masse"
+        "titles": "Masse",
+        "propertyUrl": "http://vocab.performing-arts.ch/dimensions"
       },
       {
-        "titles": "Plakatart"
+        "titles": "Plakatart",
+        "propertyUrl": "http://vocab.performing-arts.ch/rc_type"
       },
       {
-        "titles": "RepertorienID"
+        "titles": "RepertorienID",
+        "propertyUrl": "http://vocab.performing-arts.ch/hasSubject",
+        "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertoirenID}"
       },
       {
-        "titles": "Signatur"
+        "titles": "Signatur",
+        "propertyUrl": "http://vocab.performing-arts.ch/accessionNumber"
       },
       {
-        "titles": "Technik"
+        "titles": "Technik",
+        "propertyUrl": "http://vocab.performing-arts.ch/productionTechnique"
       },
       {
-        "titles": "Verso"
+        "titles": "Verso",
+        "propertyUrl": "http://vocab.performing-arts.ch/sts_verso"
       }
     ]
   }
