@@ -1,0 +1,13 @@
+{
+  "name": "swiss-performing-arts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zazuko/swiss-performing-arts.git"
+  },
+  "dependencies": {
+    "barnard59": "git+ssh://github.com/zazuko/barnard59.git#master"
+  }
+}
