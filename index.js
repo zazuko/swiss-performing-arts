@@ -1,7 +1,7 @@
 const p = require('barnard59')
 
 p.run(() => {
-  p.shell.mkdir('-p', 'output/STS/')
+  p.shell.mkdir('-p', 'target/STS/')
 
   return p.rdf.dataset().import(p.file.read('input/STS/Entwuerfe.csv-metadata.json').pipe(p.jsonld.parse()))
 }).then((metadata) => {
@@ -10,7 +10,7 @@ p.run(() => {
       metadata: metadata
     }))
     .pipe(p.ntriples.serialize())
-    .pipe(p.file.write('output/STS/Entwuerfe.nt'))
+    .pipe(p.file.write('target/STS/Entwuerfe.nt'))
 }).then(() => {
   console.log('done')
 }).catch((err) => {

@@ -145,91 +145,91 @@
       },
       {
         "titles": "PHeft_TS",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_pheftTs"
       },
       {
         "titles": "PHeftEingang_TS",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_pheftEingangTs"
       },
       {
         "titles": "PHeftNr_TS",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_pheftNrTs"
       },
       {
         "titles": "Plakat",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasPosterDesigner"
       },
       {
         "titles": "Plakat_TS",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_plakatTs"
       },
       {
         "titles": "Premierenart",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/premiereType"
       },
       {
         "titles": "Premierendatum",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/firstPerformanceDate"
       },
       {
         "titles": "ProdNummer",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_prodNummer"
       },
       {
         "titles": "ProdTruppe",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/officialName"
       },
       {
         "titles": "Projektion",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasProjectionDesigner"
       },
       {
         "titles": "Regie",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasStageDirector"
       },
       {
         "titles": "Regieassistenz",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasAssistantStageDirector"
       },
       {
         "titles": "RepertorienID",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_repertorienId"
       },
       {
         "titles": "Spielort",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_spielort"
       },
       {
         "titles": "Spielzeit",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasDate"
       },
       {
         "titles": "StabDiv",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasContributor"
       },
       {
         "titles": "Textautor",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_textautor"
       },
       {
         "titles": "Theatercode",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_theatercode"
       },
       {
         "titles": "Ton",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasSoundDesigner"
       },
       {
         "titles": "Uebersetzer",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasTranslator"
       },
       {
         "titles": "Video",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasVideoDesigner"
       },
       {
         "titles": "Werktitel",
-        "propertyUrl": "http://vocab.performing-arts.ch/ausstatter"
+        "propertyUrl": "http://vocab.performing-arts.ch/title"
       }
     ]
   }
