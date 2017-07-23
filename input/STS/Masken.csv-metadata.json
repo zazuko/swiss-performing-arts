@@ -2,6 +2,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "Masken.csv",
   "tableSchema": {
+    "aboutUrl": "http://data.performing-arts.ch/sts/masken/{tempID}",
     "columns": [
       {
         "titles": "Bemerkungen",

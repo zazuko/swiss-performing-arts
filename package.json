@@ -8,6 +8,6 @@
     "url": "git://github.com/zazuko/swiss-performing-arts.git"
   },
   "dependencies": {
-    "barnard59": "git+ssh://github.com/zazuko/barnard59.git#master"
+    "barnard59": "git+ssh://git@github.com/zazuko/barnard59.git#master"
   }
 }

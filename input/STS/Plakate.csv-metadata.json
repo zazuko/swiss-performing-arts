@@ -2,6 +2,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "Plakate.csv",
   "tableSchema": {
+    "aboutUrl": "http://data.performing-arts.ch/sts/plakate/{tempID}",
     "columns": [
       {
         "titles": "Bemerkungen",

@@ -2,6 +2,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "RepProfi.csv",
   "tableSchema": {
+    "aboutUrl": "http://data.performing-arts.ch/sts/repprofi/{RepertoirenID}",
     "columns": [
       {
         "titles": "AnzAkte",
@@ -29,19 +30,19 @@
       },
       {
         "titles": "AV_Dokumente_TS",
-        "propertyUrl": "http://vocab.performing-arts.ch/r_isSubjectOf"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_isSubjectOf1"
       },
       {
         "titles": "BbEntwurf_TS",
-        "propertyUrl": "http://vocab.performing-arts.ch/r_isSubjectOf"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_isSubjectOf2"
       },
       {
         "titles": "BbModell_TS",
-        "propertyUrl": "http://vocab.performing-arts.ch/r_isSubjectOf"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_isSubjectOf3"
       },
       {
         "titles": "Bearbeiter",
-        "propertyUrl": "http://vocab.performing-arts.ch/r_hasContributor"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasContributor1"
       },
       {
         "titles": "Bearbeitet_von",
@@ -109,7 +110,7 @@
       },
       {
         "titles": "Fotos_TS",
-        "propertyUrl": "http://vocab.performing-arts.ch/t_contentExtent"
+        "propertyUrl": "http://vocab.performing-arts.ch/t_contentExtent1"
       },
       {
         "titles": "Gattung",
@@ -133,7 +134,7 @@
       },
       {
         "titles": "Negative_TS",
-        "propertyUrl": "http://vocab.performing-arts.ch/t_contentExtent"
+        "propertyUrl": "http://vocab.performing-arts.ch/t_contentExtent2"
       },
       {
         "titles": "Originaltitel",
@@ -205,7 +206,7 @@
       },
       {
         "titles": "StabDiv",
-        "propertyUrl": "http://vocab.performing-arts.ch/r_hasContributor"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasContributor2"
       },
       {
         "titles": "Textautor",

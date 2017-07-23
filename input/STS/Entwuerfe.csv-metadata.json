@@ -5,7 +5,7 @@
     "delimiter": ","
   },
   "tableSchema": {
-    "aboutUrl": "http://data.performing-arts.ch/sts/entwuerfe/{RepertoirenID}",
+    "aboutUrl": "http://data.performing-arts.ch/sts/entwuerfe/{tempID}",
     "columns": [
       {
         "titles": "Ausstatter",
