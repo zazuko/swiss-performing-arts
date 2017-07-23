@@ -9,6 +9,7 @@ function convertCsvw (filename) {
   return p.rdf.dataset().import(p.file.read(filenameMetadata).pipe(p.jsonld.parse())).then((metadata) => {
     p.file.read(filenameInput)
       .pipe(p.csvw.parse({
+        baseIRI: 'file://' + filename,
         metadata: metadata
       }))
       .pipe(p.ntriples.serialize())
