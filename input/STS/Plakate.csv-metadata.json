@@ -22,7 +22,7 @@
       },
       {
         "titles": "Plakatart",
-        "propertyUrl": "http://vocab.performing-arts.ch/rc_type"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_type"
       },
       {
         "titles": "RepertorienID",
@@ -39,7 +39,7 @@
       },
       {
         "titles": "Verso",
-        "propertyUrl": "http://vocab.performing-arts.ch/sts_verso"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_verso"
       },
       {
         "virtual": true,

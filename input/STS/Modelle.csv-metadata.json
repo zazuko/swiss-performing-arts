@@ -35,7 +35,7 @@
       },
       {
         "titles": "Schachtel",
-        "propertyUrl": "http://vocab.performing-arts.ch/sts_inSchachtelNr"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_inSchachtelNr"
       },
       {
         "titles": "Schauplatz",
@@ -47,11 +47,11 @@
       },
       {
         "titles": "Standort",
-        "propertyUrl": "http://vocab.performing-arts.ch/sts_standort"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_standort"
       },
       {
         "titles": "Theaterbaumodell",
-        "propertyUrl": "http://vocab.performing-arts.ch/rc_hasDocumentaryForm"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_hasDocumentaryForm"
       },
       {
         "titles": "Versicherungswert",

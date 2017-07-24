@@ -34,7 +34,7 @@
       },
       {
         "titles": "Schachtel",
-        "propertyUrl": "http://vocab.performing-arts.ch/sts_inSchachtelNr"      },
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_inSchachtelNr"      },
       {
         "titles": "Schauplatz",
         "propertyUrl": "http://vocab.performing-arts.ch/depictedScene"
