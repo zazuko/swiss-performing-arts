@@ -2,7 +2,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "RepProfi.csv",
   "tableSchema": {
-    "aboutUrl": "http://data.performing-arts.ch/sts/repprofi/{RepertoirenID}",
+    "aboutUrl": "http://data.performing-arts.ch/sts/repprofi/{RepertorienID}",
     "columns": [
       {
         "titles": "AnzAkte",
@@ -231,6 +231,11 @@
       {
         "titles": "Werktitel",
         "propertyUrl": "http://vocab.performing-arts.ch/title"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "rdf:type",
+        "valueUrl": "http://vocab.performing-arts.ch/E9"
       }
     ]
   }

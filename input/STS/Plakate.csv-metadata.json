@@ -40,6 +40,11 @@
       {
         "titles": "Verso",
         "propertyUrl": "http://vocab.performing-arts.ch/sts_verso"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "rdf:type",
+        "valueUrl": "http://vocab.performing-arts.ch/E5"
       }
     ]
   }

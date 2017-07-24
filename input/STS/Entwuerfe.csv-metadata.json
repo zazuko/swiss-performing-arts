@@ -9,7 +9,7 @@
     "columns": [
       {
         "titles": "Ausstatter",
-        "propertyUrl": "http://vocab.performing-arts.ch/hasDesigner"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasDesigner"
       },
       {
         "titles": "Bemerkungen",
@@ -25,11 +25,11 @@
       },
       {
         "titles": "Figurine",
-        "propertyUrl": "http://vocab.performing-arts.ch/r_hasSubject"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasSubject1"
       },
       {
         "titles": "RepertoirenID",
-        "propertyUrl": "http://vocab.performing-arts.ch/hasSubject",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasSubject2",
         "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertoirenID}"
       },
       {

@@ -56,6 +56,11 @@
       {
         "titles": "Versicherungswert",
         "propertyUrl": "http://vocab.performing-arts.ch/insuranceValue"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "rdf:type",
+        "valueUrl": "http://vocab.performing-arts.ch/E5"
       }
     ]
   }
