@@ -234,7 +234,7 @@
       },
       {
         "virtual": true,
-        "propertyUrl": "rdf:type",
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
         "valueUrl": "http://vocab.performing-arts.ch/E9"
       }
     ]
