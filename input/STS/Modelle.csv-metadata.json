@@ -10,7 +10,7 @@
       },
       {
         "titles": "Buehnenbildmodell",
-        "propertyUrl": "http://vocab.performing-arts.ch/r_hasDocumentaryForm"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_buehnenbildmodell"
       },
       {
         "titles": "Buehnenbildner",
@@ -18,7 +18,7 @@
       },
       {
         "titles": "Buehnenbildrelief",
-        "propertyUrl": "http://vocab.performing-arts.ch/rc_hasDocumentaryForm"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_buehnenbildrelief"
       },
       {
         "titles": "Masse",
@@ -31,7 +31,7 @@
       {
         "titles": "RepertorienID",
         "propertyUrl": "http://vocab.performing-arts.ch/hasSubject",
-        "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertoirenID}"
+        "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertorienID}"
       },
       {
         "titles": "Schachtel",
@@ -61,6 +61,11 @@
         "virtual": true,
         "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
         "valueUrl": "http://vocab.performing-arts.ch/E5"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://vocab.performing-arts.ch/E5_Modell"
       }
     ]
   }

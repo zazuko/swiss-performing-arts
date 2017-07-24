@@ -9,7 +9,7 @@
     "columns": [
       {
         "titles": "Ausstatter",
-        "propertyUrl": "http://vocab.performing-arts.ch/r_hasDesigner"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_isAssociatedWith"
       },
       {
         "titles": "Bemerkungen",
@@ -29,7 +29,7 @@
       },
       {
         "titles": "RepertoirenID",
-        "propertyUrl": "http://vocab.performing-arts.ch/r_hasSubject2",
+        "propertyUrl": "http://vocab.performing-arts.ch/hasSubject",
         "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertoirenID}"
       },
       {
@@ -55,6 +55,11 @@
         "virtual": true,
         "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
         "valueUrl": "http://vocab.performing-arts.ch/E5"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://vocab.performing-arts.ch/E5_Entwuerf"
       }
     ]
   }

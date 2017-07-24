@@ -2,7 +2,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "RepProfi.csv",
   "tableSchema": {
-    "aboutUrl": "http://data.performing-arts.ch/sts/repprofi/{RepertorienID}",
+    "aboutUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertorienID}",
     "columns": [
       {
         "titles": "AnzAkte",

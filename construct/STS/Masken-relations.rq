@@ -1,0 +1,33 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+WITH <http://example.com/sts>
+
+DELETE {
+  ?s ?spa_type ?concept .
+}
+INSERT { 
+	?s ?relationUri ?conceptUri .
+	
+  	?conceptUri a skos:Concept ;
+    	skos:prefLabel ?concept ;
+    	skos:inScheme ?schemeUri .
+ 
+    ?schemeUri a skos:ConceptScheme ;
+    	dct:title ?scheme . 
+}
+WHERE {
+    
+  ?s a <http://vocab.performing-arts.ch/E5_Maske> .
+  ?s ?spa_type ?concept .
+  
+  FILTER( ?spa_type IN( spav:r_hasSubject, spav:r_hasCreator ))
+
+  BIND(URI(CONCAT("http://data.performing-arts.ch/sts/concept/", ENCODE_FOR_URI(?concept))) AS ?conceptUri)
+  BIND( STRAFTER( STR(?spa_type), "http://vocab.performing-arts.ch/r_") AS ?scheme)
+  BIND( STRAFTER( STR(?spa_type), "http://vocab.performing-arts.ch/") AS ?schemeDirty)
+  BIND(URI(CONCAT("http://data.performing-arts.ch/scheme/", ENCODE_FOR_URI(?schemeDirty))) AS ?schemeUri)
+  BIND(URI(CONCAT("http://vocab.performing-arts.ch/", ENCODE_FOR_URI(?scheme))) AS ?relationUri)
+
+}
