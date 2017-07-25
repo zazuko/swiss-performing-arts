@@ -1,0 +1,29 @@
+ID_NR_Event, Name_Event,Name_Event_Alias,Attribute_Byline_Description,Ort ,Geodaten,Ablageort_STS,Kanton,Land,Webadresse,Adressen,Verband,Rep,Status,Eckdaten_nicht_STS,fruehere_Namen,spaetere_Namen,Dokumente_VP_V,Dokumente_VP_G,Dokumente_PA_V,Dokumente_PA_G
+EFRK_1,Charivari,Glaibasler Charivari,Vorfasnachtsveranstaltung,Basel,,Basel: Volkshaus,BS,CH,www.charivari.ch,,,,a,1976-,,,,,x,x
+EFRK_2,Drummeli,Monstre-Trommelkonzert,Vorfasnachtsveranstaltung,Basel,,Basel: Musical Theater Basel,BS,CH,x,,,,a,1906-,,,,,x,x
+EFRK_3,Fasnacht diverse,,,Basel,,Basel: Fasnacht Diverse,BS,CH,x,,,,a,x,,,,,2 C,1834-1979 (verinzelte) / 1981-
+EFRK_4,Fasnachtsbändeli,,Vorfasnachtsveranstaltung,Basel,,Basel: Theater Arlecchino,BS,CH,ww.theater-arlecchino.ch,,,,a,?,,,,,x,x
+EFRK_5,Fasnachtskiechli,,Vorfasnachtsveranstaltung,Basel,,Basel: SCALA,BS,CH,www.fasnachtskiechli.ch,,,,a,2008-,,,,,x,x
+EFRK_6,Mimösli,,Vorfasnachtsveranstaltung,Basel,,Basel: Häbse-Theater,BS,CH,www.haebse-theater.ch,,,,a,?,,,,,x,x
+EFRK_7,Ridicule,,Vorfasnachtsveranstaltung,Basel,,Basel: Förnbacher Theater,BS,CH,www.foernbacher.ch,,,,a,?,,,,,x,x
+EFRK_8,S'Pfyfferli,,Vorfasnachtsveranstaltung,Basel,,Basel: Theater Fauteuil,BS,CH,x,,,,a,?,,,,,x,x
+EFRK_9,Wirrlete,,Fasnachtsveranstaltung,Basel,,Basel: Theater Fauteuil,BS,CH,x,,,,na,2011-2015,,,,,x,x
+EFRK_10,Zofinger-Concärtli,,Fasnachtsveranstaltung,Basel,,Basel: Zofingia,BS,CH,www.zofingia-basel.ch,,,,a,?,,,,,x,x
+EFRK_11,Blätzbums-Opéra Birsfelden,,Vorfasnachtsveranstaltung,Birsfelden,,Birsfelden (nicht ZSV),BL,CH,www.blaetzbumsopera.ch,,RVNWS,,a,?,,,,,x,x
+EFRK_12,Kulturnacht Burgdorf,Burgdorfer Kulturnacht,Kulturnacht,Burgdorf,,Burgdorf,BE,CH,www.burgdorf.ch/kulturnacht.0.html,,,,a,2006-,,,,,1 C,(2015)-
+EFRK_13,La Revue de Corseaux,,Revue,Corseaux,,Corseaux,VD,CH,www.revuedecorseaux.ch,,x,,a,1973-,,,,,3 R <Sammelcouvert>,"(1991), 1993, 1997"
+EFRK_14,Fribug ,Revue satirique de Fribourg,Revue,Fribourg,,Fribourg,FR,CH,www.fribug.ch,,,,a,?,,,,,1 C ,"(2002), 2004, 2013, 2015"
+EFRK_15,La R'vue <Genêve>,La Revue  <Genêve>,Revue,Genève,,Genève: Casino-Théâtre (La Revue),GE,CH,www.larevue.ch,,,,a,1920-,,,,,1 S,(1932)-
+EFRK_16,Revue des Evaux,Revue au Moulin des Evaux,Revue,Genève,,Genève,GE,CH,x,,,,na,?,,,,,1 C,(1990)-(1994)
+EFRK_17,Langenthaler Kulturnacht,Kulturnacht Langenthal,Kulturnacht,Langenthal,,Langenthal,BE,CH,x,,,,a,?,,,,,1 R <Sammelcouvert>,(2014)-
+EFRK_18,Revue Le Locle,Zap Revue,Revue,Le Locle,,Le Locle: Cuche et Barbezat <siehe auch La Chaux-de-Fonds: Zap Théâtre>,NE,CH,x,,,,a,?,,,,,x,x
+EFRK_19,Kulturnacht Liestal,Liestaler Kulturnacht,Kulturnacht,Liestal,,Liestal,BL,CH,x,,,,a,?,,,,,x,x
+EFRK_20,Fritschi-Spiele,Fritschispiele,,Luzern,,Luzern,LU,CH,x,,x,,na,?,,,,,1 C,2002
+EFRK_21,Revue de Nyon,,Revue,Nyon,,Nyon,VD,CH,x,,x,,na,?,,,,,1 C,"(1985), (1986)"
+EFRK_22,revue Saintimania,,Revue,Saint-Imier,,Saint-Imier: revue Saintimania,BE,CH,www.saintimania.ch,,,,a,1995 (Erste Ausgabe)-,,,,,1 C,(2002)-
+EFRK_23,La Revue du Valais,,Revue,Saxon,,Saxon: Casino de Saxon,VS,CH,www.revueduvalais.ch,,,,a,?,,,,,x,x
+EFRK_24,Japanesenspiele,,Fastnachtspieltradition ; Freilichtspiel,Schwyz,,Schwyz (ZSV),SZ,CH,www.japanesen.ch,,,,a,1857-,,,,,,
+EFRK_25,Kulturnacht Solothurn,Solothurner Kulturnacht,Kulturnacht,Solothurn,,Solothurn,SO,CH,www.kulturnachtsolothurn.ch,,x,,a,?,,,,,1 R <Sammelcouvert>,(2011)-
+EFRK_26,La Revue de Thierrens,Cabaret du FC Thierrens,Revue,Thierrens,,Thierrens,VD,CH,x,,x,,a,?,,,,,3 R <Sammelcouvert>,"(1993), 1998, 2015"
+EFRK_27,Thuner Kulturnacht,Kulturnacht Thun,Kulturnacht,Thun,,Thun,BE,CH,www.kulturnacht.ch,,x,,a,2008-,,,,,x,x
+EFRK_28,Afrika! Afrika!,,"Show ; Zirkusrevue ; Heller, André",Wien,,Zürich,,A,www.afrikaafrika.de,,,,a,?,,,,,1 C,(2007)-(2009)

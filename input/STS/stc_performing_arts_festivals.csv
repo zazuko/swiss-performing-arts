@@ -1,0 +1,461 @@
+ID_NR_Event,Name_Event,Name_Event_Alias,Attribute_Byline_Description,Veranstalter,Theater_Klassifikation,Ort,Geodaten,Ablageort_STS,Kanton,Land,Webadresse,Adresse,Verband,Rep,Status,Eckdaten_nicht_STS,fruehere_Namen,spaetere_Namen,Dokumente_VP_V,Dokumente_VP_G,Dokumente_PA_V,Dokumente_PA_G
+EFES_1,"""Krönung""",,Kleinkunstfestival,Gong ; Kulturbau Winterthur ; Casino Theater Burgdorf ; Agentur für ansprechenden Unfug,FES VOK,Aador ; Burgdorf ; Winterthur,,Burgdorf: Casino Theater Burgdorf,BE,CH,www.die-kroenung.ch,,x,,a,?,,,,,x,x
+EFES_2,Cirqu',,Festival für aktuelle Zirkuskunst,Cirqu',FES,Aarau,,Aarau,AG,CH,www.cirquaarau.ch,,x,,a,2015-,,,1 R <Sammelcouvert>,(2017)-,,
+EFES_3,Klang-November,Klangnovember,,?,FES,Aarau,,Aarau ,AG,CH,x,,x,,a,(noch existent?),,,,,1 C <Sammelcouvert>,2004
+EFES_4,Kunstexpander,,interdisziplinäres Festival,x,FES,Aarau,,Aarau ,AG,CH,x,,x,,na,2005 / 2006 / 2008 / 2010,,,,,1 C <Sammelcouvert>,2005
+EFES_5,Jugend Theater Festival Schweiz,,,Jugend Theater Festival Schweiz,FES STK,<wechselnde Orte>,,Aarau,AG,CH,www.jugendtheaterfestival.ch,,x,,a,?,,,,,1 C,2015-
+EFES_6,Schachenfestival,,inkl. Sommernachtsfestspiele Mehrzweckhalle,x,x,Aarau,,Aarau: Schachen Aarau,AG,CH,x,,x,,na,?,,,,,1 C,1954-1957 / 1983 / 1986
+EFES_7,Schultheatertreffen Oberstufenschule Aarau,,,x,FES ATV,Aarau,,Aarau (Sammelvoucert),AG,CH,x,,x,,na,?,,,,,1 C <Sammelcouvert>,1994 / 2003 / 2009
+EFES_8,Theatertage Aarau,,,?,FES ATV,Aarau,,Aarau (ZSV),AG,CH,www.theatertage.ch,,x,,a,,Schweizer Volkstheatertage,,,,x,x
+EFES_9,Appenzeller Figurentheater-Festival,,,Appenzeller Figurentheater-Festival,FES STP,Appenzell,,Appenzell,AI,CH,www.appenzeller-figurentheater-festival.ch,,Unima,,a,2014-,,,,,1 R <Sammelcouvert>,(2014)-
+EFES_10,Appenzeller Kabarett-Tage,,,x,FES VOK,Appenzell,,Kabarett: Appenzell,AI,CH,x,,x,,na,1997?-,,,,,1 C,(2003)-(2014)
+EFES_11,Arosa Kultur,,,x,x,Arosa,,Arosa,GR,CH,x,,x,,na,?,, Arosa Musik Theater,,,x,x
+EFES_12,Arosa Humorfestival,Humorfestival Arosa; Arosa Humor-Festival,,Arosa Humorfestival,FES VOK,Arosa,,Kabarett: Arosa,GR,CH,www.humorfestival.ch,,x,,a,1992-,,,,,2 C,(1992)-
+EFES_13,Theaterkessel Arosa,,,x,FES,Arosa,,Arosa,GR,CH,x,,x,,na,?,,,,,1 C,(1998)-(1999)
+EFES_14,Festival internazionale di narrazione dei Paesi della Montagna,Festival di narrazione,,Festival internazionale di narrazione dei Paesi della Montagna,FES,Arzo,,Arzo,TI,CH,www.festivaldinarrazione.ch,,x,,a,2000?-,,,,,1 C,(2001)-
+EFES_15,Danzascona,,,x,FES STT,Ascona,,Ascona,TI,CH,x,,x,,na,?,Operascona,,,,1 C,(1992)-?
+EFES_16,Laban-Event,,,?,FES STT,Ascona,,Ascona,TI,CH,x,,x,,a,?,,,,,x,x
+EFES_17,Operascona ,,inkl. Monte Verità: Parsifal-Wiese,x,FES,Ascona,,Ascona,TI,CH,x,,x,,na,1989-,,<später auch:> Danzascona ,,,1 C,"(1985)-1991, 2000, 2001, 2002"
+EFES_18,Settimane Musicali di Ascona,,,Settimane Musicali di Ascona,FES,Ascona,,Ascona,TI,CH,www.settimane-musicali.ch,,x,,a,1946-,,,,,1 C,"(1983), 1987, 2001"
+EFES_19,Festival de la Côte,,,x,FES,Aubonne,,Aubonne,VD,CH,x,,x,,na,?,,,,,6 R <Sammelcouvert>,(1956)-(2003)
+EFES_20,Baden Magisch,,Internationales Festival der Magie,?,FES,Baden,,Baden,AG,CH,www.badenmagisch.ch,,x,,a,2007-,Magic Nights,,,,1 C,(2014)-
+EFES_21,Badenfahrt,,,?,FES,Baden,,Baden,AG,CH,www.badenfahrt.ch,,x,,a,1923-,,,,,1 C,1977 / 1980 / 1982 / 1987 / 1991 / 1997 / 2007
+EFES_22,Figura Theaterfestival,,"Internationale Biennale des Bilder-, Objekt- und Figurentheaters",Figura Theaterfestival,FES STP,Baden,,Baden,AG,CH,www.figura-festival.ch,,Unima,,a,1994-,,,,,2 C,1994-
+EFES_23,Jugentheatertreffen,,,x,FES STK,Baden,,Baden,AG,CH,x,,x,,na,?,,,,,1 C,"(1981), (1985)"
+EFES_24,Magic Nights,,,x,x,Baden,,Baden,AG,CH,x,,x,,na,?,,"Baden Magisch, Internationales Festival der Magie",,,1 R <Sammelcouvert>,1994
+EFES_25,Nacht des Theaters,,halle 36 ABB-Areal,x,FES,Baden,,Baden,BS,CH,x,,x,,na,1992,,,,,1 C,1992
+EFES_26,Opernspiele Baden,,,,,Baden,,Baden: Kurtheater,AG,CH,x,,x,,na,?,,,,,x,x
+EFES_27,Seniorentheaterfestival Baden,,,?,FES ATV,Baden,,Baden,AG,CH,x,,x,,a,"1992, 1996 (noch existent?)",,,,,x,x
+EFES_28,Kultursommer Balzers,,,Kultursommer Balzers,FES,Balzers,,Balzers,,FL,x,,x,,a,?,,,,,x,x
+EFES_29,Art Fair: Liste: Performing Projects,,,Art Fair,x,Basel,,Basel: Art Basel,BS,CH,www.liste.ch/en/the-show/performances.html,,x,,a,2005-,,,,,x,x
+EFES_30,Basler Schultheaterwoche,,,x,FES ATV,Basel,,Basel: Stadttheater: Kleine Bühne,BS,CH,x,,x,,na,?,,,,,x,x
+EFES_31,Culturescapes,,,Culturescapes,FES,Basel,,Basel,BS,CH,www.culturescapes.ch,,x,,a,2003?-,,,,,1 C,2006-
+EFES_32,Dalbeloch-Spektakel,Spektakel im Dalbeloch,,?,FES,Basel,,Basel,BS,CH,x,,x,,a,?,,,,,1 C,1987-(1983)
+EFES_33,Europäischer Musikmonat,,,x,FES,Basel u.a.,,Basel,BS,CH,x,,x,,na,2001,,,,,1 C,2001
+EFES_34,FigurenTheaterFestival Basel,Figurentheater-Festival Basel,,FigurenTheaterFestival Basel,FES STP,Basel,,Basel,BS,CH,www.figurentheaterfestival.ch,,Unima,,a,2003-,,,,,1 C,2003-(2009)
+EFES_35,Humoratorium,,Projekt ; inkl. Kongresse,x,x,Basel,,Basel,BS,CH,x,,x,,na,?,,,,,x,x
+EFES_36,It’s The Real Thing,Basler Dokumentartage,Basler Dokumentartage,Paraform Produktionen ; Kaserne Basel ; Roxy Theater,FES,Basel,,Basel,BS,CH,www.itstherealthing.ch,,x,,a,2013?-,,,,,1 C,2013-
+EFES_37,JETanZT,,Festival Freie Tanzszene,x,FES STT,Basel,,Basel,BS,CH,x,,x,,na,1991,,,,,1 C,1991
+EFES_38,Jugend Kultur Festival Basel,JKF,,?,FES,Basel,,Basel,BS,CH,jkf.ch/jkf/home/festival.html,,x,,a,1997-,,,,,1 C,1997 / 2000 / 2003 / 2005 / 2013
+EFES_39,Kleinbasler Theaterfestival,,,x,FES,Basel,,"Basel: Kleinbasler Theaterfestival (Grundsätzliches, mehrere Aufführungen ausländische Gastspiele), Stammort Schweizer Theater (wenn 1-2 Aufführungen)",BS,CH,x,,x,,na,"1985, 1986",,,,,x,x
+EFES_40,Martinu Festtage,,,?,FES,Basel,,"Martinu, Bohuslav",BS,CH,www.martinu.ch,,x,,a,1995-,,,,,x,x
+EFES_41,Musik der Welt,,Festival,x,FES,Basel,,Basel,BS,CH,x,,x,,na,1987-2001,,,,,1 C,(1994)-2001
+EFES_42,PerformaCity ,,,?,FES,Basel,,Basel: Kaserne Basel,BS,CH,x,,x,,a,2014 (einmalig?),,,,,1 R <Sammelcouvert>,(2014)-
+EFES_43,Spiilplätz (Festival),,Nationales Festival der Theaterjugendclubs,?,FES STK,Basel,,"Basel: Theater Basel, Div. <eigenl. Wechselnde Orte: Basel, Bern, Luzern, Zürich>",BS,CH,x,,Assitej,,a,?,,,,,1 C,2000 / 2002 / 2004 / 2005/ 2006 / 2011
+EFES_44,Tango-Festival Basel,Internationales Tangofestival Ostertango,,?,FES STT,Basel,,Basel,BS,CH,www.tangobasel.ch/Aktuell/OsterTango.html,,x,,a,2008-,,,,,1 C,2008-(2011)
+EFES_45,Tanz in Stücken,,,?,FES STT,Basel ; Zürich u.v.a.,,Basel (siehe auch Bern und Zürich),BS,CH,x,,x,,na,1989-1997,IGTZ (Interessengemeinschaft Tanz in Zürich),,,,1 C  und 1 C und 1 C,1994 (Basel) 1995-1997 (Bern) 1992-1997 (Zürich)
+EFES_46,Tanzszene Schweiz '85,,,x,x,Basel,,Basel: Stadttheater: Kleine Bühne,BS,CH,x,,x,,na,?,,,,,x,x
+EFES_47,Tanztage Basel,Basler Tanztage,,?,FES STT,Basel,,Basel,BS,CH,x,,x,,a,(noch existent?),,,,,2 C,2002-(2011)
+EFES_48,Theaterfestival Basel,Theater Festival Basel,,Theaterfestival Basel,FES,Basel,,Basel,BS,CH,www.theaterfestival.ch,,x,,a,?-,Welt in Basel,,,,2 S,1991-
+EFES_49,Theaterschiff,,internationales Jugendtheaterprojekt,x,FES STK,Basel ; Zürich,,Basel und Zürich,BS,CH,x,,x,,na,1949 und 1952,,,,,1 C <Zürich) 1 C <Basel),1949 <Zürich> 1952 <Basel>
+EFES_50,Treibstoff Theatertage Basel,,,Treibstoff Theatertage Basel,FES TFS,Basel,,Basel,BS,CH,www.treibstoffbasel.ch,,x,,a,2004-,,,,,1 C,2004-
+EFES_51,u.a. ,,Festival,x,FES,Basel,,Basel,BS,CH,x,,x,,na,?,,,,,1 C,1993
+EFES_52,Welt in Basel,,,x,FES,Basel,,Basel: Kaserne Basel,BS,CH,x,,x,,na,1991-?,,Theaterfestival Basel,,,x,x
+EFES_53,Welttanz-Festival Basel,Welttanztag Basel,,x,FES STT,Basel,,Basel,BS,CH,x,,x,,na,?,,,,,1 C,"1993, 1994, 2002"
+EFES_54,Wildwuchs Festival,,,Wildwuchs Festival,FES,Basel,,Basel,BS,CH,www.wildwuchs.ch,,Premio,,a,2001-,,,,,1 C,2001 / 2004 / 2007 / 2009
+EFES_55,Chi è di scena,,,Teatro Sociale?,FES,Bellinzona,,Bellinzona: Teatro Sociale,TI,CH,www.teatrosociale.ch/rassegna/chi-é-di-scena,,x,,a,?,,,,,x,x
+EFES_56,com.x,,festival della comicità,Teatro Sociale?,FES VOK,Bellinzona,,Bellinzona: Teatro Sociale,TI,CH,www.teatrosociale.ch,,x,,a,?,,,,,x,x
+EFES_57,Festival internazionale del teatro per l'infanzia e la gioventù,,,x,FES STK,Bellinzona,,Bellinzona,TI,CH,x,,x,,na,?,,,,,x,x
+EFES_58,Homo Ridens Festival,Homoridensfestival,,Homo Ridens Festival,FES VOK,Bellinzona,,Bellinzona <ab 2002 Bellinzona: Teatro Sociale>,TI,CH,www.homoridensfestival.ch,,x,,a,?,,,,,1 C,(1988)-(2001)
+EFES_59,Opera Bellinzona,Festival Castelgrande,Opernfestival,x,FES,Bellinzona,,Bellinzona,TI,CH,x,,x,,na,1999-2003,,,,,1 C,"1999-2003, 2011"
+EFES_60,Territori,,Festival di teatro,Teatro Sociale?,FES,Bellinzona,,Bellinzona: Teatro Sociale: Territori,TI,CH,www.territori.ch,,x,,a,?,,,,,x,x
+EFES_61,Afrique Noire,,Festival,x,FES,Bern,,Bern <siehe auch unter: Bern: Schlachthaus Theater und Bern: Dampfzentrale),BE,CH,x,,x,,na,?,,,,,1 C,"2001, 2003, 2005, 2006"
+EFES_62,Akzeptanz,akzepTANZ,Manifest für den Tanz CH,x,FES STT,Bern,,Bern,BE,CH,x,,x,,na,?,,,,,1 C,2004
+EFES_63,Auawirleben,"Aua wir Leben!; Aua, wir leben",,Auawirleben <früher:> Berner Ensemble,FES TFS,Bern,,"Bern <bis 31.7.1987 unter Bern: Stadttheater, später eigene Ablage>",BE,CH,www.auawirleben.ch,,x,r,a,1982-,,,,,3 S,(1988)-
+EFES_64,Berner Altstadtsommer,Berner Altstadt-Festival,,x,FES,Bern,,Bern <siehe auch unter Bern: Altes Schlachthaus>,BE,CH,x,,x,,na,1978,,,,,1 C,"1978, 1983-(2002)"
+EFES_65,Berner Humortage,,,?,FES VOK,Bern,,Bern: Tojo,BE,CH,www.berner-humortage.ch,,x,,a,2014-,,,,,x,x
+EFES_66,Berner Kunstwochen,,,x,FES,Bern,,Bern <Einzelveranstaltungen unter Bern: Stadttheater u.a. betiligte Orte>,BE,CH,,,x,,na,?,,,,,1 C,"1970, 1972"
+EFES_67,Berner Poesienacht,,,?,FES,Bern,,Bern: Botanischer Garten,BE,CH,www.botanischergarten.ch/boga/agenda/poesienacht.html,,x,,a,?,,,,,x,x
+EFES_68,Berner StudentInnen Theater Festival,Bestival,,?,FES ATV,Bern,,Bern,BE,CH,www.bestival.ch,,x,,a,2013?-,,,,,x,x
+EFES_69,Berner Tanztage ,,,x,FES STT,Bern,,Bern,BE,CH,x,,x,,na,1987-2007,,,,,3 S,1987-2007
+EFES_70,Biennale Bern,,Festival für Zeitgenössische Künste,x,FES,Bern,,"Bern, HKB",BE,CH,www.biennale-bern.ch,,x,,na,2003-2014,,,,,x,x
+EFES_71,Bone,Bone Performance Festival,Festival für Aktionskunst Bern,Bone,FES,Bern,,"Bern, Schlachthaus Theater",BE,CH,www.bone-performance.com,,x,,a,1998-,,,,,x,x
+EFES_72,Buskers Bern,,Strassenmusik-Festival,Buskers Bern,FES,Bern,,Bern,BE,CH,www.buskersbern.ch,,x,,a,2004-,,,,,1 C,2004-
+EFES_73,Community Dance Festival,Community Arts Festival,,BewegGrund,FES STT,Bern,,Bern: BewegGrund und Bern: Community Dance Festvial,BE,CH,www.beweggrund.org,,x,,a,1999-,,,,,1 C,"1999, 2006, 2009"
+EFES_74,Drehorgel-Festival Bern,,,x,FES,Bern,,Bern,BE,CH,x,,x,,na,?,,,,,1 C,1979
+EFES_75,Festival Ouest-Est,,Tanz ; Theater ; Performance,?,FES,Bern,,Bern (früher siehe auch unter Bern: Dampfzentrale und Bern: Schlachthaus-Theater),BE,CH,x,,x,,a,2005-2008? (noch existent?),,,,,1 C,"2007, 2008"
+EFES_76,Forever Young,,Tanzfestival,Dampfzentrale Bern,FES STT,Bern,,Bern: Dampfzentrale,BE,CH,www.dampfzentrale.ch,,x,,a,?,,,,,x,x
+EFES_77,Heimspiel,Tanz Festival Heimspiel,Tanzfestival,Dampfzentrale Bern,FES STT,Bern,,Bern: Dampfzentrale,BE,CH,www.dampfzentrale.ch,,x,,a,?,,,,,x,x
+EFES_78,Internationales Festival kleiner Bühnen,,,x,FES,Bern,,"Bern: Internat. Festival kleiner Bühnen (wenn Grundsätzliches, mehrere Aufführungen od. ausländische Gastspiele, Stammort einzl. Schweizer Theater, wenn 1-2 Aufführungen",BE,CH,x,,x,,na,1972-1983,,,,,1 S,1972-(1986)
+EFES_79,Internationaler Sommerkurs für Tanz,,,x,x,Bern,,Bern,BE,CH,x,,x,,na,1973,,,,,1 C,1973
+EFES_80,Ja'salâm,,Festival,x,FES,Bern,,Bern (siehe auch unter Bern: Schlachthaus-Theater und Bern: Dampfzentrale),BE,CH,x,,x,,na,2002,,,,,1 C,2002
+EFES_81,kicks,,Kindertheaterfestival,Schlachthaus Theater,FES STK,Bern,,Bern: Schlachthaus Theater,BE,CH,www.schlachthaus.ch,,x,,a,2016-,,,,,x,x
+EFES_82,Life Games,,Tanz-Theaterspektakel,x,FES,Bern,,Bern,BE,CH,x,,x,,na,2009,,,,,1 C,2009
+EFES_83,Machine Love Festival,,Performance-Festival,Dampfzentrale Bern,FES,Bern,,Bern: Dampfzentrale,BE,CH,www.dampfzentrale.ch,,x,,a,?,,,,,x,x
+EFES_84,Mad Scientist Festival,,Das forsche Festival zwischen Kunst und Wissenschaft,?,FES,Bern,,Bern,BE,CH,www.madscientist-festival.ch,,x,,a,?,,,,,1 C,(2016)-
+EFES_85,Mix up!,,,Dampfzentrale Bern ; Schlachthaus-Theater Bern,FES,Bern,,Bern,BE,CH,www.mixupfestival.ch,,x,,a,2016-,,,,,1 R,2016-
+EFES_86,Museumsnacht Bern,Berner Museumsnacht,,Museen Bern <Verein>,x,Bern,,Bern,BE,CH,www.museumsnacht-bern.ch,,x,,a,2003-,,,,,1 C,"2007, 2012"
+EFES_87,Musikfestival Bern,,,Musikfestival Bern,FES,Bern,,Bern,BE,CH,www.musikfestivalbern.ch,,x,,a,2007-,,,,,1 C,"2011, 2013"
+EFES_88,Pink Mama Festival,,,Pnik Mama Theatre,,Bern,,Bern: Pink Mama Theatre,BE,CH,www.pinkmamatheatre.com,,x,,a,?,,,,,x,x
+EFES_89,Schul- und Jugendtheatertreffen Bern,,,?,FES STK,Bern,,Bern,BE,CH,x,,x,,a,(noch existent?),,,,,1 C,(1982)-
+EFES_90,Schule und Theater,,"Projekt, Bern",x,x,Bern,,Bern,BE,CH,x,,x,,na,?,,,,,1 C,"1983, 1985, 1987, 1988"
+EFES_91,sonOhr Festival,,Hörfestival,?,FES,Bern,,Bern,BE,CH,www.sonohr.ch,,x,,a,2009-,,,,,1 C,2014-
+EFES_92,Steps To Get It,,Salsa-Festival,?,FES STT,Bern,,Bern,BE,CH,www.salsadancers.ch/stepstogetit.html,,x,,a,?,,,,,x,x
+EFES_93,Tag des Tanzes,,Bundesplatz,x,FES STT,Bern,,Bern,BE,CH,x,,x,,na,?,,,,,1 C,"1985, 1987"
+EFES_94,Tanz in Bern,Tanz in. Bern; Tanz in.Bern,,Dampfzentrale Bern,FES STT,Bern,,Bern: Dampfzentrale: Tanz in Bern,BE,CH,www.dampfzentrale.ch,,x,,a,?,,,,,x,x
+EFES_95,Tanzparenz,,,x,FES STT,Bern,,Bern <siehe auch Bern: Tanz Aktive Plattform TAP> <siehe für tanz@dz auch Bern: Dampfzentrale>,BE,CH,x,,x,,na,?,,,,,1 C,"1994, 1998, 2000, 2002, 2006"
+EFES_96,Tanzplattform Bern,,Festival,Konzert Theater Bern (KTB),FES STT,Bern,,Bern: KTB,BE,CH,www.konzerttheaterbern.ch,,x,,a,?,,,,,x,x
+EFES_97,Theaterfestival Skilt,,,Skilt Produktion,FES,Bern,,Bern: Skilt Produktion,BE,CH,www.skiltproduktion.tumblr.com,,x,,a,?,,,,,x,x
+EFES_98,TheaterSalater,,,x,FES STK,Bern,,Bern,BE,CH,x,,x,,na,1987,,,,,1 C,1987
+EFES_99,Criminale,,Krimifestival,?,FES,"Bern ; Solothurn <eigentlich wechselnde Orte CH, D, A>",,CH.: Einz. Reg.: Kt. Bern,BE; SO,CH,www.die-criminale.de,,x,,a,?,,,,,x,x
+EFES_100,Petronilla in scena <festival>,,Festival Teatro dialettale,Petronilla in scena,FES ATV,Biasca,,Biasca,TI,CH,x,,x,,a,?,,,,,1 R <Sammelcouvert>,(2013)-
+EFES_101,Atelier Afrique,,,x,FES,Biel/Bienne,,Biel/Bienne,BE,CH,x,,x,,na,1987,,,,,1 C,1987
+EFES_102,FiestArt,,,?,FES,Biel/Bienne,,Biel/Bienne,BE,CH,x,,x,,na,1992?,,,,,1 C,1992
+EFES_103,Miroir 86,,Fête du Rassemblement Culturel Romand,?,FES,Biel/Bienne,,Biel/Bienne,BE,CH,x,,x,,na,?,,,,,1 C,(1985)-(1986
+EFES_104,Pod'Ring,,,?,FES,Biel/Bienne,,Biel/Bienne,BE,CH,www.podring.ch,,x,,a,1978-,,,,,1 C,(1984)-
+EFES_105,Schultheaterfestival Biel,Festival de théâtre scolaire Bienne,,?,FES ATV,Biel/Bienne,,Biel/Bienne,BE,CH,x,,x,,?,?,,,,,1 C,(1995)-(2009)
+EFES_106,Südrampe,,Festival,?,FES,Biel/Bienne,,Biel/Bienne,BE,CH,x,,x,,na,1992?,,,,,1 C,1992
+EFES_107,Zauberfestival Biel,,,?,FES,Biel/Bienne,,Biel/Bienne,BE,CH,,,x,,na,2005?,,,,,1 C,2005-(2007)
+EFES_108,Boswiler Sommer,,Klassik-Musik-Festival,Künstlerhaus Boswil?,FES,Boswil,,Boswil: Künstlerhaus Boswil,AG,CH,www.kuenstlerhausboswil.ch,,x,,a,?,,,,,s. Künstlerhaus Boswil,s. Künstlerhaus Boswil
+EFES_109,Schweizer Kindertheatertreffen,,1. bis 4.,x,FES STK,Boswil <später: wechselnde Orte>,,Boswil,AG,CH,x,,x,,na,1979-1982,,,,,1 C,1979-1982
+EFES_110,Festival Internazionale Ruggiero Leoncavallo,Festival Ruggiero Leoncavallo; Leoncavallo-Festival Brissago,,"Festival Internazionale Ruggiero Leoncavallo (Festival Ruggiero Leoncavallo, Leoncavallo-Festival Brissago)",FES,Brissago,,Brissago,TI,CH,x,,x,,a,1996-,,,,,,
+EFES_111,Journées du théâtre amateur Romand,,,x,FES ATV,Bulle,,Bulle (nicht ZSV),FR,CH,x,,x,,na,1983,,,,,8 R <Sammelcouvert>,1983
+EFES_112,Rencontres théâtrales de Bulle,,,Rencontres théâtrales ,FES ATV,Bulle,,Bulle (nicht ZSV),FR,CH,www.rencontres-theatrales.ch,,x,,a,1982-,,,,,1 C,1982-
+EFES_113,"""Kopfsalat""",,,Agentur für ansprechenden Unfug,FES VOK,Burgdorf,,Kabarett: Burgdorf,BE,CH,www.ansprechender-unfug.ch/Agentur_fur_ansprechenden_Unfug/KOPFSALAT.html,,x,,a,?,,,,,1 C,(2014)-
+EFES_114,"""Kopfnuss""",,,Agentur für ansprechenden Unfug,FES VOK,Burgdorf,,Kabarett: Burgdorf,BE,CH,www.ansprechender-unfug.ch/Agentur_fur_ansprechenden_Unfug/KOPFNUSS.html,,x,,a,?,,,,,x,x
+EFES_115,Burgdorfer Krimitage,Krimitage Burgdorf,,?,FES VOK,Burgdorf,,Burgdorf: Krimitage Burgdorf,BE,CH,www.krimitage.ch,,x,,a,1994-,,,,,1 C,1994-
+EFES_116,Festival CTRL-J,,,,FES STK,Carouge,,Genève,GE,CH,x,,x,,a,2015-,,,,,1 C,(2016)-
+EFES_117,Miroir 89,,,x,FES,Carouge,,Carouge,GE,CH,x,,x,,na,1989,,,,,11 R Sammelcouvert>,1989
+EFES_118,Printemps Carougeois,,Festival,Printemps Carougeois <Festival>,FES,Carouge,,Carouge,GE,CH,www.printemps-carougeois.ch,,x,,a,?,,,,,3 R <Sammelcouvert>,"(1999), 2000, 2014"
+EFES_119,Maxi-Rires,,Festival,Maxi-Rires <Festival>,FES VOK,Champéry,,Champéry,VS,CH,www.maxi-rires.ch,,x,,a,?,,,,,6 R <Sammelcouvert>,"(2012), 2014, 2015"
+EFES_120,Festival de Chézard,,Amateurtheater-Festival,x,FES ATV,Chézard,,Chézard,NE,CH,x,,x,,na,?,,,,,x,x
+EFES_121,Chiasso Danza,,,Chiasso Danza,FES STT,Chiasso,,Chiasso,TI,CH,x,,x,,a,1989- (noch existent?),Rassegna di Danza contemporanea,,,,11 R <Sammelcouvert>,(1993)-(2000)
+EFES_122,Rassegna Teatro Per Ragazzi,Rassegna Teatro Per I Ragazzi,,x,FES STK,Chiasso,,Chiasso,TI,CH,x,,x,,na,?,,,,,8 R <Sammelcouvert>,(1991)-(1993)
+EFES_123,Buskers Chur,,Strassenfestival,x,FES,Chur,,Chur,GR,CH,https://buskers-chur.ch,,x,,a,,,,,,1 R <Sammelcouvert>,(2015)-(2015)
+EFES_124,"Internationales Theaterfestival ""Klibühni Schnidrzumft""",,,x,FES,Chur,,Chur,GR,CH,,,x,,na,?,,,,,x,x
+EFES_125,Churer Kleintheater-Festival,,,x,FES VOK,Chur,,Chur,GR,CH,x,,x,,na,?,,,,,x,x
+EFES_126,Tanzfestival Tanzeit-Zeitanz,Tanzeit-Zeitanz Festival,,?,FES STT,Chur,,Chur: Tanzeit-Zeitanz Festival,GR,CH,www.tanz-gr.ch,,x,,a,2009-,,,,,1 C,"(2011), 2012"
+EFES_127,Theatralische Adventskalender Chur,,,?,x,Chur,,Chur,GR,CH,x,,x,,a,2003-,,,,,1 C,-2014
+EFES_128,Transversalen,,,x,FES,Chur,,Chur,GR,CH,x,,x,,na,1997,,,,,1 C,1997
+EFES_129,VTS-Theatertreffen,,1986,x,FES,Chur,,Chur,GR,CH,x,,x,,na,1986,,,,,1 C,1986
+EFES_130,Welt in Chur,,Festival,?,FES,Chur,,Chur,GR,CH,x,,x,,a,?,,,,,1 C,(2015)-
+EFES_131,Festival di Teatro al Castelmur,,,?,FES,Stampa (Coltura),,Stampa,GR,CH,x,,x,,a,2007?-,,,,,2 R <Sammelcouvert>,(2015)-
+EFES_132,Autour de Mme Staël,AMS,,Autour de Mme Staël (AMS),FES,Coppet,,Coppet,VD,CH,www.autourdemmedestael.com,,x,,a,2010-,,,,,7 R,(2012)-
+EFES_133,Carrefour des Théâtres,CDT,,?,FES,Courrendlin,,Courrendlin,JU,CH,www.festival-cdt.ch,,x,,a,?,,,,,x,x
+EFES_134,Festi’Laaf,,,?,FES,Courtételle,,Courtételle,JU,CH,http://festi-laaf.com,,x,,a,?,,,,,3 R <Sammelcouvert>,(2014)-
+EFES_135,Davos Festival,,Young Artists in Concert,Davos Festival,FES,Davos,,Davos,GR,CH,www.davosfestival.ch,,x,,a,1986-,,,,,5 R <Sammelcouvert>,(1994)-
+EFES_136,mobil(e),,Festival de danse contemporaine,x,FES STT,Delémont,,Delémont,JU,CH,x,,x,,na,2002,,,,,9 R <Sammelcouvert>,2002
+EFES_137,Chrüz&Quär-Festival,Chrüz & Quär-Festival,,?,FES VOK,Dübendorf,,Dübendorf,ZH,CH,x,,x,,a,?,,,,,3 R <Sammelcouvert>,(2011)-
+EFES_138,Dübendorfer Kulturtage,,,x,FES,Dübendorf,,Dübendorf,ZH,CH,x,,x,,na,?-1999,,,,,5 R <Sammelcouvert>,(1993)-1999
+EFES_139,Kabarett-Tage Dübendorf,,,x,FES VOK,Dübendorf,,Kabarett: Dübendorf,ZH ,CH,x,,x,,na,1995-1998,,,,,1 C,(1995)-(1998)
+EFES_140,Piccolo-Musikfestival,,,Teatro di Capua,FES,Embrach,,Embrach: Teatro di Capua,ZH,CH,www.teatrodicapua.ch,,x,,a,2004?-,,,,,2 R <Sammelcouvert>,"(2009), 2012"
+EFES_141,Erlach lacht,,,Kulturförderverein Erlach lacht ;  Theater-Erschaffen ADAM&EVA,FES VOK,Erlach,,Erlach,BE,CH,www.erlach-lacht.ch,,x,,a,?,,,,,6 R <Sammelcouvert>,(200(-
+EFES_142,Festival Belluard Bollwerk International,,,Festival Belluard Bollwerk International,FES,Fribourg/Freiburg,,Fribourg/Freiburg: Festival Belluard Bollwerk International,FR,CH,www.belluard.ch,,x,,a,1983-,,,,,4 S,1983-
+EFES_143,Volksbühnen-Festival,,,x,FES ATV,Fribourg/Freiburg,,Fribourg/Freiburg,FR,CH,x,,x,,na,1991,,,,,x,x
+EFES_144,Festival Théâtres d'Europe,,,x,FES,Fribourg/Freiburg,,Fribourg/Freiburg,FR,CH,x,,x,,na,2000-,,,,,3 R <Sammelcouvert>,2000
+EFES_145,FriScènes,Fri Scènes,Festival International de Théâtre Fribourg,FriScènes (Festival International de Théâtre Fribourg),FES ATV,Fribourg/Freiburg,,Fribourg/Freiburg,FR,CH,www.friscenes.ch,,x,,a,2008-,,,,,1 C,2008
+EFES_146,Juilletdanse,,Festival International de Danse,Juilletdanse,FES STT,Fribourg/Freiburg,,Fribourg/Freiburg,FR,CH,www.juilletdanse.ch,,x,,a,2008?-,,,,,1 C <Sammelcouvert>,(2012)-(2012)
+EFES_147,Festival Le printemps des compagnies,,Festival,Théâtre des Osses,FES,Fribourg/Freiburg,,Fribourg/Freiburg: Théâtre des Osses,FR,CH,www.theatreosses.ch,,x,,a,2015-,,,,,x,x
+EFES_148,Mourrire Festival de l'humour et du rire,,,x,FES VOK,Fribourg/Freiburg,,Fribourg/Freiburg (vor 1984: Pully),FR; VD,CH,x,,x,,na,?,,,,,x,x
+EFES_149,Rencontres de Folklore Internationales,Internationales Folkloretreffen; RFI,,?,FES,Fribourg/Freiburg,,Fribourg/Freiburg: Rencontres Folkloriques Internationales,FR,CH,www.rfi.ch/de,,x,,a,1975-,Rencontres Folkloriques Internationales,,,,1 C,"(1984), 2003, 2011"
+EFES_150,Semaine Suisse du théâtre d'animation,,,x,x,Genève,,Genève: Théatre St. Gervais,GE,CH,?,,x,,na,?,,,,,x,x
+EFES_151,C'est déja demain,,"jeunes comédiens, jeunes compagnies",Théâtre du Loup ; La Gravière,FES,Genève,,Genève: Théâtre du Loup,GE,CH,www.theatreduloup.ch und www.lagraviere.ch,,x,,a,?,,,,,x,x
+EFES_152,Dansez!,,,x,FES STT,Genève ; Annemasse,,Genève und Aufführungsstätten,GE,CH,x,,x,,a,1998-2007,,,,,1 C,(1999)-(2006)
+EFES_153,Extasis,,Festival de musiques d'aujourd'hui,x,FES,Genève,,Genève,GE,CH,x,,x,,na,1987-?,,,,,1 C,(1988)-(1991)
+EFES_154,Festival Agapé,,,x,FES,Genève,,Genève,GE,CH,www.festivalagape.org,,x,,a,1992-,,,,,3 R <Sammelcouvert>,"(1996), (2002)"
+EFES_155,Festival Amadeus,,,?,FES,Meinier,,Genève,GE,CH,www.meinier.ch,,x,,a,1999-,,,,,1 C,1999-
+EFES_156,Festival Antigel,,,?,FES,Genève,,Genève: Festival Antigel,GE,CH,www.antigel.ch,,x,,a,2011-,,,,,1 C,(2015)-
+EFES_157,Festival Archipel,,festival des musiques d'aujourd'hui,?,FES,Genève,,Genève: Festival Archipel,GE,CH,www.archipel.org,,x,,a,?,,,,,1 C,(1993)-
+EFES_158,Festival Assemblages,,,?,FES,Troinex,,Genève,GE,CH,https://assemblages.ch,,x,,a,2010-,,,,,x,x
+EFES_159,Festival de Bouche à Oreille,,,?,FES,Genève,,Genève:  Théâtre Spirale,GE,CH,www.deboucheaoreille.org,,x,,a,1987?-,,,,,1 R <Sammelcouvert>,(2006)-(2006)
+EFES_160,Festival d'Ateliers-Théâtre,,,?,FES,Genève,,Genève,GE,CH,www.festival-ateliers-theatre.ch,,x,,a,1998-,,,,,1 C,(2015)-(2015)
+EFES_161,Festival du rire,,,?,FES VOK,Genève,,Genève,GE,CH,www.rire-geneve.ch,,x,,a,2015-,,,,,1 C,(2014)-
+EFES_162,Festival International de Flamenco,,,?,FES STT,Genève,,Genève,GE,CH,x,,x,,a,?,,,,,1 C,-2015
+EFES_163,Festival international de spectacle pour jeune public,,,x,FES STK,Genève,,Genève,GE,CH,x,,x,,na,1979-1983?,,,,,x,x
+EFES_164,Festival Les Créatives,,,Festival Les Créatives,FES,Genève,,Genève,GE,CH,www.lescreatives.ch,,x,,a,,,,,,1 R <Sammelcouvert>,(2016)-
+EFES_165,Festival Les Singulières,,,?,FES,Genève,,Genève: Théâtre de Poche,GE,CH,x,,x,,a,?,,,,,x,x
+EFES_166,Festival musiques et sciences,,,?,FES,Genève,,Genève,GE,CH,www.hesge.ch/geneve/.../festival-musiques-et-sciences,,x,,a,2012-,,,,,1 C,"2012, 2014, "
+EFES_167,Festival Poussière du Monde,,,?,FES,Lancy (Grand-Lancy),,Genève,GE,CH,www.pannalal.ch,,x,,a,,,,,,1 R <Sammelcouvert>,(2015)-(2015)
+EFES_168,Fête de la musique Genève,,,?,FES,Genève,,Genève,GE,CH,x,,x,,a,?,,,,,1 C,"2001, 2002, 2005"
+EFES_169,Fête du Théâtre,,,?,FES,Genève,,Genève,GE,CH,www.fetedutheatre.ch,,x,,a,2012-,,,,,1 C,(2014)-
+EFES_170,Fêtes de Genève,,,x,FES,Genève,,Genève,GE,CH,x,,x,,na,?,,,,,1 C,"1956, 1958, 1996"
+EFES_171,Fous Rires Festival,,,x,FES VOK,Genève,,Genève (siehe auch Genève: Casino-Théâtre),GE,CH,x,,x,,na,1996-?,,,,,1 C,1996-(1998)
+EFES_172,Geneva Burlesque Festival,,,x,FES,Genève,,Genève,GE,CH,www.genevaburlesquefestival.com,,x,,a,2015-,,,,,1 R <Sammelcouvert>,(2014)-(2014)
+EFES_173,Gratte-Bitume,,Festival des Arts de la rue,?,FES,Genève,,Genève,GE,CH,www.gratte-bitume.com,,x,,a,2010-,,,,,1 C,"2010, 2014"
+EFES_174,Informal European Theatre Meeting,IETM,,x,FES,Genève,,Genève,GE,CH,x,,x,,na,1992,,,,,1 C,1992
+EFES_175,La Bâtie,Festival de la Bâtie,Festival de Genève,La Bâtie,FES,Genève,,Genève,GE,CH,https://batie.ch,,Corodis,,a,1977-,Festival du Bois de la Bâtie,,,,3 S,(1978)-
+EFES_176,Le Festival International des Jeunes Improvisateurs ,FIJI; Les Improfolies,,x,FES ATV,Genève,,Genève: Fédération d'improvisation genevoise,GE,CH,www.impro-geneve.ch,,x,,a,?,,,,,x,x
+EFES_177,Mai au Parc,,Festival,?,FES,Lancy (Grand-Lancy),,Genève,GE,CH,www.maiauparc.ch,,x,,a,1997-,,,,,2 R <Sammelcouvert>,"(2002), (2015)"
+EFES_178,Out of the Box,,Biennale des Arts inclusifs,Out of the Box,FES,Genève,,Genève,GE,CH,www.biennaleoutofthebox.ch,,x,,a,2015?-,,,,,1 R <Sammelcouvert>,2015
+EFES_179,Rencontres Internationales d'Ecoles du Théâtre,,,x,FES,Genève,,Genève,GE,CH,x,,x,,na,1992,,,,,1 C,1992
+EFES_180,Rencontres Internationales de Genève,,,x,FES,Genève,,Genève,GE,CH,x,,x,,na,?,,,,,1 C,"1950, 1951, 1954, 1957, 1959"
+EFES_181,Voix de Fête,,,?,FES,<wechselnde Orte>,,Genève,GE,CH,www.voixdefete.com,,x,,a,2016-,,,,,1 C,2016-
+EFES_182,Internationale Opernwerkstatt Schloss Werdenberg,,,?,x,Grabs (Werdenberg),,Buchs-Werdenberg (SG): Schloss Werdenberg,SG,CH,x,,x,,a,?,,,,,1 C <Sammelcouvert>,x
+EFES_183,Schlossmediale Werdenberg,,,?,FES,Grabs (Werdenberg),,Buchs-Werdenberg (SG): Schloss Werdenberg,SG,CH,www.schlossmediale.ch,,x,,a,2012-,,,,,1 C <Sammelcouvert>,x
+EFES_184,Festival de rire et de rêves,,,?,FES,Grandson,,Grandson,NE,CH,www.lacourdutheatre.ch/festival-du-rire-et-du-reve-grandson,,x,,a,2015?-,,,,,1 R <Sammelcouvert>,(2015)-
+EFES_185,Comedy Night Grindelwald,Just Smile Comedy Night Grindelwald,,,FES VOK,Grindelwald,,Grindelwald,BE,CH,www.just-smile-grindelwald.ch,,KTV,,a,?,,,,,2 R <Sammelcouvert>,"(2010), 2012"
+EFES_186,Internationale Musikwoche Grenchen,,,?,FES,Grenchen,,Grenchen,SO,CH,x,,x,,a,(noch existent?),,,,,13 R <Sammelcouvert>,"(2001), 2005"
+EFES_187,Alpengala Gstaad,,,x,FES,Gstaad,,Gstaad <siehe auch Gstaad: Menuhin Festival auc,BE,CH,x,,x,,na,,,Musiksommer Gstaad <keine Ablage unter diesem Namen>,,,1 C ,1987-(2003)
+EFES_188,Menuhin Festival Gstaad,,,Menuhin Festival Gstaad,FES,Gstaad,,Gstaad <siehe auch: Gstaad: Alpengala>,BE,CH,www.gstaadmenuhinfestival.ch,,x,,a,1957-,,,,,1 C,(1984)-
+EFES_189,Musikskommer Gstaad,,,x,FES,Gstaad,,Gstaad: Alpengala,BE,CH,x,,x,,na,?,,,,,x,x
+EFES_190,Interlaken Classics,,,Interlaken Classics,FES,Interlaken,,Interlaken: Kursaal,BE,CH,www.interlaken-classics.ch,,x,,a,1966-,,,,,1 C <Sammelcouvert>,x
+EFES_191,Internationales Gauklerfest Interlaken,,,?,FES,Interlaken,,Interlaken: Internationales Gauklerfest Interlaken,BE,CH,www.gauklerfest-interlaken.ch,,x,,a,2004-,,,,,1 C,"(2012), 2014"
+EFES_192,Operettenfestival Interlaken,,,x,FES,Interlaken,,Interlaken: Kursaal,BE,CH,x,,x,,na,2009 <einmalig?>,,,,,1 C <Sammelcouvert>,x
+EFES_193,Terra e Laghi,,Festival di teatro nell’ insubria,?,FES,Varese,,CH: Einz. Reg.: Ital. Schweiz,,I,www.terraelaghifestival.com,,x,,a,?,,,,,,
+EFES_194,Könizer Kunstwoche,Kunstwoche Köniz,,x,FES,Köniz,,Köniz,BE,CH,x,,x,,na,?,,,,,8 R <Sammelcouvert>,(1973)-(1983)
+EFES_195,KIK-Festival,,Kabarett in Kreuzlingen,"Kabarett in Kreuzlingen (KiK, KIK-Festival)",FES VOK,Kreuzlingen,,Kabarett: Kreuzlingen: Kabarett in Kreuzlingen,TG,CH,www.kik-kreuzlingen.ch,,x,,a,2002-,,,,,1 C,"(2002), 2004, 2008-"
+EFES_196,Triangel,,Internationales Kinder- und Jugendtheaterfestival,x,FES STK,Kreuzlingen ; Konstanz ; Steckborn,,St. Gallen,TG,CH,x,,x,,na,1997-2004,,,,,1 C,1997-2004
+EFES_197,Antilope Festival,,,x,FES STT,La Chaux-de-Fonds und Neuchâtel,,La Chaux-de-Fonds,NE,CH,x,,x,,na,?,,,,,1 C,(2000)-(2010)
+EFES_198,Biennale du Théâtre,,La Chaux-de-Fonds,x,FES,La Chaux-de-Fonds,,La Chaux-de-Fonds,NE,CH,x,,x,,na,?,,,,,1 C,1993-
+EFES_199,La Plage des Six Pompes,,Festival International des arts de la rue,?,FES,La Chaux-de-Fonds,,La Chaux-de-Fonds,NE,CH,www.laplage.ch,,x,,a,1993-,Plage du Marché,,,,1 C,1993-
+EFES_200,La Schubertiade,,La Chaux-de-Fonds 1992,x,FES,La Chaux-de-Fonds,,La Chaux-de-Fonds,NE,CH,x,,x,,na,1992,,,,,1 C,1992
+EFES_201,Festival d'Art Dramatique,,Festival du Théâtre amateur,x,FES ATV,La Tour-de-Peilz,,La Tour-De-Peilz,VD,CH,x,,x,,na,1984,,,,,10 R <Sammelcouvert>,1984
+EFES_202,La Tour en Scène,,Festival International de Théâtre de la Tour-de-Peilz,?,FES ATV,La Tour-de-Peilz,,La Tour-De-Peilz,VD,CH,x,,FSSTA,,a,2012?-,,,,,x,x
+EFES_203,Fliessende Grenzen,,Kulturtage Laufenburg,?,FES,Laufenburg,,Laufenburg,AG,CH,x,,x,,a,?,,,,,x,x
+EFES_204,Bouillon de cultures,,Rencontres et ouvertures,x,FES,Lausanne,,Lausanne,VD,CH,x,,x,,na,1992-?,,,,,1 C,(1992)-?
+EFES_205,Concours des Jeunes Compagnies,,,x,FES,Lausanne,,Lausanne,VD,CH,x,,x,,na,1989,,,,,1 C,1989
+EFES_206,Danses en pièces,Tanz in Stücken,,x,FES STT,Lausanne,,Lausanne,VD,CH,x,,x,,na,?,,,,,1 C,(1995)-(1996)
+EFES_207,Emois,,Festival,x,FES,Lausanne,,Lausanne,VD,CH,x,,x,,na,1996,,,,,1 C,1996
+EFES_208,Festival de la Cité Lausanne,,,?,FES,Lausanne,,"Lausanne (wenn Grundsätzliches, mehrere Aufführungen und ausländische Gastspiele), unter Stammort der einzelnen CH-Theater",VD,CH,www.festivalcite.ch,,x,,a,1983-,,,,,1 S,(1982)-
+EFES_209,Festival de marionnettes ,Festival international de théâtre de marionnettes,Lausanne,x,FES STP,Lausanne,,Lausanne,VD,CH,x,,x,,na,"1976, 1983, 1987",,,,,1 C,"1976, 1983, 1987"
+EFES_210,Festival de théâtre universitaire,,,?,FES ATV,Lausanne,,Lausanne (siehe auch Lausanne: Grange de Dorigny),VD,CH,www.grangededorigny.ch,,x,,a,1995-,,,,,1 C,"(1997), 2000, 2001, 2005"
+EFES_211,Festival International de Lausanne,,,x,FES,Lausanne,,"Lausanne: Festival International ... (wenn Grundsätzliches oder mehrere Aufführungen), Kopie an Stammort der einz. Theater, wenn 1-2 Aufführungen, Original unter Lausanne: Festival",VD,CH,x,,x,,na,1955-1984,,,,,x,x
+EFES_212,Festival International de Danse,Lausanne Danse,,x,FES STT,Lausanne,,Lausanne: Théâtre Sévelin 36,VD,CH,x,,x,,na,1997-2012,,Le Printemps de Sévelin,,,x,x
+EFES_213,Festival International de Marionnettes pour Adultes,,,x,FES STP,Lausanne,,Lausanne,VD,CH,x,,x,,na,?,,,,,x,x
+EFES_214,Festival international de théâtre contemporain,,,x,FES,Lausanne,,Lausanne,VD,CH,x,,x,,na,"1984, 1989, 1992, 1994",,,,,1 S,"1984, 1989, 1992, 1994"
+EFES_215,Festival Promotion Danse,,,x,FES STT,Lausanne,,"Vuilleuier, Doris",VD,CH,x,,x,,na,1992,,,,,1 C,1992
+EFES_216,Jeux académiques,,,x,FES,Lausanne,,Lausanne,VD,CH,x,,x,,na,?,,,,,1 C,1944
+EFES_217,Journées TacTacTac,Journées Tac Tac Tac,,?,FES,Lausanne,,Lausanne,VD,CH,www.journees-tactactac.blogspot.com,,x,,a,2016-,,,,,1 C,(2015)-
+EFES_218,Les Printemps de Sévelin,,Festival de Danse Contemporaine,Théâtre Sévelin,FES,Lausanne,,Lausanne: Théâtre Sévelin 36,VD,CH,www.theatresevelin36.ch/fr/programme/festival,,x,,a,1998-,,,,,x,x
+EFES_219,Les Urbaines,,Festival,?,FES,Lausanne,,Lausanne: Les Urbaines,VD,CH,www.urbaines.ch,,Premio,,a,1993-,,,,,1 C,1993-
+EFES_220,Programme commun,,,?,FES,Lausanne,,Lausanne,VD,CH,www.programme-commun.ch,,,,a,?,,,,,1 C,(2015)-
+EFES_221,Pour un été,,,x,FES,Lausanne,,Lausanne (siehe auch Lausanne: Festival de la Cité),VD,CH,x,,x,,na,1974-?,,,,,1 C,(1975)-(2001)
+EFES_222,Festival de Printemps,,,x,FES,Lausanne (Ouchy),,Lausanne: Théâtre Tel Quel,VD,CH,x,,x,,na,,,,,,x,x
+EFES_223,Les jardins musicaux,,Festival,?,FES,Le Cernier,,Le Cernier <siehe auch Neuchâtel: Opéra décentralisé>,NE,CH,www.jardinsmusicaux.ch,,x,,a,1998-,,,,,1 C,(2000)-
+EFES_224,Aargauer Theatermärt,,,x,FES,Lenzburg,,Lenzburg <1988> <später siehe auch CH: Einz. Reg.: Aargau>,AG,CH,x,,x,,na,?,,,,,1 R <Sammelcouvert> (Lenzburg),(1988)-(1988) (Lenzburg)
+EFES_225,Der Theaterfunken,Theater Funken,Kinder- und Jugendtheaterfestival,<verschiedene Veranstalter>,FES STT,Lenzburg,,CH: Einz. Reg.: Kt. Aargau,AG,CH,x,,x,,a,2005?-,,,,,x,x
+EFES_226,Lenzburger Gauklerfestival,Lenzburger Gaukler- und Kleinkunstfestival; Gaukler-Festival Lenzburg,,?,FES VOK,Lenzburg,,Lenzburg: Gaukler-Festival,AG,CH,www.gauklerfestival.ch,,,,a,1993-,Kleinkunstfestival Lenzburg,,,,1 C,"(1996), 2000-"
+EFES_227,Kleinkunstfestival Lenzburg,,,x,FES VOK,Lenzburg,,Lenzburg,AG,CH,x,,x,,na,?,,Gaukler-Festival,,,1 C ,"(1991), (1995)"
+EFES_228,Musikalische Begegnungen Lenzburg,MBL,,?,FES,Lenzburg,,Lenzburg,AG,CH,www.mbl-lenzburg.ch,,x,,a,1984-,,,,,x,x
+EFES_229,Theatertage Lenzburg,Lenzburger Theatertage,,Theaterschöneswetter <Verein>,FES,Lenzburg,,Lenzburg <siehe auch Lenzburg: Theaterschöneswetter>,AG,CH,www.theaterschoeneswetter.ch/theatertage-lenzburg.php,,x,,a,1998-,,,,,1 C,(2001)-
+EFES_230,Festival des Clowns,,,x,FES VOK,Leukerbad,,Leukerbad,VS,CH,x,,x,,na,1995-1997?,,,,,12 R <Sammelcouvert>,1995-(1997)
+EFES_231,Tanzherbst,,inkl. Tanznovember,x,FES STT,Liestal,,Liestal,BL,CH,x,,x,,na,?,,,,,1 C,"(1989), 1990, (1991)"
+EFES_232,Opernwerkstatt Ligerz,,,x,FES,Ligerz,,Ligerz,BE,CH,x,,x,,na,?,,,,,6 R <Sammelcouvert>,(2005)-(2008)
+EFES_233,il gatto danza,,,x,FES STT,Locarno,,Locarno,TI,CH,<früher:> www.organicoscenaartistica.ch,,x,,na,2002-2007,,osa! la danza,,,x,x
+EFES_234,Il castello incantato,,Festival internazionale di teatro con figure,x,FES STP,Locarno u.a.,,Locarno: Teatro dei Fauni,TI,CH,www.teatro-fauni.ch/festival,,Unima,,a,?,,,,,x,x
+EFES_235,La Donna Crea festival internazionale,,,x,FES STK,Locarno,,Locarno: La Donna Crea festival internazionale,TI,CH,www.organicoscenaartistica.ch,,x,,a,?,,,,,1 R <Sammelcouvert>,(2014)-
+EFES_236,osa! la danza,,,?,FES STT,Locarno,,Locarno,TI,CH,www.organicoscenaartistica.ch,,KTV,,a,2008-,il gatto danza. Organico scena artistica,,,,1 C,(2009)-
+EFES_237,Maratona del Teatro amatoriale della Svizzera italiana,,,x,FES ATV,Locarno u.a.,,Locarno,TI,CH,www.maratona-teatrale-si.ch,,x,,a,?,,,,,x,x
+EFES_238,Il Teatro in Festa,,,Teatro Paravento,FES,Locarno,,Locarno: Teatro Paravento,TI,CH,www.teatro-paravento.ch,,x,,a,?,,,,,x,x
+EFES_239,OperaLocarno,Opera Locarno,,x,FES,Locarno,,Locarno,TI,CH,x,,x,,na,2009-2010,,,,,1 C,2009-2010
+EFES_240,Confronti teatrali,,rassegna internazionale,x,FES,Lugano,,Lugano,TI,CH,x,,x,,na,?,Giostra del teatro,,,,1 C,1985
+EFES_241,Festival della Danza,,,x,FES STT,Lugano,,Lugano,TI,CH,x,,x,,na,2008-?,,,,,1 C,2008
+EFES_242,Festival Internazionale del Teatro e della Scena Contemporanea,FIT,,x,FES TFS <vor 1889 FES STK>,Lugano,,"Lugano <Ausgaben 4-6 1983, 1985, 1987 unter Lugano Giostra del Teatro bzw. Confronti teatrali>",TI,CH,www.fitfestival.ch,,x,,a,?-,,,,,3 C,1981
+EFES_243,Festival Internazionale delle Marionette,Marionetten-Festival,Lugano,x,FES STP,"Lugano <später Ascona, dann wieder Lugano> <bereinigen>",,"Lugano <bis 1986, später Ascona: Internationales Marionettenfestival",TI,CH,www.palco.ch,,Unima,,a,1979-,Internationales Festspiel für Marionetten,,,,1 C (Lugano) 1 C (Ascona),"1979-1980, 1982-1986 (Lugano)     1986- (Ascona)"
+EFES_244,Giostra del teatro,,,x,FES STK,Lugano,,Lugano,TI,CH,x,,x,,na,"1983, 1987",,Confronti teatrali,,,1 C,"1983, 1987"
+EFES_245,Il Maggiolino,,"Festival Teatro, danza e musica per la prima infanzia",Teatro Pan,FES STK,Lugano,,Lugano: Teatro Pan,TI,CH,www.teatro-pan.ch,,x,,a,?,,,,,x,x
+EFES_246,Orme Festival di arti integrate,,,?,FES,Lugano,,Lugano,TI,CH,www.ormefestival.ch,,x,,a,?,,,,,1 R <Sammelcouvert>,(2015)-(2015)
+EFES_247,Primavera Concertistica,,,x,FES,Lugano,,Lugano,TI,CH,x,,x,,na,?,,,,,1 C,"(1984), 1995, 1999"
+EFES_248,Laboratorio Internazionale del Teatro delle Radici,,,Teatro delle Radici,FES,Lugano,,Lugano: Teatro delle Radici,TI,CH,www.teatrodelleradici.net,,x,,a,?,,,,,x,x
+EFES_249,Rassegna Home,,,Teatro Foce,FES,Lugano,,Lugano: Teatro Foce,TI,CH,www.foce.ch,,x,,a,?,,,,,x,x
+EFES_250,Rassegna Senza Confini,,,Teatro Pan,FES STK,Lugano ; Chiasso ; Como,,Lugano <siehe auch Lugano: Teatro Pan><siehe auch Locarno: Teatro Paravento>  <siehe auch CH:Einz. Reg.:Ital. Schweiz und 1.28> <siehe auch Chiasso: Div. A-Z>,TI,CH,www.teatro-pan.ch,,x,,a,?,,,,,1 C,(2001)-
+EFES_251,SOLOinscena,Solo in Scena,,Il Cortile?,FES,Lugano,,Lugano: Il Cortile,TI,CH,www.ilcortile.ch,,x,,a,,,,,,x,x
+EFES_252,Ticino Musica,,International Meeting of Young Musicians ; Incontro Internazionale di Giovani Musicisti,,FES,Lugano,,Lugano,TI,CH,www.ticinomusica.com,,x,,a,1979?-,,,,,1 R <Sammelcouvert>,(2016)-
+EFES_253,Vesperali,,,x,FES,Lugano,,Lugano,TI,CH,x,,x,,na,?,,,,,1 C,"(1987), 1991, 1993, 1995"
+EFES_254,Festi Léz'Arts,,,?,FES ATV,Lully-sur-Morges,,Lully-sur-Morges: Les Arts en Scene,VD,CH,www.lesartsenscenes.ch,,x,,a,?,,,,,x,x
+EFES_255,Heimspiele,,Festival,Kleintheater Luzern ; Südpol,FES,Luzern ; Kriens,,Luzern: Kleintheater Luzern,LU,CH,www.luzernertheater.ch/heimspiele,,x,,a,?,,,,,x,x
+EFES_256,Internationale Musikfestwochen Luzern,IMF,,x,FES,Luzern,,"Luzern: Internat. Musikfestwochen (wenn Grunds, ausl. Gastspiel oder Schweiz. Theater), Zusatzkopie in Stammort Schweiz. Theater",LU,CH,x,,x,,na,1938 bzw. 1943-2000,,Lucerne Festival,,,1 S,1938-2000
+EFES_257,JUTZ,,Zentralschweizer Kinder- und Jugendtheatertreffen,?,FES STT,Luzern,,Luzern (ZSV),LU,CH,x,,x,,a,?,,,,,x,x
+EFES_258,Lucerne Festival,,,Lucerne Festival,FES,Luzern,,"Luzern (wenn Grunds, ausl. Gastspiel oder Schweiz. Theater), Zusatzkopie in Stammort Schweiz. Theater",LU,CH,www.lucernefestival.ch,,x,,a,2001-,Internationale Musikfestwochen Luzern (IMF),,,,1 S,2001-
+EFES_259,LUfTH,Luzerner Treffen Freier Theater,,x,FES TFS,Luzern,,Luzern,LU,CH,x,,x,,na,?,,,,,1 C,(1988)-(1991)
+EFES_260,Luzerner Schultheatertage,,,x,FES STK,Luzern,,Luzern,LU,CH,www.phlu.ch/dienstleistung/zentrum-theaterpaedagogik/schultheatertage,,x,,a,1989-,,,,,1 C,(1990)-
+EFES_261,Mozart-Tage Luzern,,,x,FES,Luzern,,Luzern,LU,CH,x,,x,,a,?,,,,,1 C,2002
+EFES_262,Oster-Festival,Osterfestspiele Luzern,,Lucerne Festival,FES,Luzern,,Luzern: Osterfestspiele Luzern <siehe auch Luzern: Lucerne Festival und Luzern: KKL,,CH,www.lucernefestival.ch,,x,,a,1987-,,,,,1 C,1987-
+EFES_263,Secondofestival,Secondo Festival,,Secondofestival,FES,Luzern u.a.,,CH: Grundsätzliches <siehe auch früher unter Olten und unter Zürich>,LU,CH,www.secondofestival.ch,,x,,a,2007-,,,,,1 C,2007-
+EFES_264,woerdz das spoken word festival,,,?,FES,Luzern ; Kriens,,Luzern,LU,CH,www.woerdz.ch,,x,,a,secondo,,,,,x,x
+EFES_265,Zaubersee,,Festival,x,FES,Luzern,,Luzern,LU,CH,www.zaubersee.ch,,x,,a,?,,,,,1 C,(2015)-
+EFES_266,Rassegna di Teatro Magadino,,,x,FES,Magadino,,Magadino: La Darsena,TI,CH,x,,x,,a,?,,,,,x R,x
+EFES_267,Mammern Classics,,,Mammern Classics,FES,Mammern,,Mammern,TG,CH,www.mammernclassics.ch,,x,,a,?,,,,,x,x
+EFES_268,Festival des 5 Continents,,,?,FES,Martigny,,Martigny,VS,CH,www.5continents.ch,,x,,a,1994-,,,,,x,x
+EFES_269,Matten lacht Comedy Nacht,,,Matten lacht Comedy Nacht,FES VOK,Matten,,Matten,BE,CH,www.mattenlacht.ch,,x,,a,?,,,,,x,x
+EFES_270,Rencontres théâtrales de Miège,,,Rencontres théâtrales de Miège,FES ATV,Miège,,Miège,VS,CH,www.rencontres-theatrales-miege.ch,,x,,a,2012-,,,,,1 R <Sammelcouvert>,(2015)-
+EFES_271,Oh! Festival,,"Marché du spectacle Vitrine des arts vivants suisses et internationaux en Valais ; Ein Schaufenster für nationale und internationale darstellende Kunst im Wallis",?,FES,Monthey,,Monthey,VS,CH,www.ohfestival.ch,,x,,a,?,,,,,1 R <Sammelcouvert>,(2015)-
+EFES_272,Dance Festival,,Montreux,x,FES STT,Montreux,,Montreux,VD,CH,,,x,,na,1998,,,,,1 C,1998
+EFES_273,Festival de Jazz,,Red Buddah Theatre,x,x,Montreux,,Montreux,VD,CH,x,,x,,na,1973,,,,,1 C,1973
+EFES_274,Festival du rire,,,Festival du Rire,FES VOK,Montreux,,Montreux,VD,CH,x,,x,,na,1989-?,,Montreux Comedy Festiva,,,1 C,(1991)-(2009)
+EFES_275,Montreux Comedy Festival,,,Montreux Comedy Festival,FES VOK,Montreux,,Montreux: Mâchoire d'Or,VD,CH,www.montreuxcomedy.com,,x,,a,?,"Festival du Rire, Mâchoire d'Or",,,,1 C,"(2002), 2014-"
+EFES_276,Septembre musical,,Festival de Musique Classique Montreux-Vevey,Festival de Musique Classique (Septembre musical),FES,Montreux,,Montreux,VD,CH,www.septmus.ch,,x,,a,1946-,Festival de Montreux,,,,1 C,"(1977), 1990, 1992, 1993, 1998-"
+EFES_277,Diabolo Festival Pour Enfants,,,?,FES,Morges,,Morges,VD,CH,www.diabolofestival.ch,,x,,a,2012?-,,,,,2 R <Sammelcouvert>,"2012, 2016"
+EFES_278,Morges-sous-Rire,,Festival d’Humour,?,FES VOK,Morges,,Morges,VD,CH,www.morges-sous-rire.ch,,x,,a,1989-,,,,,1 C,1989-
+EFES_279,Le Mois Théâtrale,,,x,FES,Môtiers,,Môtiers,NE,CH,,,x,,na,?,,,,,x,x
+EFES_280,Festival des Petites Oreilles,,,?,FES STK,Moutier,,Moutier,JU,CH,x,,x,,a,?,,,,,1 R <Sammelcouvert>,(2008)-
+EFES_281,"Festival ""Les p'tits souliers""",,,?,FES STK,Moutier,,Moutier,JU,CH,x,,x,,a,?,,,,,1 R <Sammelcouvert>,(2014)-
+EFES_282,Festival Espacestand,,,?,FES STK,Moutier,,Moutier,JU,CH,www.espacestand.ch,,x,,a,?,,,,,3 R <Sammelcouvert>,(2014)-
+EFES_283,Quinzaine Culturel de Moutier,,,x,FES,Moutier,,Moutier,JU,CH,x,,x,,na,1967-2002,,,,,15 R <Sammelcouvert>,"(1984, 1990, 1992, 1994, 1998, 2000, 2002"
+EFES_284,Stand'été,,,?,FES,Moutier,,Moutier,JU,CH,www.standete.ch,,x,,a,?,,,,,10 R <Sammelcouvert>,(2005)-
+EFES_285,"""Lach im Guldental""",,,?,FES VOK,Mümliswil,,Mümliswil,SO,CH,www.lachimguldental.ch,,x,,a,2014-,,,,,x,x
+EFES_286,Classionata,,,Classionata,FES,Mümliswil,,Mümliswil,SO,CH,www.classionata.ch,,x,,a,1999-,,,,,1 C,1999-
+EFES_287,Murten Classics,,,Murten Classics (Sommerfestspiel Murten),FES,Murten,,Murten,FR,CH,www.murtenclassics.ch,,x,,a,?,Sommerfestspiele Murten,,,,5 R <Sammelcouvert>,(2001)-
+EFES_288,Buskers Festival Neuchâtel,,,x,FES,Neuchâtel,,Neuchàgtel,NE,CH,www.buskersfestival.ch,,x,,a,1991-,,,,,1 C,"1991, 1995, 1997"
+EFES_289,Festival de Danse Contemporaine,,ADN,ADN Association Danse Neuchâtel,FES STT,Neuchâtel,,Neuchâtel: ADN,NE,CH,www.adn-scene-ouverte.ch,,x,,a,?,,,,,1 C,x
+EFES_290,Festival de Neuchâtel,,,x,FES,Neuchâtel,,Neuchâtel,NE,CH,x,,x,,na,?,,,,,1 C,"(1983), 1985, 1987, 1989, 1991, 193, 1996, 1998, (2000)"
+EFES_291,Festival de Théâtre Amateur,,,x,FES ATV,Neuchâtel,,Neuchâtel,NE,CH,x,,x,,na,?,,,,,1 C,1984
+EFES_292,Festival international de la marionnette,marioNEttes Festival International; Semaines Internationales de la Marionnette en Pays Neuchâtelois,,?,FES STP,Neuchâtel,,Neuchâtel: Semaines Int. De la Marionnette und CH: Einz. Reg.: Kt. Neuchâtel,NE,CH,www.festival-marionnettes.ch,,Unima,,a,1985-,Semaines Internationales de la Marionnette en Pays Neuchâtelois,,,,1 C,1985-
+EFES_293,Hiver de Danses,,,ADN Association Danse Neuchâtel,FES STT,Neuchâtel,,Neuchâtel,NE,CH,www.adn-scene-ouverte.ch,,x,,a,2011-,,,,,1 C,(2014)-
+EFES_294,Neuchâtel Dance Festival,,,x,FES STT,Neuchâtel,,Neuchâtel,NE,CH,x,,x,,na,1993-2001,,,,,1 C,1993-2001
+EFES_295,Neuchâtel Scène Ouverte,,,ADN Association Danse Neuchâtel,FES STT,Neuchâtel,,Neuchâtel: ADN,NE,CH,www.adn-scene-ouverte.ch,,x,,na,2003-2010,,,,,1 C,2003-2010
+EFES_296,Rencontres européenne de théàtre pour enfants,Europäisches Kindertheatertreffen,"Neuchâtel, 1984",x,FES STK,Neuchâtel,,Neuchâtel,NE,CH,x,,x,,na,?,,,,,1 C,1984
+EFES_297,Théâtre de la connaissance,,université de Neuchâtel,?,FES,Neuchâtel,,Neuchâtel,NE,CH,www.unine.ch/theatre-connaissance/home.html,,x,,a,2014-,,,,,1 R <Sammelcouvert>,(2015)-(2015)
+EFES_298,Amathéa,,festival du théâtre amateur,x,FES ATV,Nyon,,Nyon,NE,CH,x,,x,,na,?,,,,,1 C,"(1990), (1992)"
+EFES_299,faro Festival des arts vivants,Far Festival,,?,FES TFS,Nyon,,Nyon,VD,CH,www.festival-far.ch,,Corodis     Premio,,a,1986?-,Festival de Théâtre d'été de Nyon,,,,1 C,(1999)-
+EFES_300,Luna Classics,LunaClassics,,Luna Classics,FES,Nyon,,Nyon,VD,CH,www.luna-classics.com,,x,,a,2014-,Saint-Prex Festival (Festival de Saint-Prex),,,,1 C,2014-
+EFES_301,Paléo-Festival,,,Paléo-Festival,FES,Nyon,,Nyon,VD,CH,www.paleo.ch,,x,,a,1976-,"First Folk Festival, Nyon Folk Festival",,,,1 C,"1991, 1998, 2000, 2001"
+EFES_302,Théâtre d'été,,Festival,x,FES,Nyon,,Nyon,VD,CH,x,,x,,na,?-1998,,Far Festival,,,1 S,(1984)-1998
+EFES_303,Performa Festival,,,?,FES,o.O.,,?,TI,CH,www.performa-festival.ch,,x,,a,?,,,,,x,x
+EFES_304,Freilichtbühne St. Petersinsel,,,x,x,Erlach?,,Bern: Theater für das Bernerland,BE,CH,x,,x,,na,?,,,,,x,x
+EFES_305,Rheintaler Kultur- und Theatertage,,,?,FES,o.O. <versch. Häuser und Rheintaler Kulturstiftung>,,?,SG,CH,x,,x,,a,?,,,,,x,x
+EFES_306,knapp live,,,x,FES VOK,Olten,,Olten,SO,CH,x,,x,,a,2016-,,,,,1 C,
+EFES_307,Laut&Deutlich,,Poetry Slam,?,FES VOK,Olten,,"Olten (bereinigen mit art i.g., Nachtfieber)",SO,CH,www.artig.ch,,x,,a,2006-,,,,,1 C,(2007)-
+EFES_308,Oltner Kabarett-Tage,Oltner Cabaret-Tage,inkl. Oltner Kabarett-Casting ; Oltner Kabarettcasting,Oltner Kabarett-Tage,FES VOK,Olten,,Kabarett: Olten,SO,CH,www.kabarett.ch,,KTV,,a,1986-,,,,,2 S,1986-
+EFES_309,Oltner Tanztage,TanzinOlten; Tanz in Olten,Das Tanzfestival für Zeitgenössischen Tanz,"Oltner Tanztage (TanzinOlten, Tanz in Olten)",FES STT,Olten,,Olten: Oltner Tanztage,SO,CH,www.tanzinolten.ch,,x,,a,1996-,,,,,1 C,1996-
+EFES_310,Opernwerkstatt,,,x,FES,Olten,,Olten,SO,CH,x,,x,,na,?,,,,,1 C,"(1985), 1989, 1992, 1993"
+EFES_311,Secondo-Theaterfestival,,,x,FES,Olten,,Olten,SO,CH,x,,x,,na,2008 <2.>,,,,,1 C,2008
+EFES_312,Theater- und Tanzwoche Olten,,,?,FES,Olten,,Olten,SO,CH,x,,x,,a,?,,,,,2 R <Sammelcouvert>,"(2007), (2014)"
+EFES_313,Wortklang,,,?,FES VOK,Olten,,Olten: Vario-Bar,SO,CH,www.wortklang.ch,,x,,a,?,,,,,1 C,(2009)-
+EFES_314,Quinzaine Artistique d'Orbe,,,x,FES,Orbe,,Orbe,VD,CH,,,x,,na,1966-1991,,,,,28 R <Sammelcouvert>,(1982)-(1992)
+EFES_315,Heubüni,,Kabarett- und Kleinkunstfestival,?,FES VOK,Ortschwaben,,Ortschwaben,BE,CH,www.heubueni.ch,,x,,a,2004 (Erste Ausgabe)-,,,,,3 R <Sammelcouvert>,"2004, 2005, 2006"
+EFES_316,La Cour des Contes,,,,FES,Plan-les-Ouates,,Plan-les-Ouates,GE,CH,,,x,,a,,,,,,1 R <Sammelcouvert>,(2015)-
+EFES_317,Festival International du One-man-show et de l'Humour,,,x,FES VOK,Pully,,Pully,VD,CH,,,x,,na,1984 <2. Ausgabe siehe: Fribourg_ Mourire>,,,,,1 C,1984
+EFES_318,Regensdorfer Musikwochen,,,x,FES,Regensdorf,,Regensdorf: Musikwochen,ZH,CH,x,,RVA,,na,?,,,,,16 R <Sammelcouvert>,(1984)-(1993)
+EFES_319,Festival de Théâtre en Herbe,,,x,FES STK,Renens,,Renens,VD,CH,x,,x,,na,?,,,,,17 R <Sammelcouvert>,(1990)-(2001)
+EFES_320,Glucose Festival,,,?,FES VOK,Riaz,,Riaz,FR,CH,www.glucosefestival.ch,,x,,a,?,,,,,1 R <Sammelcouvert>,(2014)-
+EFES_321,Opéra Basel,Opera Basel,,Opéra St. Moritz AG,FES,Riehen,,Riehen: Opernfestival <ab 2013 siehe St. Moritz: Opéra St. Moriz>,BS,CH,www.opera-basel.ch,,x,,a,2006-,"Opernfestival Basel/Riehen, Opernfestival Riehen, Opernfestival im Wenkenhof, Opera Riehen",,,,1 C,2006-2012
+EFES_322,Uferlos,,Festival,x,FES VOK,Rorschach,,Rorschach,TG,CH,x,,x,,na,?,,,,,12 R <Sammelcouvert>,(1987)-(1992)
+EFES_323,Festival Rümlingen,,,Festival Rümlingen,FES,Rümlingen,,Rümlingen,BL,CH,www.neue-musik-ruemlingen.ch,,x,,a,1990-,,,,,3 R <Sammelcouvert>,"(2002), 2014"
+EFES_324,Festival Grock d'or,,,x,FES VOK,Saint-Imier,,Saint-Imier,BE,CH,x,,x,,na,?,,,,,2 R <Sammelcouvert>,(2007)-(2007)
+EFES_325,Festival suisse de mime,,,x,FES VOK,Saint-Imier,,Saint-Imier,BE,CH,x,,x,,na,1995-,,,,,2 R <Sammelcouvert>,(1991)-(1991)
+EFES_326,St. Prex Festival,Festival de St. Prex,,x,FES,Saint-Prex,,St. Prex,VD,CH,,,x,,na,?,,Luna Classics,,,7 R <Sammelcouvert>,(2007)-(2013)
+EFES_327,Dis da cultura da Samedan,,,?,FES,Samedan,,Samedan,GR,CH,www.drauff.ch/disdacultura/,,x,,a,?,,,,,2 R <Sammelcouvert>,(2014)-
+EFES_328,Festival Theater Total,Festival Theater Total,Theaterfestival,?,FES,Sargans,,Sargans: Theaterfestival; Theater Total,SG,CH,x,,x,,a,?,,,,,1 R <Sammelcouvert>,(2015)-
+EFES_329,Internationales Bach-Fest,,,?,FES,Schaffhausen,,Schaffhausen,SH,CH,www.bachfest.ch,,x,,a,1946-,,,,,1 C,"1946, 1973, 1988, 2006"
+EFES_330,English Theatre Festival Schaffhausen,,,Stadttheater Schaffhausen?,FES,Schaffhausen,,Schaffhausen: Stadttheater Schaffhausen (Verweis: Schaffhausen: Schauwerk),SH,CH,www.stadttheater-sh.ch,,x,,a,?,,,,,x,x
+EFES_331,Festival Jups,,Festival Junges Publikum Schaffhausen,?,FS STK,Schaffhausen,,Schaffhausen: Festival Jups,SH,CH,www.festival-jups.ch,,x,,a,2010?-,,,,,2 R <Sammelcouvert>,"(2010), 2015"
+EFES_332,Heimspiel SH,,,Stadttheater Schaffhausen?,FES,Schaffhausen,,Schaffhausen: Stadttheater Schaffhausen,SH,CH,,,x,,a,?,,,,,x,x
+EFES_333,Wort- & Bildfestival,,,?,FES,Schaffhausen,,Schaffhausen,SH,CH,x,,x,,a,(noch existent?),,,,,2 R <Sammelcouvert>,"(2005), 2007"
+EFES_334,Festival Rilke,,,x,FES,Siders/Sierre,,Siders/Sierre,VS,CH,http://fondationrilke.ch,,x,,a,?,,,,,2 R <Sammelcouvert>,"(2000), 2006"
+EFES_335,Internationale Opernwerkstatt Sigriswil,,,x,FES,Sigriswil,,Sigriswil,BE,CH,www.opernwerkstatt.com,,x,,a,1992?-,,,,,1 C,(1997)-
+EFES_336,Festival des artistes valaisans,,,x,FES,Sion/Sitten,,Sion,VS,CH,x,,x,,na,?,,,,,x,x
+EFES_337,Festival Scènes Valaisannes,,,x,FES,Sion/Sitten?,,Sion,VS,CH,www.scenesvalaisannes.ch,,x,,a,,,,,,x,x
+EFES_338,Solothurn Classics,,,x,FES,Solothurn,,Solothurn,SO,CH,x,,x,,na,1991-2016,Classic Openair Solothurn,,,,1 S,1991-2016
+EFES_339,Solothurner Literaturtage,,,Solothurner Literaturtage,FES,Solothurn,,Solothurn: Solothurner Literaturtage,SO,CH,www.literatur.ch,,x,,a,1978-,,,,,1 C,(1987)-
+EFES_340,Buskers-Festival St. Gallen,,,x,FES,St. Gallen,,St. Gallen,SG,CH,x,,x,,a,?,,,,,1 R <Sammelcouvert>,(2015)-(2015)
+EFES_341,St. Galler Festspiele,,,Theater St. Gallen,FES,St. Gallen,,St. Gallen: Theater St. Gallen,SG,CH,www.stgaller-festspiele.ch,,x,,a,2006- ,,,,,x,x
+EFES_342,"St. Galler Literaturtage ""Wortlaut""",,,?,FES,St. Gallen,,St. Gallen,SG,CH,www.wortlautsg.ch,,x,,a,2009-,,,,,1 R <Sammelcouvert>,(2015)-(2015)
+EFES_343,Tanzherbst Ostschweiz,,,x,FES STT,St. Gallen,,St. Gallen,SG,CH,x,,x,,na,1997,,,,,1 C,1997
+EFES_344,Theaterfestival für Kinder und Jugendliche,,"Projekt, noch ohne Titel",?,FES STK,St. Gallen,,St. Gallen,SG,CH,?,,x,,a,2018-,,,,,1 C,(2015)-
+EFES_345,Opéra St. Moritz,Opera St. Moritz,,Opéra St. Moritz,FES,St. Moritz,,St. Moritz <2007 unter: Basel: Opernfestival> <siehe auch bis 2012 Riehen: Opernfestival>,GR,CH,www.opera-stmoritz.ch,,x,,a,2000?-,,,,,2 C,(2001)-
+EFES_346,Maribur,,"Rassegna del Teatro di Figura ""Otello Sarzi""","Maribur (Rassegna del Teatro di Figura ""Otello Sarzi"" <Festival>",FES STP,Stabio,,Stabio,TI,CH,www.maribur.ch,,Unima,,a,1991/1992- bzw. 1997-,,,,,8 R <Sammelcouvert>,"(1994), 2003, 2004, 2006,"
+EFES_347,Stans lacht,Humorfestival Stans,Humorfestival,?,FES VOK,Stans,,Stans,NW,CH,www.stanslacht.ch,,x,,a,?,,,,,4 R <Sammelcouvert>,"(2006), 2011, (2013)"
+EFES_348,Zeltkultur,,Kleinkunstfestival,?,FES VOK,Starrkirch-Wil,,Starrkirch-Wil,SO,CH,www.zeltkultur.ch,,x,,a,?,,,,,3 R <Sammelcouvert>,(2013)-
+EFES_349,tanz:now,,Tanzfestival Theater Phönix,Phönix-Theater,FS STT,Steckborn ,,Steckborn: Phönix-Theater,TG,CH,www.phoenix-theater.ch,,x,,a,,theater:now (Theater: Now),,,,x,x
+EFES_350,theater:now,Theater: Now,,Phönix-Theater,FES,Steckborn ,,Steckborn: Phönix-Theater,TG,CH,www.phoenix-theater.ch,,x,,na,?,,"tanz:now, Tanzfestival Theater Phönix",,,x,x
+EFES_351,nordArt Theaterfestival,,,?,FES,Winterthur,,Stein am Rhein: nordArt,TG,CH,http://nordart.ch,,x,,a,?,,,,,x,x
+EFES_352,Soorser Comedy Täg,,,?,FES VOK,Sursee,,Sursee,LU,CH,www.comedysursee.ch,,x,,a,2003-,,,,,13 R <Sammelcouvert>,"2003-2008, (2012)"
+EFES_353,Variations Musicales de Tannay,,,Variations Musicales de Tannay,FES,Tannay,,Tannay,VD,CH,www.musicales-tannay.ch,,x,,a,?,,,,,2 R <Sammelcouvert>,"(2014), 2015"
+EFES_354,Internationales Amateurtheaterfestival Thun,,,x,FES ATV,Thun,,Thun (ZSV),BE,CH,x,,x,,na,1986-2002,,,,,x,x
+EFES_355,Literaare,,,?,FES,Thun,,Thun,BE,CH,www.literaare.ch,,x,,a,2004-,,,,,1 R <Sammelcouvert>,(2016)-
+EFES_356,Schweizer KleinKunstTag,,,,FES VOK,Thun <früher wechselnde Orte>,,CH: Grundsätzliches: KleinKunstTag,x,CH,www.kleinkunsttag-thun.ch,,x,,a,,,,,,,
+EFES_357,Schweizer Künstlerbörse,KTV-Börse,,Schweizer Künstlerbörse (KTV),FES VOK,Thun <früher: wechselnde Orte>,,Schweiz: Grundsätzliches: KTV-Börse,BE,CH,www.kuenstlerboerse.ch,,x,,a,1975-,,,,,1 S,(1973)-
+EFES_358,Theaterfestival Thusis,Festival da teater Tusaun,,Bündner Vereinigung für das Volkstheater (BVV),FES ATV,Thusis,,Thusis (nicht ZSV?),GE,CH,x,,x,,a,1990-,,,,,x,x
+EFES_359,Internationales Kindertheaterfest,,,?,FES STK,Turgi,,Turgi (ZSV),AG,CH,www.terzstiftung.ch/5-internationales-kindertheaterfest,,x,,a,,,,,,,
+EFES_360,Sommertheater Überlingen,,,?,FES,Überlingen,,Konstanz,,D,www.sommertheater-ueberlingen.de,,x,,a,?,,,,,,
+EFES_361,Festival de Théâtre Amateur Jurassien,Festival D'Art Dramatique,,x,FES ATV,Undervilier,,Undervilier,BE,CH,x,,x,,na,1984,,,,,5 R <Samelcouvert>,1984
+EFES_362,Hinterhalt-Festival,,,?,FES,Uster,,Uster,ZH,CH,www.hinterhalt.ch,,x,,a,2008?-,,,,,1 R <Sammelcouvert>,(2015)-
+EFES_363,Verbier Festival,,,Verbier Festival,FES,Verbier,,Verbier,VS,CH,www.verbierfestival.com,,x,,a,1994-,,,,,1 C,1994-
+EFES_364,Festival de danse contemporaine de Vernier,,,x,FES STT,Vernier,,Vernier,GE,CH,x,,x,,na,1983-1993,,,,,1 C,"(1984), 1985, 1986, 1989-1993"
+EFES_365,Bodenseefestival,,,Bodenseefestival,FES,<verschiedene Orte>,, CH: Einz. Regionen: Ostschweiz,"A, CH, D",CH,www.bodenseefestival.de,,x,,a,1989-,,,,,,
+EFES_366,éviDanse,eviDanse,Festival,?,FES STT,<verschiedene Orte>,,CH: Einz. Regionen: Jura,JU,CH,www.evidanse.ch,,x,,a,?,,,,,,
+EFES_367,Incontri Teatrali,,TASI,x,FES,<verschiedene Orte>,,Lugano: TASI und CH: Einz. Regionen: Italienische Schweiz (bereinigen),TI,CH,x,,x,,na,?,,,,,1 C,(1989)-
+EFES_368,Wintergäste,,Reihe,?,FES,<verschiedene Orte>,, CH: Einz. Regionen: Baselland u.v.a. Sissach: Ebenrain <Schloss>,BL,CH,x,,x,,a,?,,,,,1 C (Sissach),(1991)-(2005)
+EFES_369,Schultheatertage Ostschweiz,,,?,FES ATV,<verschiedene Orte>,,CH: Einz. Regionen: Ostschweiz,x,CH,x,,x,,a,?,,,,,,
+EFES_370,Festival Fou-Rire,,,x,FES VOK,Versoix,,Versoix,GE,CH,x,,x,,na,?,,,,,4 R <Sammelcouvert>,"(1994), 1995, 2004"
+EFES_371,Animai,Ani-Mai; Festival Animai,Festival,Festival Animai,FES,Vevey,,Vevey,VD,CH,http://jeunesse.vevey.ch/animai/,,x,,a,1982-,,,,,1 C,(1992)-
+EFES_372,Biennale du théâtre amateur,,2ième édition,x,FES ATV,Vevey,,Vevey,VD,CH,x,,x,,na,1996,,,,,1 C,1996
+EFES_373,Festival des artistes de rue de Vevey,,,x,FES,Vevey,,Vevey,VD,CH,www.artistesderue.ch,,x,,a,1992-,,,,,1 C,(1998)-
+EFES_374,Festival de création amateurs,,,x,FES ATV,Vevey,,Vevey,VD,CH,,,x,,na,?,,,,,x,x
+EFES_375,Kulturtage Au,Kulturtage Halbinsel Au,,x,FES,Wädenswil,,Au (Halbinsel),ZH,CH,x,,x,,na,?,,,,,6 R <Sammelcouvert>,(1994)-(2003)
+EFES_376,ACT,,Performance Festival der Schweizer Kunsthochschulen ; Platforme performative des hautes écoles d'art Suisse,ACT,FES AUS,<wechselnde Orte>,,CH: Grundsätzliches: Tourneen,x,CH,www.act-perform.net,,x,,a,2003-,,,,,,
+EFES_377,Biennale des Schweizer Amateurtheaters,,,?,FES ATV,<wechselnde Orte>,,"ZSV, Ort?",x,CH,x,,x,,a,?,,,,,1 R <Sammelcouvert> (Neuchâtel),? (2004)-(2004)
+EFES_378,Festival du cartel des petits théâtres de Suisse Romande,,,x,FES RKT,<wechselnde Orte>,,CH: Einz. Regionen: Suisse Romande,x,CH,x,,x,,na,?,,,,,,
+EFES_379,Figuresco,,Figurentheaterfestival für Kinder,?,FES STK,<wechselnde Orte>,,CH: Grundsätzliches: wechselnde Orte,x,CH,www.figuresco.ch,,x,,a,?,Figurentheatertag für Kinder,,,,,
+EFES_380,Journées de théâtre suisse contemporain,JTSC,,?,FES,<wechselnde Orte>,,CH: Einz. Regionen: Suisse Romande,x,CH,www.journeestheatrecontemporain.ch,,x,,a,2003-,,,,,2 R <Sammelcouvert>,(2013)-
+EFES_381,Kinderland,Paese dei Ragazzi; FestiKids Openair,Tournée,"Kinderland (Paese dei Ragazzi, FestiKids Openair)",FES,<wechselnde Orte>,,CH: Grundsätzliches: wechselnde Orte: Kinderland,x,CH,www.kinder-land.ch,,x,,a,?,,,,,,
+EFES_382,Liederlich,,Schweizer Liedermacherfestival,Liederlich <Schweizer Liedermacherfestival>,FES VOK,<wechselnde Orte>,,Zürich,x,CH,www.liederlich.ch,,x,,a,2012-,,,,,1 R <Sammelcouvert>,(2015)-(2015)
+EFES_383,sagenhaft,,Kulturprojekt Albert Koechlin Stiftung 2013,x,Kulturprojekt,<wechselnde Orte>,,CH: Einz. Regionen: Innerschweiz,x,CH,x,,x,,na,2013,,,,,,
+EFES_384,sehnsucht,,Kulturprojekt Albert Koechlin Stiftung 2016,x,Kulturprojekt,<wechselnde Orte>,,CH: Einz. Regionen: Innerschweiz,x,CH,x,,x,,na,2016,,,,,,
+EFES_385,SPOT,,Kinder- und Jugendtheaterfestival ; Kinder- und Jugendtheatertreffen,x,FES STK,<wechselnde Orte>,,"uneinheitliche Ablage: z.T. unter Bremgarten,z.T. unter CH: Grundsätzliches, ASTEJ u Sacherschliessung 1.28 (auch eigenes Couvert unter Bern)",x,CH,www.assitej.ch/spot/,,x,,na,?,KJTT Schweizerische Kinder- und Jugendtheatertage,,,,2 C,(1983)- <ab 5. Ausgabe>
+EFES_386,Theaterfestival BVV,Bündner Theaterfestival,,?,FES ATV,<wechselnde Orte>,,CH: Grundsätzliches:  <siehe auch unter ZSV: Theaterfestival BVV>,GR,CH,www.bvv.ch,,x,,a,?,,,,,,
+EFES_387,Thurgauer Theatertage,TTT,,?,FES,<wechselnde Orte>,,CH: Einz. Reg.: Kt. Thurgau,x,CH,www.thurgauer-theatertage.ch,,x,,a,?,,,,,,
+EFES_388,Zeitgenössische Schweizer Tanztage,Journées de danse contemporaine Suisse; Giornate di danza contemporanea Svizzera; Swiss Comteporary Dance Days; Schweizer Tanztage; Swiss Dance Days,,?,FES STT,<wechselnde Orte>,,CH: Grundsätzliches: Tanz: Zeitgenössische Schweizer Tanztage (siehe auch Zürich: Zeitgenössische Schweizer Tanztage 1998>,x,CH,www.swissdancedays.ch,,x,,a,2006?-,Schweizer Zeitgenössische Tanztage,,,,1 C,(1998)-
+EFES_389,Schweizer Theatertreffen,,,Schweizer Theatertreffen,FES,<wechselnde Orte> Winterthur ; Genève ; Lugano ; Chiasso ; Bellinzona) ,,CH: Grundsätzliches: Schweizer Theatertreffen,x,CH,www.rencontre-theatre-suisse.ch,,x,,a,2014-,,,,,1 C,2014-
+EFES_390,theaterblitze,,,Theater Bilitz,FES,Weinfelden,,Weinfelden: Theater Bilitz,TG,CH,www.theaterblitze.ch,,x,,a,?,,,,,x,x
+EFES_391,augenauf!,,Festival Winterthurer Theaterhäuser,?,FES,Winterthur,,Winterthur: Grundsätzliches?,ZH,CH,www.augenauf-festival.ch,,x,,a,2015-,,,,,x,x
+EFES_392,Bundesordner,,satirischer Jahresrückblick Casinotheater Winterthur mit Tournée,Casinotheater,FES VOK,Winterthur,,Winterthur: Casinotheater,ZH,CH,www.casinotheater.ch,,x,,a,?,,,,,x,x
+EFES_393,Festival für komische Künste ,Int. Festival für Komische Künste,,x,FES VOK,Winterthur,,Winterthur: Mefibo,ZH,CH,x,,x,,na,?,,,,,1 R <Sammelcouvert>,(2002)-(2002)
+EFES_394,Frischlingsparade,,,Casinotheater,FES VOK,Winterthur,,Winterthur: Casinotheater,ZH,CH,www.casinotheater.ch,,x,,a,?,,,,,x,x
+EFES_395,Glotz,,Theaterfestival für ein junges Publikum,x,FES STK,Winterthur,,Winterthur,ZH,CH,x,,x,,na,1995,,,,,1 C,1995
+EFES_396,nordArt Theaterfestival,,,nordArt Theaterfestival,FES,Winterthur,,Stein am Rhein: nordArt,x,CH,,,,,,,,,,,,
+EFES_397,Winterthurer Musikfestwochen,Musikfestwochen Winterthur,,Winterthurer Musikfestwochen (Musikfestwochen Winterthur),FES,Winterthur,,Winterthur: Musikfestwochen,ZH,CH,www.musikfestwochen.ch,,x,,a,1976-,,,,,1 C,(1980)-
+EFES_398,Stille Kracht,,Dinnerspektakel,?,x,Winterthur,,Winterthur: Casinotheater,ZH,CH,www.stillekracht.ch,,x,,a,?,,,,,x,x
+EFES_399,tanzinwinterthur,Tanzfestival Winterthur; Tanzzeitfestival Winterthur,,tanzinwinterthur,FES STT,Winterthur,,Winterthur,ZH,CH,www.tanzinwinterthur.ch,,x,,a,1988-,,,,,1 C,(1990)-
+EFES_400,Thomas-Bernhard-Wochen,,,x,FES,Winterthur,,Winterthur,ZH,CH,x,,x,,na,1997/1998,,,,,1 C,1997-1998
+EFES_401,Winterthur fliegt,,,Theater Winterthur,FES,Winterthur,,Winterthur: Theater Winterthur,ZH,CH,www.theater.winterthur.ch,,x,,a,?,,,,,x,x
+EFES_402,Winterthurer Theater-Mai,,,x,FES,Winterthur,,"Winterthur: Winterthurer Theater-Mai, wenn Grundsätzliches. Mehrere Aufführungen oder ausländische Gastspiele, Verweiskopie in Stammort des einzelnen Schweizer Theaters, wenn nur 1-2 Aufführungen)",ZH,CH,x,,x,,na,1980-?,,,,,1 S,1980-(1988)
+EFES_403,Winterthurer Theaterfrühling,,,?,FES,Winterthur,,Winterthur,ZH,CH,www.https://stadt.winterthur.ch,,x,,a,1988?,Theater-März,,,,1 C,"(1989), 1992, 1994, 1997, 2001, 2003, 2014, 2015"
+EFES_404,Jeux du Castrum,,festival de rue,Jeux du Castrum,FES,Yverdon,,Yverdon: Théâtre du Castrum,VD,CH,www.jeuxducastrum.ch,,x,,a,1982-,Théâtre du Castrum,,,,1 C,"1982, 1985-1987, 1997, 2014"
+EFES_405,Heitere Comedy Open Air,,,?,FES,Zofingen,,Zofingen,AG,CH,x,,x,,na,2004-2012?,,,,,1 C,"2004, 2006, 2007, 2009, 2010, 2011, 2012"
+EFES_406,Moonlight Festival Openair Zofingen,Moonlight Classics,Die grosse Gala der Klassik,Moonlight Festival Openair Zofingen,FES,Zofingen,,Zofingen,AG,CH,www.moonlightfestival.ch,,x,,a,2007- (Moonlight Festival Openair),Classic Open Air,,,,1 C,"(1995), 1997-1998 <Classic Open Air), 2010- (Moonlight)"
+EFES_407,Breakthrough International Breakdance Festival,,,?,FES STT,Zürich,,Zürich,ZH,CH,www.breakthrough-dance.ch,,x,,a,?,,,,,1 R <Sammelcouvert>,(2013)-(2013)
+EFES_408,Die urbane Geschichtenoase,,Erzählkultur im Grünen ; Palmenaus,?,FES,Zürich,,Zürich,ZH,CH,www.geschichtenoase.ch,,x,,a,2012-,,,,,1 R <Sammelcouvert>,(2015)-(2015)
+EFES_409,Doing Glamour,,,x,FES,Zürich,,Zürich,ZH,CH,www.doingglamour.com,,x,,na,?,,,,,1 C,(2004)-(2004)
+EFES_410,Dunkelschön Art-Perfromance-Festival,,,Rote Fabrik,FES,Zürich,,Zürich: Rote Fabrik,ZH,CH,x,,x,,a,?,,,,,x,x
+EFES_411,E-motions,,Tanzfestival,x,FES STT,Zürich,,Zürich,ZH,CH,x,,x,,na,1991 (1. Augabe)-1996 (2. Ausgabe)?,,,,,1 C,"1991, 1996"
+EFES_412,Festival am See,,,x,FES,Zürich,,Zürich,ZH,CH,x,,x,,na,?,,,,,x,x
+EFES_413,Festival der Künste,,ZHDK,Zürcher Hochschule der Künste (ZHdK),FES,Zürich,,Zürich,ZH,CH,x,,x,,a,?,,,,,x,x
+EFES_414,Festspiele Zürich,Zürcher Festspiele,,Festspiele Zürich <verschiedene Zürcher Kulturinstitutionen>,FES,Zürich,,Zürich: Zürcher Festspiele,ZH,CH,www.festspiele-zuerich.ch,,x,,a,1996-,"<bis 2012:> Zürcher, <früher:) Juni-Festwochen Zürich",,,,2 S,(1997)-
+EFES_415,Forum Tanz,,reso; Danse Suisse; Pro Helvetia,Reso Tanznetzwerk Schweiz ; Pro Helvetia,FES STT,Zürich,,Institutionen: Forum Tanz,ZH,CH,www.forumtanz.ch,,x,,a,2013?-,,,,,x,x
+EFES_416,Freischwimmer Festival,,,?,FES TFS,Zürich,,Zürich: Gessnerallee,ZH ,CH,www.freischwimmer-festival.com,,x,,a,?,,,,,x,x
+EFES_417,Gipfelstürmer Festival,,,x,FES,Zürich,,Zürich: Gessnerallee,ZH ,CH,x,,x,,na,1994-2011,,,,,x,x
+EFES_418,Hochspannung - Tanz im November,,,Tanzhaus Wasserwerk <1. Ausgabe>,STT,Zürich,,Zürich,ZH,CH,x,,x,,na,1998-?,,,,,1 C,1998
+EFES_419,Hope & Glory Festival der jungen Talente,,,x,FES,Zürich,,Zürich <1998 siehe unter Gessnerallee bzw. Theater Neumarkt>,ZH,CH,x,,x,,na,1998-2003 oder 2004,,,,,1 C,(1999)-2004
+EFES_420,Internationales Puppentheater-Festival Zürich,,,x,FES STP,Zürich,,Zürich <ab 1984 siehe: Zürcher Puppentheater>,ZH,CH,x,,x,,na,"1981, 1984, 1988",,,,,1 C,1981
+EFES_421,Internationales Theatersportfestival Zürich,,,Internationales Theatersportfestival,FES,Zürich,,Zürich: Eidgenössisches Improvisationstheater,ZH,CH,www.theatersportfestival.ch,,x,,a,?,,,,,x,x
+EFES_422,Juni-Festwochen Zürich,,,x,FES,Zürich,,"Zürich, Juni-Festwochen (wenn Grundsätzliches, mehrere Aufführungen u. Veranstaltungen ausserhalb der üblichen Spielstätten), Stammort einz. Schweizer Theater (in allen anderen Fällen)",ZH,CH,x,,x,,na,1921-1993,,Zürcher Festspiele,,,2 S,"(1925), 1938-1993"
+EFES_423,Keine Disziplin,,Internationales Festival,Gessnerallee,FES TFS,Zürich,,Zürich: Gessnerallee,ZH,CH,www.gessnerallee.ch,,x,,a,?,,,,,x,x
+EFES_424,Kinder- und Jugendtheater 86,,,x,FES STK,Zürich,,Zürich,ZH,CH,x,,x,,na,1986,,,,,1 C,1986
+EFES_425,Laban-Tanzfest,,4. Europäisches Laban-Tanzfest,x,FES STT,Zürich,,Zürich,ZH,CH,x,,x,,na,1997,,,,,1 C,1997
+EFES_426,Laugh up! Stand Up!,,,,FES VOK,Zürich,,Zürich,ZH,CH,www.laughupstandup.ch,,x,,a,2015-,,,,,1 C,2015
+EFES_427,Miller’s Spektakuli,Spektatkuli,Internationales Kabarettfestival,Miller's Studio,FES VOK,Zürich,,Zürich: Miller's Studio),ZH,CH,www.millers-studio.ch,,x,,a,2015-,,,,,x,x
+EFES_428,Okkupation,,Internationales Theaterfestiva l; Rote Fabrik,x,FES TFS,Zürich,,Zürich: Theater Hora (ZSV),ZH,CH,x,,x,,na,?,,,,,x,x
+EFES_429,Quinzaine culturelle romande,,,x,FES,Zürich,,Zürich: MGB,ZH,CH,x,,x,,na,?,,,,,1 R <Sammelcouvert>,(1986)-(1986)
+EFES_430,Schweizer Modewoche,,"Modetheater, -cabaret",x,FES,Zürich,,Zürich,ZH,CH,x,,x,,na,?,,,,,1 C,1942-1944
+EFES_431,Scènes Romandes,,,x,FES,Zürich,,Zürich,ZH,CH,x,,x,,na,?,,,,,1 C,(1991)-(1991)
+EFES_432,Schläck Theater für Chind ,,,x,x,Zürich,,Zürich,ZH,CH,x,,x,,na,1984,,,,,2 R <Sammelcouvert>,1984
+EFES_433,Sommerfestival 2001,,im Theater 11 ; Umbau Corso,x,FES,Zürich,,Zürich,ZH,CH,x,,x,,na,2001,Corso,Corso,,,1 C,2001
+EFES_434,Sommer Theaterfest,Sommer Theater Fest,,,FES,Zürich,,Zürich,ZH,CH,x,,x,,na,?,,,,,5 R <Sammelcouvert>,(1996)-(1996)
+EFES_435,Stand Up! Comedy Show,,,Bernhard Theater,FES VOK,Zürich,,Zürich: Bernhard Theater,ZH,CH,https://stand-up.ch,,x,,a,?,,,,,x,x
+EFES_436,Spunk Zürcher Impro-Theater Festival,,,theater anundpfirsich,FES,Zürich,,Zürich,ZH,CH,www.improtheaterfestival.ch,,x,,a,?,,,,,x,x
+EFES_437,Stromereien,,Performance-Festival,Stromereien,FES TFS,Zürich,,Zürich,ZH,CH,www.stromereien.org,,x,,a,2001?,,,,,1 C,(2003)-(2014)
+EFES_438,Take That,,Festival,Gessnerallee ; Tanzhaus Zürich ; Rote Fabrik,FES,Zürich,,Zürich: Gessnerallee und Zürich: Tanzhaus Zürich und Zürich: Rote Fabrik,ZH,CH,x,,x,,a,?,,,,,x,x
+EFES_439,Tango-Woche,Zürcher Tangowoche,,x,FES STT,Zürich,,Zürich,ZH,CH,x,,x,,na,?,,,,,1 C,(2004)-(2006)
+EFES_440,Tanzfenster Zürich,,,x,FES STT,Zürich,,Zürich,ZH,CH,x,,x,,na,?,,,,,1 C,"(2000), (2002)"
+EFES_441,Tanzströmungen,,,x,FES STT,Zürich,,Zürich,ZH,CH,x,,x,,na,2003-?,,,,,1 C,2003
+EFES_442,Volts- & Visions-Festival,,Film- und Theaterspektakel,x,FES,Zürich,,Zürich,ZH,CH,x,,x,,na,?,,,,,1 C,2000
+EFES_443,Warmer Mai,,lesbisch-schwules Kulturfestival,x,FES,Zürich,,Zürich,ZH,CH,x,,x,,na,?,,,,,1 C,"(2001), (2005, (2008)"
+EFES_444,Yeah Yeah Yeah,,Internationales Zürcher Tanzfestival ,Farbiktheater (Rote Fabrik),FES STT,Zürich,,Zürich: Rote Fabrik,ZH,CH,www.yeahyeahyeah.ch,,x,,a,?,,,,,x,x
+EFES_445,Zürcher Amateur-Theaterfestival,Amateur-Theaterfestival Zürich,,,FES ATV,Zürich,,Zürich (ZSV),ZH,CH,x,,x,,na,1980,,,,,,1980
+EFES_446,Zürcher Restspiele,,Festival der Freien Zürcher Theater-Szene,Farbiktheater (Rote Fabrik),FES TFS,Zürich,,Zürich: Rote Fabrik,ZH,CH,x,,x,,a,?,,,,,1 R <Sammelcouvert>,(2012)-(2012)
+EFES_447,Zürcher Theaterspektakel,(Zürcher Theater Spektakel,,Zürcher Theaterspektakel,FES,Zürich,,Zürich,ZH,CH,www.theaterspektakel.ch,,x,,a,1980-,,,,,13 S,1980-
+EFES_448,Zürich Comic-Festival,,,x,x,Zürich,,Zürich: Zürich Comic-Festival,ZH,CH,x,,x,,na,1994-?,,,,,1 C,1994
+EFES_449,Zürich moves,,Festival for Contemporary Dance,?,FES STT,Zürich,,Zürich,ZH,CH,www.zurichmoves.com,,Premio,,a,2012-,,,,,1 C,(2014)-
+EFES_450,Zürich tanzt,,Festival,?,FES STT,Zürich,,Zürich,ZH,CH,www.zuerichtanzt.ch,,x,,a,2006 (Tanzfest)-,,,,,1 C,(2013)-
+EFES_451,Züri lacht,,Comedy Festival,?,FES VOK,Zürich,,Zürich <2003ff vgl. Miller's Studio>,ZH,CH,www.comedy.ch,,,,a,1995?-,,,,,1 C,(1996)-(2008)
+EFES_452,Pas de problème <Festival>,,afroschweizerisches Kulturfestival,Pas de problème,FES,Zürich (Schwamendingen) <später verschiedene Orte>,,Zürich: Ziegelhütte,ZH,CH,www.pasdeprobleme.org,,x,,a,2013-,,,,,x,x
+EFES_453,Das Tanzfest,Fête de la danse; Festa danzante,,?,FES STT,Zürich u.a.,,CH: Grundsätzliches: Das Tanzfest (Doubletten unter einz. Orte),x,CH, www.dastanzfest.ch ; www.fetedeladanse.ch,,x,,a,?,,,,,1 C,(2010)-
+EFES_454,Lilibiggs Kinder Festivals,,,?,FES STK,Zürich u.a.,,CH: Grundsätzliches: Tourneen: Lilibiggs,x,CH,www.lilibiggs-kinder-festivals.ch,,x,,a,?-2015?,,,,,1 C,(2013)-
+EFES_455,Tanzfestival Steps,,Tanzfestival Migros-Kulturprozent,Steps (Tanzfestival),FES STT,Zürich u.a.,,Zürich: MGB,x,CH,www.steps.ch,,x,,a,1988-,,,,,x,x
+EFES_456,Tanzfaktor interregio,,,Reso - Tanznetzwerk Schweiz,FES STT,Zürich u.a.,,Zürich,x,CH,www.tanzfaktor.ch,,x,,a,,Tanz>faktor ,,,,x,x
+EFES_457,Kulturtage Zurzach,,,x,FES,Zurzach,,Zurzach,AG,CH,www.kulturtage-badzurzach.ch,,x,,a,?,,,,,3 R <Sammelcouvert>,"(2005), 2012, "
+EFES_458,Tanznovember,,,x,FES STT,Basel ; Bern ; Genève ; Lausanne ; Zürich u.a.,,"Bern, Genève, Lausanne, Zürich: Tanz <siehe auch Liestal>",ZH,CH,x,,x,,na,"1985-1988, 1991",,,,,1 R <Sammelcouvert>(Basel) 1 C (Bern)    1 C (Genève)  1 C (Lausanne)  2 R <Sammelcouvert> (lugano) 2 R Sammelcouvert (Winterthur) 4 C (Zürich),"(1991) (Basel) 2000  (Bern) 1991 (Genève)   1987, 1988 (Lausanne) 1987 (Lugano) 1988 (Winterthur) 1985, 1986, 1987, 1988 (Zürich)"
+EFES_459,Blickfelder <Theaterfestival>,,,?,FES STK,Zürich ; Bern ; Basel ...,,"Zürich, Bern, Basel ...","Z;, BE; BS; u.a.",CH,http://blickfelder.ch,,x,,a,1992 (1. Ausgabe),,,,,2 S (Zürich)  1 C (Basel),"1992- (Zürich)  (2000), (2002) (Basel)"
+EFES_460,Ruhrtriennale,,,,FES,<verschiedene Orte>,,D: Einz. Reg: NRW,x,D,www.ruhrtriennale.de,,,,,,,,,,,
