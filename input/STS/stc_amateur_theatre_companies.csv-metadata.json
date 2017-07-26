@@ -1,0 +1,68 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "example.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "ID_NR_Corporate_Body"
+      },
+      {
+        "titles": "Name_Corporate_Body"
+      },
+      {
+        "titles": "Name_Corporate_Bod_ Alias"
+      },
+      {
+        "titles": "Attribute_Byline_Description"
+      },
+      {
+        "titles": "Ort"
+      },
+      {
+        "titles": "Geodaten"
+      },
+      {
+        "titles": "Ablageort_STS"
+      },
+      {
+        "titles": "Kanton"
+      },
+      {
+        "titles": "Land"
+      },
+      {
+        "titles": "Webadresse"
+      },
+      {
+        "titles": "Adresse"
+      },
+      {
+        "titles": "Verband"
+      },
+      {
+        "titles": "Status"
+      },
+      {
+        "titles": "Eckdaten_nicht_STS"
+      },
+      {
+        "titles": "fruehere_Namen"
+      },
+      {
+        "titles": "spaetere_Namen"
+      },
+      {
+        "titles": "Dokumente_VP_V"
+      },
+      {
+        "titles": "Dokumente_VP_G"
+      },
+      {
+        "titles": "Dokumente_PA_V"
+      },
+      {
+        "titles": "Dokumente_PA_G"
+      }
+    ]
+  }
+}
