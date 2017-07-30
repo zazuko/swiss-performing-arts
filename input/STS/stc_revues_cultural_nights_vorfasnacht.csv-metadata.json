@@ -1,58 +1,74 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "example.csv",
+  "url": "stc_revues_cultural_nights_vorfasnacht.csv",
   "tableSchema": {
+    "aboutUrl": "http://data.performing-arts.ch/sts/revuesculturalnightsvorfasnacht/{ID_NR_Event}",
     "columns": [
       {
-        "titles": "ID_NR_Event"
+        "titles": "ID_NR_Event",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_sts2017"
       },
       {
-        "titles": " Name_Event"
+        "titles": " Name_Event",
+        "propertyUrl": "http://vocab.performing-arts.ch/label"
       },
       {
-        "titles": "Name_Event_Alias"
+        "titles": "Name_Event_Alias",
+        "propertyUrl": "http://vocab.performing-arts.ch/alternativeLabel"
       },
       {
-        "titles": "Attribute_Byline_Description"
+        "titles": "Attribute_Byline_Description",
+        "propertyUrl": "http://vocab.performing-arts.ch/description"
       },
       {
-        "titles": "Ort "
+        "titles": "Ort ",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasLocation"
       },
       {
         "titles": "Geodaten"
       },
       {
-        "titles": "Ablageort_STS"
+        "titles": "Ablageort_STS",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_ablageortSts"
       },
       {
-        "titles": "Kanton"
+        "titles": "Kanton",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasLocation"
       },
       {
-        "titles": "Land"
+        "titles": "Land",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasLocation"
       },
       {
-        "titles": "Webadresse"
+        "titles": "Webadresse",
+        "propertyUrl": "http://vocab.performing-arts.ch/officialWebsite"
       },
       {
         "titles": "Adressen"
       },
       {
-        "titles": "Verband"
+        "titles": "Verband",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_isMemberOf"
       },
       {
-        "titles": "Rep"
+        "titles": "Rep",
+        "propertyUrl": "http://vocab.performing-arts.ch/internalNote"
       },
       {
-        "titles": "Status"
+        "titles": "Status",
+        "propertyUrl": "http://vocab.performing-arts.ch/activeDate"
       },
       {
-        "titles": "Eckdaten_nicht_STS"
+        "titles": "Eckdaten_nicht_STS",
+        "propertyUrl": "http://vocab.performing-arts.ch/internalNote"
       },
       {
-        "titles": "fruehere_Namen"
+        "titles": "fruehere_Namen",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_fruehereNamen"
       },
       {
-        "titles": "spaetere_Namen"
+        "titles": "spaetere_Namen",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_spaetereNamen"
       },
       {
         "titles": "Dokumente_VP_V"
@@ -61,7 +77,8 @@
         "titles": "Dokumente_VP_G"
       },
       {
-        "titles": "Dokumente_PA_V"
+        "titles": "Dokumente_PA_V",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_volumen"
       },
       {
         "titles": "Dokumente_PA_G"

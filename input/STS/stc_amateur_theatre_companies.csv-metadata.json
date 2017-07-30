@@ -1,6 +1,6 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "example.csv",
+  "url": "stc_amateur_theatre_companies.csv",
   "tableSchema": {
     "aboutUrl": "http://data.performing-arts.ch/sts/amateurtheatrecompany/{ID_NR_Corporate_Body}",
     "columns": [

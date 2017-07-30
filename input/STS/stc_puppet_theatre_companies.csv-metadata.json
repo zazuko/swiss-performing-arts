@@ -1,6 +1,6 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "example.csv",
+  "url": "stc_puppet_theatre_companies.csv",
   "tableSchema": {
     "aboutUrl": "http://data.performing-arts.ch/sts/puppettheatrecompany/{ID_NR_Corporate_Body}",
     "columns": [

@@ -1,6 +1,6 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "example.csv",
+  "url": "stc_circuses.csv",
   "tableSchema": {
     "aboutUrl": "http://data.performing-arts.ch/sts/circus/{ID_NR_Corporate_Body}",
     "columns": [
@@ -82,9 +82,6 @@
       },
       {
         "titles": "Dokumente_PA_G"
-      },
-      {
-        "titles": ""
       },
       {
         "virtual": true,

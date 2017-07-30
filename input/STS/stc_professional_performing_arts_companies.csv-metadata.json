@@ -1,6 +1,6 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "example.csv",
+  "url": "stc_professional_performing_arts_companies.csv",
   "tableSchema": {
     "aboutUrl": "http://data.performing-arts.ch/sts/professionalperformingartscompany/{ID_NR_Corporate_Body}",
     "columns": [
