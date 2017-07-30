@@ -22,7 +22,15 @@ const filenames = [
   'Masken.csv',
   'Modelle.csv',
   'Plakate.csv',
-  'RepProfi.csv'
+  'RepProfi.csv',
+  'stc_amateur_theatre_companies.csv',
+  'stc_anniversary_performing_arts_festivals.csv',
+  'stc_circuses.csv',
+  'stc_outdoor_theatre_events.csv',
+  'stc_performing_arts_festivals.csv',
+  'stc_professional_performing_arts_companies.csv',
+  'stc_puppet_theatre_companies.csv',
+  'stc_revues_cultural_nights_vorfasnacht.csv'
 ]
 
 p.run(() => {
