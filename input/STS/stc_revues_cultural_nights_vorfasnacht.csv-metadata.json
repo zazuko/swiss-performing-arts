@@ -82,6 +82,16 @@
       },
       {
         "titles": "Dokumente_PA_G"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://vocab.performing-arts.ch/E27"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://vocab.performing-arts.ch/E27_Vorfasnacht"
       }
     ]
   }
