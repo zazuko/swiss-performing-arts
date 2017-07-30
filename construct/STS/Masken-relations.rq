@@ -24,7 +24,7 @@ WHERE {
   
   FILTER( ?spa_type IN( spav:r_hasSubject, spav:r_hasCreator ))
 
-  BIND(URI(CONCAT("http://data.performing-arts.ch/sts/concept/", ENCODE_FOR_URI(?concept))) AS ?conceptUri)
+  BIND(URI(CONCAT("http://data.performing-arts.ch/sts/concept/", SHA1(?concept))) AS ?conceptUri)
   BIND( STRAFTER( STR(?spa_type), "http://vocab.performing-arts.ch/r_") AS ?scheme)
   BIND( STRAFTER( STR(?spa_type), "http://vocab.performing-arts.ch/") AS ?schemeDirty)
   BIND(URI(CONCAT("http://data.performing-arts.ch/scheme/", ENCODE_FOR_URI(?schemeDirty))) AS ?schemeUri)
