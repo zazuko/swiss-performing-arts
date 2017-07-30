@@ -33,7 +33,8 @@
         "propertyUrl": "http://vocab.performing-arts.ch/r_hasLocation"
       },
       {
-        "titles": "Geodaten"
+        "titles": "Geodaten",
+        "suppressOutput": true
       },
       {
         "titles": "Ablageort_STS",
@@ -52,7 +53,8 @@
         "propertyUrl": "http://vocab.performing-arts.ch/officialWebsite"
       },
       {
-        "titles": "Adresse"
+        "titles": "Adresse",
+        "suppressOutput": true
       },
       {
         "titles": "Verband",
@@ -79,17 +81,20 @@
         "propertyUrl": "http://vocab.performing-arts.ch/spa_spaetereNamen"
       },
       {
-        "titles": "Dokumente_VP_V"
+        "titles": "Dokumente_VP_V",
+        "suppressOutput": true
       },
       {
-        "titles": "Dokumente_VP_G"
+        "titles": "Dokumente_VP_G",
+        "suppressOutput": true
       },
       {
         "titles": "Dokumente_PA_V",
         "propertyUrl": "http://vocab.performing-arts.ch/spa_volumen"
       },
       {
-        "titles": "Dokumente_PA_G"
+        "titles": "Dokumente_PA_G",
+        "suppressOutput": true
       },
       {
         "virtual": true,

@@ -1,0 +1,43 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+WITH <http://example.com/sts>
+
+DELETE {
+  ?s ?spa_type ?concept .
+}
+INSERT { 
+	?s ?relationUri ?conceptUri .
+	
+  	?conceptUri a skos:Concept ;
+    	skos:prefLabel ?concept ;
+    	skos:inScheme ?schemeUri .
+ 
+    ?schemeUri a skos:ConceptScheme ;
+    	dct:title ?scheme . 
+}
+WHERE {
+    
+  VALUES ?spa_Class { <http://vocab.performing-arts.ch/E27_AnniversaryPAFestivals>
+                      <http://vocab.performing-arts.ch/E17_Amateur>
+                      <http://vocab.performing-arts.ch/E27_AnniversaryPAFestivals>
+                      <http://vocab.performing-arts.ch/E17_Circus>
+                      <http://vocab.performing-arts.ch/E27_OutdoorTheatre>
+                      <http://vocab.performing-arts.ch/E27_PAFestivals>
+                      <http://vocab.performing-arts.ch/E17_Professional>
+                      <http://vocab.performing-arts.ch/E17_Puppet>
+                      <http://vocab.performing-arts.ch/E27_Vorfasnacht> }
+  ?s a ?spa_Class .
+  ?s ?spa_type ?concept .
+  
+
+  FILTER( ?spa_type IN( spav:r_hasLocation, spav:r_hasMember, spav:r_hasOrganizer, spav:r_isMemberOf ))
+  
+  BIND(URI(CONCAT("http://data.performing-arts.ch/sts/concept/", SHA1(?concept))) AS ?conceptUri)
+  BIND( STRAFTER( STR(?spa_type), "http://vocab.performing-arts.ch/r_") AS ?scheme)
+  BIND( STRAFTER( STR(?spa_type), "http://vocab.performing-arts.ch/") AS ?schemeDirty)
+  BIND(URI(CONCAT("http://data.performing-arts.ch/scheme/", ENCODE_FOR_URI(?schemeDirty))) AS ?schemeUri)
+  BIND(URI(CONCAT("http://vocab.performing-arts.ch/", ENCODE_FOR_URI(?scheme))) AS ?relationUri)
+
+}

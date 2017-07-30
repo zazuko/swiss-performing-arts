@@ -21,4 +21,5 @@ sparqlu construct/STS/Masken-relations.rq $FUSEKI_UPDATE
 sparqlu construct/STS/Modelle-relations.rq $FUSEKI_UPDATE
 sparqlu construct/STS/PerformingArtsProduction-relations.rq $FUSEKI_UPDATE
 sparqlu construct/STS/Plakate-relations.rq $FUSEKI_UPDATE
+sparqlu construct/STS/STC-relations.rq $FUSEKI_UPDATE
 sparqlu construct/delete-blanknodes.rq $FUSEKI_UPDATE
