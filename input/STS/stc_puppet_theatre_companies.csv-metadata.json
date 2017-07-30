@@ -2,60 +2,77 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "example.csv",
   "tableSchema": {
+    "aboutUrl": "http://data.performing-arts.ch/sts/puppettheatrecompany/{ID_NR_Corporate_Body}",
     "columns": [
       {
-        "titles": "ID_NR_Corporate_Body"
+        "titles": "ID_NR_Corporate_Body",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_sts2017"
       },
       {
-        "titles": "Name_Corporate_Body"
+        "titles": "Name_Corporate_Body",
+        "propertyUrl": "http://vocab.performing-arts.ch/label"
       },
       {
-        "titles": "Name_Corporate_Body_Alias"
+        "titles": "Name_Corporate_Body_Alias",
+        "propertyUrl": "http://vocab.performing-arts.ch/alternativeLabel"
       },
       {
-        "titles": "Attribute_Byline_Description"
+        "titles": "Attribute_Byline_Description",
+        "propertyUrl": "http://vocab.performing-arts.ch/description"
       },
       {
-        "titles": "Kuenstler"
+        "titles": "Kuenstler",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasMember"
       },
       {
-        "titles": "Ort"
+        "titles": "Ort",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasLocation"
       },
       {
         "titles": "Geodaten"
       },
       {
-        "titles": "Ablageort_STS"
+        "titles": "Ablageort_STS",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_ablageortSts"
       },
       {
-        "titles": "Kanton"
+        "titles": "Kanton",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasLocation"
       },
       {
-        "titles": "Land"
+        "titles": "Land",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasLocation"
       },
       {
-        "titles": "Webadresse"
+        "titles": "Webadresse",
+        "propertyUrl": "http://vocab.performing-arts.ch/officialWebsite"
       },
       {
         "titles": "Adresse"
       },
       {
-        "titles": "Verband"
+        "titles": "Verband",
+        "propertyUrl": "http://vocab.performing-arts.ch/r_isMemberOf"
       },
       {
-        "titles": "Rep"
+        "titles": "Rep",
+        "propertyUrl": "http://vocab.performing-arts.ch/internalNote"
       },
       {
-        "titles": "Status"
+        "titles": "Status",
+        "propertyUrl": "http://vocab.performing-arts.ch/activeDate"
       },
       {
-        "titles": "Eckdaten_nicht_STS"
+        "titles": "Eckdaten_nicht_STS",
+        "propertyUrl": "http://vocab.performing-arts.ch/internalNote"
       },
       {
-        "titles": "fruehere_Namen"
+        "titles": "fruehere_Namen",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_fruehereNamen"
       },
       {
-        "titles": "spaetere_Namen"
+        "titles": "spaetere_Namen",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_spaetereNamen"
       },
       {
         "titles": "Dokumente_VP_V"
@@ -64,10 +81,21 @@
         "titles": "Dokumente_VP_G"
       },
       {
-        "titles": "Dokumente_PA_V"
+        "titles": "Dokumente_PA_V",
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_volumen"
       },
       {
         "titles": "Dokumente_PA_G"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://vocab.performing-arts.ch/E17"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://vocab.performing-arts.ch/E17_Puppet"
       }
     ]
   }

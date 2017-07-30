@@ -71,6 +71,16 @@
       },
       {
         "titles": "Dokumente_PA_G"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://vocab.performing-arts.ch/E5"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://vocab.performing-arts.ch/E5_Plakat"
       }
     ]
   }
