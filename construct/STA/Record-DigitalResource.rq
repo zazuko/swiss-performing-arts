@@ -1,0 +1,14 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+
+INSERT { GRAPH <http://example.com/tanzarchiv> { 
+  ?s a spav:DigitalResource
+}}
+WHERE { GRAPH <http://example.com/tanzarchiv> { 
+    
+  ?s spav:sta_archivalstate ?state ;
+     spav:medium ?medium .
+  FILTER(CONTAINS( ?state, "Nutzungskopie Band/DVD"))
+  FILTER(CONTAINS( ?medium, "DVD"))
+
+
+}}

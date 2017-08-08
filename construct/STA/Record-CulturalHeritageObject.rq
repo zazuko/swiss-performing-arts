@@ -1,0 +1,13 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+
+INSERT { GRAPH <http://example.com/tanzarchiv> { 
+  ?s a spav:CulturalHeritageObject
+}}
+WHERE { GRAPH <http://example.com/tanzarchiv> { 
+    
+  ?s spav:sta_archivalstate ?state ;
+     spav:medium ?medium .
+  FILTER(CONTAINS( ?state, "Arbeitskopie Band/DVD"))
+  FILTER(CONTAINS( ?medium, "VHS"))
+
+}}

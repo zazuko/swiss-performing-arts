@@ -1,0 +1,19 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+
+WITH <http://example.com/tanzarchiv>
+
+DELETE {
+  ?s spav:r_isAssociatedWith_17 ?o .
+}
+INSERT { 
+  ?s spav:isAssociatedWith ?conceptUri .
+  
+  ?conceptUri a spav:DocumentaryForm ;
+    spav:label ?o .
+}
+WHERE {
+    
+  ?s spav:r_isAssociatedWith_17 ?o .
+  BIND(URI(CONCAT("http://data.performing-arts.ch/documentaryform/", ENCODE_FOR_URI(?o))) AS ?conceptUri)
+
+}

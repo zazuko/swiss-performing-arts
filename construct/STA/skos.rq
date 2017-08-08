@@ -1,0 +1,30 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+WITH <http://example.com/tanzarchiv>
+
+DELETE {
+  ?s ?spa_type ?concept .
+}
+INSERT { 
+	?s ?spa_type ?conceptUri .
+	
+ 	?conceptUri a skos:Concept ;
+   	skos:prefLabel ?concept ;
+   	skos:inScheme ?schemeUri .
+
+  ?schemeUri a skos:ConceptScheme ;
+   	dct:title ?scheme . 
+}
+WHERE {
+    
+  ?s ?spa_type ?concept .
+  
+  FILTER( ?spa_type IN( spav:sta_amount_of_pieces, spav:sta_archivalstate, spav:sta_art_des_abzugs, spav:sta_bearbeitungsperiode, spav:sta_bestand, spav:sta_box, spav:sta_duplicates, spav:sta_duration, spav:sta_eingangsart, spav:sta_ensemble, spav:sta_erschliessungskonventionen, spav:sta_file_link, spav:sta_format, spav:sta_location, spav:sta_no_inv_access, spav:sta_rating, spav:sta_related, spav:sta_remark_music, spav:sta_remark_recto, spav:sta_remark_verso, spav:sta_room, spav:sta_screengrab_right, spav:sta_state, spav:sta_tone ))
+
+  BIND(URI(CONCAT("http://data.performing-arts.ch/concept/", ENCODE_FOR_URI(?concept))) AS ?conceptUri)
+  BIND(STRAFTER( STR(?spa_type), "http://vocab.performing-arts.ch/") AS ?scheme)
+  BIND(URI(CONCAT("http://data.performing-arts.ch/scheme/", ENCODE_FOR_URI(?scheme))) AS ?schemeUri)
+
+}

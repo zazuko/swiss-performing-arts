@@ -1,0 +1,12 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+
+INSERT { GRAPH <http://example.com/tanzarchiv> { 
+  ?s a spav:Collection
+}}
+WHERE { GRAPH <http://example.com/tanzarchiv> { 
+    
+  ?s spav:level ?o
+  
+  FILTER( ?o IN("Hauptabteilung / Section", "Unterabteilung 1 / Sous-section 1", "Unterabteilung 2 / Sous-section 2", "Unterabteilung 3 / Sous-section 3", "Unterabteilung 4 / Sous-section 4" ))
+
+}}

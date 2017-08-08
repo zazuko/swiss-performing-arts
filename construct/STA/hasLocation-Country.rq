@@ -1,0 +1,19 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+
+WITH <http://example.com/tanzarchiv>
+
+DELETE {
+  ?s spav:r_hasLocation ?o .
+}
+INSERT { 
+  ?s spav:hasLocation ?conceptUri .
+  
+  ?conceptUri a spav:Country ;
+    spav:label ?o .
+}
+WHERE {
+    
+  ?s spav:r_hasLocation ?o .
+  BIND(URI(CONCAT("http://data.performing-arts.ch/country/", ENCODE_FOR_URI(?o))) AS ?conceptUri)
+
+}
