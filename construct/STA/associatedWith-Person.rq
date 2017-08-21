@@ -14,6 +14,6 @@ INSERT {
 WHERE {
     
   ?s spav:r_isAssociatedWith_49 ?o .
-  BIND(URI(CONCAT("http://data.performing-arts.ch/person/", ENCODE_FOR_URI(?o))) AS ?conceptUri)
-
+  #BIND(URI(CONCAT("http://data.performing-arts.ch/person/", ENCODE_FOR_URI(?o))) AS ?conceptUri)
+  BIND(URI(CONCAT("http://data.performing-arts.ch/sta/person/", SHA1(?o))) AS ?conceptUri)
 }
