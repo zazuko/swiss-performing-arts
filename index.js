@@ -4,7 +4,7 @@ const path = require('path')
 function convertCsvw (filename) {
   const filenameInput = 'input/' + filename
   const filenameMetadata = filenameInput + '-metadata.json'
-  const filenameOutput = 'target/' + path.basename(filename) + '/' + path.basename(filename, '.csv') + '.nt'
+  const filenameOutput = 'target/' + path.dirname(filename) + '/' + path.basename(filename, '.csv') + '.nt'
 
   return p.rdf.dataset().import(p.file.read(filenameMetadata).pipe(p.jsonld.parse())).then((metadata) => {
     p.file.read(filenameInput)
@@ -31,8 +31,10 @@ const filenames = [
   // 'STS/stc_professional_performing_arts_companies.csv',
   // 'STS/stc_puppet_theatre_companies.csv',
   // 'STS/stc_revues_cultural_nights_vorfasnacht.csv',
-  'SPA_Classes.csv'
-
+  'SPA_Classes.csv',
+  'SPA_Qualifiers.csv',
+  'SPA_Relations.csv',
+  'SPA_Attributes.csv'
 ]
 
 p.run(() => {

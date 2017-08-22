@@ -2,78 +2,103 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "SPA_Attributes.csv",
   "tableSchema": {
+    "aboutUrl": "http://vocab.performing-arts.ch/{Attribute-Name}",
     "columns": [
       {
-        "titles": "Category"
+        "titles": "Category",
+        "suppressOutput": true
       },
       {
-        "titles": "AD-No"
+        "titles": "AD-No",
+        "suppressOutput": true
       },
       {
-        "titles": "Attribute-Domain"
+        "titles": "Attribute-Domain",
+        "propertyUrl": "http://example.org/domain"
       },
       {
-        "titles": "Attribute-Name"
+        "titles": "Attribute-Name",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#notation"
       },
       {
-        "titles": "Definition"
+        "titles": "Definition",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#definition"
       },
       {
-        "titles": "SubpropertyOf"
+        "titles": "SubpropertyOf",
+        "suppressOutput": true
       },
       {
-        "titles": "SuperpropertyOf"
+        "titles": "SuperpropertyOf",
+        "suppressOutput": true
       },
       {
-        "titles": "EquivalentProperty"
+        "titles": "EquivalentProperty",
+        "suppressOutput": true
       },
       {
-        "titles": "ScopeNote"
+        "titles": "ScopeNote",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#scopeNote"
       },
       {
-        "titles": "DataType"
+        "titles": "DataType",
+        "suppressOutput": true
       },
       {
-        "titles": "Example"
+        "titles": "Example",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#example"
       },
       {
-        "titles": "Comment"
+        "titles": "Comment",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#comment"
       },
       {
-        "titles": "frbr_Equivalent"
+        "titles": "frbr_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "FRBRoo_Equivalent"
+        "titles": "FRBRoo_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "fabio_Equivalent"
+        "titles": "fabio_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "RDA_Equivalent"
+        "titles": "RDA_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "RiC_Equivalent"
+        "titles": "RiC_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "RiC_InAnalogy"
+        "titles": "RiC_InAnalogy",
+        "suppressOutput": true
       },
       {
-        "titles": "CIDOC_Equivalent"
+        "titles": "CIDOC_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "eclap_InAnalogy"
+        "titles": "eclap_InAnalogy",
+        "suppressOutput": true
       },
       {
-        "titles": "ore_InAnalogy"
+        "titles": "ore_InAnalogy",
+        "suppressOutput": true
       },
       {
-        "titles": "schema_Equivalent"
+        "titles": "schema_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "Wikidata_Equivalent"
+        "titles": "Wikidata_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "ebucore_Equivalent"
+        "titles": "ebucore_Equivalent",
+        "suppressOutput": true
       }
     ]
   }

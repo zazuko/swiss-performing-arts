@@ -2,78 +2,103 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "SPA_Relations.csv",
   "tableSchema": {
+    "aboutUrl": "http://vocab.performing-arts.ch/{Relation}",
     "columns": [
       {
-        "titles": "Category"
+        "titles": "Category",
+        "suppressOutput": true
       },
       {
-        "titles": "RD-No"
+        "titles": "RD-No",
+        "suppressOutput": true
       },
       {
-        "titles": "Relation Domain"
+        "titles": "Relation Domain",
+        "propertyUrl": "http://example.org/domain"
       },
       {
-        "titles": "Relation"
+        "titles": "Relation",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#notation"
       },
       {
-        "titles": "RR-No"
+        "titles": "RR-No",
+        "suppressOutput": true
       },
       {
-        "titles": "Relation Range"
+        "titles": "Relation Range",
+        "propertyUrl": "http://example.org/range"
       },
       {
-        "titles": "Inverse Relation"
+        "titles": "Inverse Relation",
+        "propertyUrl": "http://example.org/inverseOf"
       },
       {
-        "titles": "subPropertyOf"
+        "titles": "subPropertyOf",
+        "propertyUrl": "http://example.org/subPropertyOf"
       },
       {
-        "titles": "Remark"
+        "titles": "Remark",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#comment"
       },
       {
-        "titles": "frbr_Equivalent"
+        "titles": "frbr_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "FRBRoo_Equivalent"
+        "titles": "FRBRoo_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "fabio_Equivalent"
+        "titles": "fabio_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "RDA_Equivalent"
+        "titles": "RDA_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "RiC_Equivalent"
+        "titles": "RiC_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "RiC_InAnalogy"
+        "titles": "RiC_InAnalogy",
+        "suppressOutput": true
       },
       {
-        "titles": "CIDOC_Equivalent"
+        "titles": "CIDOC_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "eclap_InAnalogy"
+        "titles": "eclap_InAnalogy",
+        "suppressOutput": true
       },
       {
-        "titles": "ore_InAnalogy"
+        "titles": "ore_InAnalogy",
+        "suppressOutput": true
       },
       {
-        "titles": "schema_Equivalent"
+        "titles": "schema_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "rdfs_Equivalent"
+        "titles": "rdfs_Equivalent",
+        "suppressOutput": true
       },
       {
-        "titles": "EquivalentProperties;"
+        "titles": "EquivalentProperties;",
+        "suppressOutput": true
       },
       {
-        "titles": "EquivalentProperties"
+        "titles": "EquivalentProperties",
+        "suppressOutput": true
       },
       {
-        "titles": "InAnalogy;"
+        "titles": "InAnalogy;",
+        "suppressOutput": true
       },
       {
-        "titles": "InAnalogy"
+        "titles": "InAnalogy",
+        "suppressOutput": true
       }
     ]
   }
