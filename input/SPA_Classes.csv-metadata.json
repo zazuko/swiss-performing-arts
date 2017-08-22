@@ -1,31 +1,45 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "example.csv",
+  "url": "SPA_Classes.csv",
   "tableSchema": {
+    "aboutUrl": "http://vocab.performing-arts.ch/{Class}",
     "columns": [
       {
-        "titles": "Class"
+        "titles": "Class",
+        "propertyUrl": "http://example.org/Class"
       },
       {
-        "titles": "Definition"
+        "titles": "Definition",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#definition"
       },
       {
-        "titles": "Subclass of"
+        "titles": "Subclass of",
+        "propertyUrl": "http://example.org/subclassOf"
       },
       {
-        "titles": "Superclass of"
+        "titles": "Superclass of",
+        "propertyUrl": "http://example.org/superclassOf"
       },
       {
-        "titles": "Equivalent Class"
+        "titles": "Equivalent Class",
+        "propertyUrl": "http://example.org/equivalentClass"
       },
       {
-        "titles": "Scope Note"
+        "titles": "Scope Note",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#scopeNote"
       },
       {
-        "titles": "Example"
+        "titles": "Example",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#example"
       },
       {
-        "titles": "Comment"
+        "titles": "Comment",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#comment"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://www.w3.org/2000/01/rdf-schema#Class"
       }
     ]
   }
