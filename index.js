@@ -2,9 +2,9 @@ const p = require('barnard59')
 const path = require('path')
 
 function convertCsvw (filename) {
-  const filenameInput = 'input/STS/' + filename
+  const filenameInput = 'input/' + filename
   const filenameMetadata = filenameInput + '-metadata.json'
-  const filenameOutput = 'target/STS/' + path.basename(filename, '.csv') + '.nt'
+  const filenameOutput = 'target/' + path.basename(filename) + '/' + path.basename(filename, '.csv') + '.nt'
 
   return p.rdf.dataset().import(p.file.read(filenameMetadata).pipe(p.jsonld.parse())).then((metadata) => {
     p.file.read(filenameInput)
@@ -18,19 +18,21 @@ function convertCsvw (filename) {
 }
 
 const filenames = [
-  'Entwuerfe.csv',
-  'Masken.csv',
-  'Modelle.csv',
-  'Plakate.csv',
-  'RepProfi.csv',
-  'stc_amateur_theatre_companies.csv',
-  'stc_anniversary_performing_arts_festivals.csv',
-  'stc_circuses.csv',
-  'stc_outdoor_theatre_events.csv',
-  'stc_performing_arts_festivals.csv',
-  'stc_professional_performing_arts_companies.csv',
-  'stc_puppet_theatre_companies.csv',
-  'stc_revues_cultural_nights_vorfasnacht.csv'
+  // 'STS/Entwuerfe.csv',
+  // 'STS/Masken.csv',
+  // 'STS/Modelle.csv',
+  // 'STS/Plakate.csv',
+  // 'STS/RepProfi.csv',
+  // 'STS/stc_amateur_theatre_companies.csv',
+  // 'STS/stc_anniversary_performing_arts_festivals.csv',
+  // 'STS/stc_circuses.csv',
+  // 'STS/stc_outdoor_theatre_events.csv',
+  // 'STS/stc_performing_arts_festivals.csv',
+  // 'STS/stc_professional_performing_arts_companies.csv',
+  // 'STS/stc_puppet_theatre_companies.csv',
+  // 'STS/stc_revues_cultural_nights_vorfasnacht.csv',
+  'SPA_Classes.csv'
+
 ]
 
 p.run(() => {

@@ -2,42 +2,55 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "SPA_Qualifiers.csv",
   "tableSchema": {
+    "aboutUrl": "http://vocab.performing-arts.ch/{Qualifier}",
     "columns": [
       {
-        "titles": "Category"
+        "titles": "Category",
+        "suppressOutput": true
       },
       {
-        "titles": "Qualifier"
+        "titles": "Qualifier",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#notation"
       },
       {
-        "titles": "Definition"
+        "titles": "Definition",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#definition"
       },
       {
-        "titles": "Domain"
+        "titles": "Domain",
+        "suppressOutput": true
       },
       {
-        "titles": "SubpropertyOf"
+        "titles": "SubpropertyOf",
+        "suppressOutput": true
       },
       {
-        "titles": "SuperpropertyOf"
+        "titles": "SuperpropertyOf",
+        "suppressOutput": true
       },
       {
-        "titles": "EquivalentProperty"
+        "titles": "EquivalentProperty",
+        "suppressOutput": true
       },
       {
-        "titles": "ScopeNote"
+        "titles": "ScopeNote",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#scopeNote"
       },
       {
-        "titles": "DataType"
+        "titles": "DataType",
+        "suppressOutput": true
       },
       {
-        "titles": "Example"
+        "titles": "Example",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#example"
       },
       {
-        "titles": "Comment"
+        "titles": "Comment",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#comment"
       },
       {
-        "titles": ""
+        "titles": "",
+        "suppressOutput": true
       }
     ]
   }
