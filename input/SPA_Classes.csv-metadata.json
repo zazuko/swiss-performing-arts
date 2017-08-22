@@ -1,0 +1,32 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "example.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "Class"
+      },
+      {
+        "titles": "Definition"
+      },
+      {
+        "titles": "Subclass of"
+      },
+      {
+        "titles": "Superclass of"
+      },
+      {
+        "titles": "Equivalent Class"
+      },
+      {
+        "titles": "Scope Note"
+      },
+      {
+        "titles": "Example"
+      },
+      {
+        "titles": "Comment"
+      }
+    ]
+  }
+}

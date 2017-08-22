@@ -1,0 +1,44 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "example.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "Category"
+      },
+      {
+        "titles": "Qualifier"
+      },
+      {
+        "titles": "Definition"
+      },
+      {
+        "titles": "Domain"
+      },
+      {
+        "titles": "SubpropertyOf"
+      },
+      {
+        "titles": "SuperpropertyOf"
+      },
+      {
+        "titles": "EquivalentProperty"
+      },
+      {
+        "titles": "ScopeNote"
+      },
+      {
+        "titles": "DataType"
+      },
+      {
+        "titles": "Example"
+      },
+      {
+        "titles": "Comment"
+      },
+      {
+        "titles": ""
+      }
+    ]
+  }
+}

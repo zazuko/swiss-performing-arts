@@ -1,0 +1,80 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "example.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "Category"
+      },
+      {
+        "titles": "AD-No"
+      },
+      {
+        "titles": "Attribute-Domain"
+      },
+      {
+        "titles": "Attribute-Name"
+      },
+      {
+        "titles": "Definition"
+      },
+      {
+        "titles": "SubpropertyOf"
+      },
+      {
+        "titles": "SuperpropertyOf"
+      },
+      {
+        "titles": "EquivalentProperty"
+      },
+      {
+        "titles": "ScopeNote"
+      },
+      {
+        "titles": "DataType"
+      },
+      {
+        "titles": "Example"
+      },
+      {
+        "titles": "Comment"
+      },
+      {
+        "titles": "frbr_Equivalent"
+      },
+      {
+        "titles": "FRBRoo_Equivalent"
+      },
+      {
+        "titles": "fabio_Equivalent"
+      },
+      {
+        "titles": "RDA_Equivalent"
+      },
+      {
+        "titles": "RiC_Equivalent"
+      },
+      {
+        "titles": "RiC_InAnalogy"
+      },
+      {
+        "titles": "CIDOC_Equivalent"
+      },
+      {
+        "titles": "eclap_InAnalogy"
+      },
+      {
+        "titles": "ore_InAnalogy"
+      },
+      {
+        "titles": "schema_Equivalent"
+      },
+      {
+        "titles": "Wikidata_Equivalent"
+      },
+      {
+        "titles": "ebucore_Equivalent"
+      }
+    ]
+  }
+}
