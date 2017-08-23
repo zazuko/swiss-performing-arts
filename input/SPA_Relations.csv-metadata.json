@@ -99,6 +99,11 @@
       {
         "titles": "InAnalogy",
         "suppressOutput": true
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "valueUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
       }
     ]
   }
