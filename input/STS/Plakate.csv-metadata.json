@@ -27,7 +27,7 @@
       {
         "titles": "RepertorienID",
         "propertyUrl": "http://vocab.performing-arts.ch/hasSubject",
-        "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertoirenID}"
+        "valueUrl": "http://data.performing-arts.ch/sts/performingartsproduction/{RepertorienID}"
       },
       {
         "titles": "Signatur",
