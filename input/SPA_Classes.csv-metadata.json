@@ -2,11 +2,27 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "SPA_Classes.csv",
   "tableSchema": {
-    "aboutUrl": "http://vocab.performing-arts.ch/{Class}",
+    "aboutUrl": "http://vocab.performing-arts.ch/{Class-Name (Ontology)}",
     "columns": [
       {
-        "titles": "Class",
+        "titles": "Class-Name (Data Model)",
         "propertyUrl": "http://www.w3.org/2004/02/skos/core#notation"
+      },
+      {
+        "titles": "Class-Name (Ontology)",
+        "suppressOutput": true
+      },
+      {
+        "titles": "Identifier",
+        "suppressOutput": true
+      },
+      {
+        "titles": "Label",
+        "propertyUrl": "rdfs:label"
+      },
+      {
+        "titles": "Label CamelCase",
+        "suppressOutput": true
       },
       {
         "titles": "Definition",
@@ -35,6 +51,11 @@
       {
         "titles": "Comment",
         "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#comment"
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "rdfs:isDefinedBy",
+        "valueUrl": "http://vocab.performing-arts.ch/"
       },
       {
         "virtual": true,
