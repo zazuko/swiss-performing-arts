@@ -18,7 +18,7 @@
       },
       {
         "titles": "Label",
-        "propertyUrl": "rdfs:label"
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#label"
       },
       {
         "titles": "Label CamelCase",
@@ -54,7 +54,7 @@
       },
       {
         "virtual": true,
-        "propertyUrl": "rdfs:isDefinedBy",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
         "valueUrl": "http://vocab.performing-arts.ch/"
       },
       {

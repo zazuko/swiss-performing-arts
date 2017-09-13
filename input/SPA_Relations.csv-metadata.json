@@ -2,7 +2,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "SPA_Relations.csv",
   "tableSchema": {
-    "aboutUrl": "http://vocab.performing-arts.ch/{Relation}",
+    "aboutUrl": "http://vocab.performing-arts.ch/{Relation-Name (Ontology)}",
     "columns": [
       {
         "titles": "Category",
@@ -14,27 +14,49 @@
       },
       {
         "titles": "Relation Domain",
-        "propertyUrl": "http://example.org/domain"
-      },
-      {
-        "titles": "Relation",
-        "propertyUrl": "http://www.w3.org/2004/02/skos/core#notation"
-      },
-      {
-        "titles": "RR-No",
         "suppressOutput": true
       },
       {
+        "titles": "Relation Domain (Ontology)",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#domain",
+        "valueUrl": "http://vocab.performing-arts.ch/{Relation Domain (Ontology)}"
+      },
+      {
+        "titles": "Relation-Label",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#label"
+      },
+      {
+        "titles": "Relation-Name (Ontology)",
+        "suppressOutput": true
+      },
+      {
+        "titles": "RR-No",
+        "propertyUrl": "http://www.w3.org/2004/02/skos/core#notation"
+      },
+      {
         "titles": "Relation Range",
-        "propertyUrl": "http://example.org/range"
+        "suppressOutput": true
+      },
+      {
+        "titles": "Relation Range (Ontology)",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#range",
+        "valueUrl": "http://vocab.performing-arts.ch/{Relation Range (Ontology)}"
       },
       {
         "titles": "Inverse Relation",
         "propertyUrl": "http://example.org/inverseOf"
       },
       {
+        "titles": "Inverse Relation (Ontology)",
+        "suppressOutput": true
+      },
+      {
         "titles": "subPropertyOf",
         "propertyUrl": "http://example.org/subPropertyOf"
+      },
+      {
+        "titles": "subPropertyOf (Ontology)",
+        "suppressOutput": true
       },
       {
         "titles": "Remark",
@@ -99,6 +121,11 @@
       {
         "titles": "InAnalogy",
         "suppressOutput": true
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+        "valueUrl": "http://vocab.performing-arts.ch/"
       },
       {
         "virtual": true,

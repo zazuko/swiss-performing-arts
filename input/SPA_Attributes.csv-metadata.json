@@ -2,7 +2,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "url": "SPA_Attributes.csv",
   "tableSchema": {
-    "aboutUrl": "http://vocab.performing-arts.ch/{Attribute-Name}",
+    "aboutUrl": "http://vocab.performing-arts.ch/{Attribute-Name (Ontology)}",
     "columns": [
       {
         "titles": "Category",
@@ -17,8 +17,18 @@
         "propertyUrl": "http://example.org/domain"
       },
       {
-        "titles": "Attribute-Name",
-        "propertyUrl": "http://www.w3.org/2004/02/skos/core#notation"
+        "titles": "Attribute-Domain (Ontology)",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#domain",
+        "valueUrl": "http://vocab.performing-arts.ch/{Attribute-Domain (Ontology)}"
+      },
+      {
+        "titles": "Attribute-Label",
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#label"
+
+      },
+      {
+        "titles": "Attribute-Name (Ontology)",
+        "suppressOutput": true
       },
       {
         "titles": "Definition",
@@ -29,11 +39,23 @@
         "suppressOutput": true
       },
       {
+        "titles": "SubpropertyOf (Ontology)",
+        "suppressOutput": true
+      },
+      {
         "titles": "SuperpropertyOf",
         "suppressOutput": true
       },
       {
+        "titles": "SuperpropertyOf (Ontology)",
+        "suppressOutput": true
+      },
+      {
         "titles": "EquivalentProperty",
+        "suppressOutput": true
+      },
+      {
+        "titles": "EquivalentProperty (Ontology)",
         "suppressOutput": true
       },
       {
@@ -99,6 +121,11 @@
       {
         "titles": "ebucore_Equivalent",
         "suppressOutput": true
+      },
+      {
+        "virtual": true,
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#isDefinedBy",
+        "valueUrl": "http://vocab.performing-arts.ch/"
       },
       {
         "virtual": true,
