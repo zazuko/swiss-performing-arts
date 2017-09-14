@@ -6,7 +6,7 @@ curl -u admin:cinderella --data "dbType=tdb&dbName=spa"  http://$FUSEKI_HOST:303
 # Schema
 curl -X PUT -u admin:cinderella -T target/SPA_Attributes.nt -G -H "Content-Type: application/n-triples" http://admin:cinderella@$FUSEKI_HOST:3030/spa/data --data-urlencode graph=http://example.com/schema
 curl -X POST -u admin:cinderella -T target/SPA_Classes.nt -G -H "Content-Type: application/n-triples" http://admin:cinderella@$FUSEKI_HOST:3030/spa/data --data-urlencode graph=http://example.com/schema
-curl -X POST -u admin:cinderella -T target/SPA_Qualifiers.nt -G -H "Content-Type: application/n-triples" http://admin:cinderella@$FUSEKI_HOST:3030/spa/data --data-urlencode graph=http://example.com/schema
+#curl -X POST -u admin:cinderella -T target/SPA_Qualifiers.nt -G -H "Content-Type: application/n-triples" http://admin:cinderella@$FUSEKI_HOST:3030/spa/data --data-urlencode graph=http://example.com/schema
 curl -X POST -u admin:cinderella -T target/SPA_Relations.nt -G -H "Content-Type: application/n-triples" http://admin:cinderella@$FUSEKI_HOST:3030/spa/data --data-urlencode graph=http://example.com/schema
 # Tanzarchiv
 curl -X PUT -u admin:cinderella -T target/STA/20161117_xmlexport_dokumentation.jsonld -G -H "Content-Type: application/ld+json" http://admin:cinderella@$FUSEKI_HOST:3030/spa/data --data-urlencode graph=http://example.com/tanzarchiv

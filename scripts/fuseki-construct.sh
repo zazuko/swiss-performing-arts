@@ -7,22 +7,22 @@ function sparqlu { curl -H "Accept: text/turtle" --data-urlencode update@$1 $2 ;
 ## Tanzarchiv STA
 
 ### Classes
-sparqlu construct/STA/Record-Collection.rq $FUSEKI_UPDATE
-sparqlu construct/STA/Record-Recordset.rq $FUSEKI_UPDATE
-sparqlu construct/STA/Record-CulturalHeritageObject.rq $FUSEKI_UPDATE
-sparqlu construct/STA/Record-AnalogCopy.rq $FUSEKI_UPDATE
-sparqlu construct/STA/Record-DigitalResource.rq $FUSEKI_UPDATE
-sparqlu construct/STA/Record-Item.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/Record-Collection.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/Record-Recordset.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/Record-CulturalHeritageObject.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/Record-AnalogCopy.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/Record-DigitalResource.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/Record-Item.rq $FUSEKI_UPDATE
 
 ## Properties
 
 ### Concept generation & cleanup
 
-sparqlu construct/STA/hasLocation-Country.rq $FUSEKI_UPDATE
-sparqlu construct/STA/associatedWith-CorporateBody.rq $FUSEKI_UPDATE
-sparqlu construct/STA/associatedWith-DocumentaryForm.rq $FUSEKI_UPDATE
-sparqlu construct/STA/associatedWith-Person.rq $FUSEKI_UPDATE
-sparqlu construct/STA/skos.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/hasLocation-Country.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/associatedWith-CorporateBody.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/associatedWith-DocumentaryForm.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/associatedWith-Person.rq $FUSEKI_UPDATE
+#sparqlu construct/STA/skos.rq $FUSEKI_UPDATE
 
 
 ## Theatersammlung STS
