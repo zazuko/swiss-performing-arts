@@ -95,7 +95,7 @@
       {
         "virtual": true,
         "propertyUrl": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
-        "valueUrl": "http://vocab.performing-arts.ch/E17"
+        "valueUrl": "http://vocab.performing-arts.ch/E17_CorporateBody"
       },
       {
         "virtual": true,
