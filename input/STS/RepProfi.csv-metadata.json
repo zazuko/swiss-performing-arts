@@ -178,7 +178,7 @@
       },
       {
         "titles": "ProdTruppe",
-        "propertyUrl": "http://vocab.performing-arts.ch/officialName"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasProducer"
       },
       {
         "titles": "Projektion",

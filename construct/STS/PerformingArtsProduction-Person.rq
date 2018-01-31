@@ -1,0 +1,31 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX apf: <http://jena.apache.org/ARQ/property#>
+
+WITH <http://example.com/sts>
+
+DELETE {
+  ?s ?spa_type ?dirtyNames .
+}
+INSERT { 
+	?s ?relationUri ?personUri .
+	
+  	?personUri a spav:E15_Person ;
+    	rdfs:label ?name ;
+}
+WHERE {
+    
+  ?s a <http://vocab.performing-arts.ch/E9_PerformingArtsProduction> .
+  ?s ?spa_type ?dirtyNames .
+  
+  ?name apf:strSplit (?dirtyNames ",")
+  
+  FILTER( ?spa_type IN(spav:r_hasSetDesigner, spav:r_hasComposer, spav:r_hasPerformer, spav:r_hasDramaturge, spav:r_hasStageDirector, spav:r_hasSoundDesigner, spav:spa_textautor, spav:r_hasLightingDesigner, spav:r_hasConductor))
+  
+  BIND(URI(CONCAT("http://data.performing-arts.ch/person/", SHA1(?name))) AS ?personUri)
+  BIND(STRAFTER(STR(?spa_type), "http://vocab.performing-arts.ch/r_") AS ?relation)
+  BIND(URI(CONCAT("http://vocab.performing-arts.ch/", ENCODE_FOR_URI(?relation))) AS ?relationUri)
+
+}
