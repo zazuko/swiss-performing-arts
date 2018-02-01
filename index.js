@@ -26,8 +26,8 @@ function convertCsvw (filename) {
         let predicate = quad.predicate
         let object = quad.object
 
-        if (predicate.value === 'http://vocab.performing-arts.ch/_hasDate') {
-          object = p.rdf.literal(object.value.trim())
+        if (predicate.value === 'http://vocab.performing-arts.ch/r_hasDate') {
+          object = p.rdf.literal(object.value.trim().split()[0].trim())
         }
 
         if (predicate.value === 'http://vocab.performing-arts.ch/firstPerformanceDate') {
