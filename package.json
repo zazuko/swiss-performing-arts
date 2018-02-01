@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "barnard59": "git+ssh://git@github.com/zazuko/barnard59.git#master",
-    "scope-to-rdf": "git+ssh://git@github.com:zazuko/scope-to-rdf.git",
-    "xlsx": "^0.11.3"
+    "moment": "^2.20.1",
+    "scope-to-rdf": "git+ssh://git@github.com/zazuko/scope-to-rdf.git",
+    "xlsx": "^0.11.18"
   }
 }

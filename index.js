@@ -1,5 +1,6 @@
 const p = require('barnard59')
 const path = require('path')
+const moment = require('moment')
 
 function convertCsvw (filename) {
   const filenameInput = 'input/' + filename
@@ -11,6 +12,35 @@ function convertCsvw (filename) {
       .pipe(p.csvw.parse({
         baseIRI: 'file://' + filename,
         metadata: metadata
+      }))
+      .pipe(p.filter((quad) => {
+        if (quad.predicate.value === 'http://vocab.performing-arts.ch/firstPerformanceDate' && !moment(quad.object.value, 'DD/MM/YYYY').isValid()) {
+          console.log("Wrong date:" + quad.object.value)
+          return false
+        }
+        return true
+      }))
+      .pipe(p.map((quad) => {
+
+        let subject = quad.subject
+        let predicate = quad.predicate
+        let object = quad.object
+
+        if (predicate.value === 'http://vocab.performing-arts.ch/_hasDate') {
+          object = p.rdf.literal(object.value.trim())
+        }
+
+        if (predicate.value === 'http://vocab.performing-arts.ch/firstPerformanceDate') {
+          const xsddate = 'http://www.w3.org/2001/XMLSchema#date'
+
+          const date = moment(object.value, 'DD/MM/YYYY').format('YYYY-MM-DD')
+
+          object = p.rdf.literal(date, p.rdf.namedNode(xsddate))
+         
+        }
+        
+
+        return p.rdf.quad(subject, predicate, object)
       }))
       .pipe(p.ntriples.serialize())
       .pipe(p.file.write(filenameOutput))
