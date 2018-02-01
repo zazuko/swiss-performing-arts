@@ -20,6 +20,6 @@ WHERE {
     ?s a <http://vocab.performing-arts.ch/E9_PerformingArtsProduction> ;
         spav:firstPerformanceDate ?date .
 
-    BIND(URI(CONCAT("http://data.performing-arts.ch/performance/", SHA1(STR(?date)))) AS ?performanceUri)
+    BIND(URI(CONCAT("http://data.performing-arts.ch/performance/", STR(?date))) AS ?performanceUri)
 
 }
