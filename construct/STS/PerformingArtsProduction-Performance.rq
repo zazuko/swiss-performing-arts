@@ -1,0 +1,25 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+WITH <http://example.com/sts>
+
+DELETE {
+  ?s spav:firstPerformanceDate ?date .
+}
+INSERT { 
+  ?s spav:hasRepresentation ?performanceUri .
+
+  ?performanceUri a spav:E10_Performance ;
+    # spav:premiereType <Typ> ;
+    spav:performanceDate ?date .
+}
+WHERE {
+    
+    ?s a <http://vocab.performing-arts.ch/E9_PerformingArtsProduction> ;
+        spav:firstPerformanceDate ?date .
+
+    BIND(URI(CONCAT("http://data.performing-arts.ch/performance/", SHA1(STR(?date)))) AS ?performanceUri)
+
+}
