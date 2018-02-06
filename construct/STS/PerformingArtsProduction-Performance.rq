@@ -13,16 +13,16 @@ INSERT {
   ?s spav:hasRepresentation ?performanceUri .
 
   ?performanceUri a spav:E10_Performance ;
-    # spav:premiereType <Typ> ;
     spav:premiereType ?premiereType ;
     spav:performanceDate ?date .
 }
 WHERE {
     
     ?s a <http://vocab.performing-arts.ch/E9_PerformingArtsProduction> ;
-        spav:premiereType ?premiereType ;
         spav:firstPerformanceDate ?date .
 
+    OPTIONAL { ?s spav:premiereType ?premiereType . }    
+    
     BIND(URI(CONCAT("http://data.performing-arts.ch/performance/", STRUUID())) AS ?performanceUri)
 
 }
