@@ -6,20 +6,23 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 WITH <http://example.com/sts>
 
 DELETE {
-  ?s spav:firstPerformanceDate ?date .
+  ?s spav:firstPerformanceDate ?date ;
+     spav:premiereType ?premiereType .
 }
 INSERT { 
   ?s spav:hasRepresentation ?performanceUri .
 
   ?performanceUri a spav:E10_Performance ;
     # spav:premiereType <Typ> ;
+    spav:premiereType ?premiereType ;
     spav:performanceDate ?date .
 }
 WHERE {
     
     ?s a <http://vocab.performing-arts.ch/E9_PerformingArtsProduction> ;
+        spav:premiereType ?premiereType ;
         spav:firstPerformanceDate ?date .
 
-    BIND(URI(CONCAT("http://data.performing-arts.ch/performance/", STR(?date))) AS ?performanceUri)
+    BIND(URI(CONCAT("http://data.performing-arts.ch/performance/", STRUUID())) AS ?performanceUri)
 
 }
