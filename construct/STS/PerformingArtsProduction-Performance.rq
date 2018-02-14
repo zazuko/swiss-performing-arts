@@ -7,22 +7,31 @@ WITH <http://example.com/sts>
 
 DELETE {
   ?s spav:firstPerformanceDate ?date ;
-     spav:premiereType ?premiereType .
+     spav:premiereType ?premiereType ;
+     spav:r_isLocatedAt ?venueLabel .
 }
 INSERT { 
   ?s spav:hasRepresentation ?performanceUri .
 
+  ?venueUri a spav:E22_Venue ;
+    rdfs:label ?venueLabel .
+
   ?performanceUri a spav:E10_Performance ;
     spav:premiereType ?premiereType ;
-    spav:performanceDate ?date .
+    spav:performanceDate ?date ;
+    spav:isLocatedAt ?venueUri .
 }
 WHERE {
     
-    ?s a <http://vocab.performing-arts.ch/E9_PerformingArtsProduction> ;
+    ?s a spav:E9_PerformingArtsProduction ;
         spav:firstPerformanceDate ?date .
 
     OPTIONAL { ?s spav:premiereType ?premiereType . }    
+
+    OPTIONAL { ?s spav:r_isLocatedAt ?venueLabel . }    
     
     BIND(URI(CONCAT("http://data.performing-arts.ch/performance/", STRUUID())) AS ?performanceUri)
+
+    BIND(URI(CONCAT("http://data.performing-arts.ch/venue/", SHA1(?venueLabel))) AS ?venueUri)
 
 }
