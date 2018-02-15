@@ -9,7 +9,7 @@
 
 On MacOS you can install all dependencies by using [Homebrew](https://brew.sh/): `node`, `serd`, `jena`.
 
-Alternatively you can execute the repository using Docker within an instance of the [Node-Java-Jena](https://hub.docker.com/r/zazukoians/node-java-jena/) image we provide.
+Alternatively, you can execute the repository using Docker within an instance of the [Node-Java-Jena](https://hub.docker.com/r/zazukoians/node-java-jena/) image we provide.
 
 ## Usage
 
