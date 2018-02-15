@@ -210,7 +210,7 @@
       },
       {
         "titles": "Textautor",
-        "propertyUrl": "http://vocab.performing-arts.ch/spa_textautor"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasAuthor"
       },
       {
         "titles": "Theatercode",
