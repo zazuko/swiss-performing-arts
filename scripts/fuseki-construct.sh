@@ -32,7 +32,6 @@ sparqlu construct/STS/Masken-relations.rq $FUSEKI_UPDATE
 sparqlu construct/STS/Modelle-relations.rq $FUSEKI_UPDATE
 sparqlu construct/STS/PerformingArtsProduction-CorporateBody.rq $FUSEKI_UPDATE
 sparqlu construct/STS/PerformingArtsProduction-Person.rq $FUSEKI_UPDATE
-sparqlu construct/STS/PerformingArtsProduction-Venue.rq $FUSEKI_UPDATE
 sparqlu construct/STS/PerformingArtsProduction-Performance.rq $FUSEKI_UPDATE
 sparqlu construct/STS/PerformingArtsProduction-Season.rq $FUSEKI_UPDATE
 sparqlu construct/STS/PerformingArtsProduction-relations.rq $FUSEKI_UPDATE
