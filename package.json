@@ -23,7 +23,7 @@
     "tdb-load": "./scripts/tdb-load.sh",
     "tdb-query": "./scripts/tdb-update.sh",
     "tdb-dump": "./scripts/tdb-dump.sh",
-    "put-everything": "./scripts/lindas-put.sh",
+    "spa-lindas-put": "env ENDPOINT=https://test.lindas-data.ch:8443/lindas ./scripts/lindas-put.sh",
     "build": "npm-run-all clean get-data get-schema convert-csv convert-scope tdb-load tdb-query tdb-dump",
     "build-cache": "npm-run-all clean convert-csv convert-scope tdb-load tdb-query tdb-dump"
   }
