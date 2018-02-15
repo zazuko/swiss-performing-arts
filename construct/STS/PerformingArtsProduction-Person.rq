@@ -22,7 +22,7 @@ WHERE {
   
   ?name apf:strSplit (?dirtyNames ",")
   
-  FILTER( ?spa_type IN(spav:r_hasSetDesigner, spav:r_hasComposer, spav:r_hasPerformer, spav:r_hasDramaturge, spav:r_hasStageDirector, spav:r_hasSoundDesigner, spav:spa_textautor, spav:r_hasLightingDesigner, spav:r_hasConductor))
+  FILTER( ?spa_type IN(spav:r_hasSetDesigner, spav:r_hasComposer, spav:r_hasPerformer, spav:r_hasDramaturge, spav:r_hasStageDirector, spav:r_hasSoundDesigner, spav:r_hasAuthor, spav:r_hasLightingDesigner, spav:r_hasConductor))
   
   BIND(URI(CONCAT("http://data.performing-arts.ch/person/", SHA1(?name))) AS ?personUri)
   BIND(STRAFTER(STR(?spa_type), "http://vocab.performing-arts.ch/r_") AS ?relation)
