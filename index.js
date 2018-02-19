@@ -14,7 +14,7 @@ function convertCsvw (filename) {
         metadata: metadata
       }))
       .pipe(p.filter((quad) => {
-        if (quad.predicate.value === 'http://vocab.performing-arts.ch/firstPerformanceDate' && !moment(quad.object.value, 'DD/MM/YYYY').isValid()) {
+        if (quad.predicate.value === 'http://vocab.performing-arts.ch/firstPerformanceDate' && !moment(quad.object.value).isValid()) {
           console.log("Wrong date:" + quad.object.value)
           return false
         }
@@ -33,7 +33,7 @@ function convertCsvw (filename) {
         if (predicate.value === 'http://vocab.performing-arts.ch/firstPerformanceDate') {
           const xsddate = 'http://www.w3.org/2001/XMLSchema#date'
 
-          const date = moment(object.value, 'DD/MM/YYYY').format('YYYY-MM-DD')
+          const date = moment(object.value).format('YYYY-MM-DD')
 
           object = p.rdf.literal(date, p.rdf.namedNode(xsddate))
          
