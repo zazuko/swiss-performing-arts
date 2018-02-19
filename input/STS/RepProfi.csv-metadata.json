@@ -130,7 +130,7 @@
       },
       {
         "titles": "Musikautor",
-        "propertyUrl": "http://vocab.performing-arts.ch/spa_musikautor"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_hasComposer"
       },
       {
         "titles": "Negative_TS",
