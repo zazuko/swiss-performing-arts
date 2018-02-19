@@ -38,6 +38,10 @@
       },
       {
         "titles": "Equivalent Class",
+        "suppressOutput": true
+      },
+      {
+        "titles": "Equivalent Class (Ontology)",
         "propertyUrl": "http://example.org/equivalentClass"
       },
       {
