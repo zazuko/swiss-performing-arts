@@ -22,7 +22,7 @@ WHERE {
   ?s a <http://vocab.performing-arts.ch/E9_PerformingArtsProduction> .
   ?s ?spa_type ?concept .
   
-  FILTER( ?spa_type IN( spav:r_isSubjectOf1, spav:r_isSubjectOf2, spav:r_isSubjectOf3, spav:r_hasContributor1, spav:r_isAssociatedWith, spav:r_hasChoreographer, spav:r_hasChoralConductor, spav:r_hasCostumeDesigner, spav:r_hasPosterDesigner, spav:r_hasProjectionDesigner, spav:r_hasAssistantStageDirector, spav:r_hasDate, spav:r_hasContributor2,  spav:r_hasTranslator, spav:r_hasVideoDesigner ))
+  FILTER( ?spa_type IN( spav:r_isSubjectOf1, spav:r_isSubjectOf2, spav:r_isSubjectOf3, spav:r_isAssociatedWith, spav:r_hasDate, spav:r_hasContributor1, spav:r_hasContributor2 ))
   
   BIND(URI(CONCAT("http://data.performing-arts.ch/sts/concept/", SHA1(?concept))) AS ?conceptUri)
   BIND( STRAFTER( STR(?spa_type), "http://vocab.performing-arts.ch/r_") AS ?scheme)
