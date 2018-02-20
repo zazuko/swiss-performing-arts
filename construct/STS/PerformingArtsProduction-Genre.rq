@@ -1,0 +1,37 @@
+PREFIX spav: <http://vocab.performing-arts.ch/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX apf: <http://jena.apache.org/ARQ/property#>
+
+WITH <http://example.com/sts>
+
+DELETE {
+  ?s spav:spa_gattung ?dirtyGenres .
+}
+INSERT { 
+  ?s spav:genre ?concept .
+}
+WHERE {
+    
+  ?s a <http://vocab.performing-arts.ch/E9_PerformingArtsProduction> .
+  ?s spav:spa_gattung ?dirtyGenres .
+  
+  ?splitGenre apf:strSplit (?dirtyGenres ",")
+  BIND(LCASE(REPLACE(?splitGenre, " ", "")) AS ?key)
+  
+  VALUES (?key ?concept) { 
+    ("b" <http://taxonomies.performing-arts.ch/genres/dance>)
+    ("ft" <http://taxonomies.performing-arts.ch/genres/puppetry1>)
+    ("ju" <http://taxonomies.performing-arts.ch/genres/youth>)
+    ("k" <http://taxonomies.performing-arts.ch/genres/cabaret1>)
+    ("mu" <http://taxonomies.performing-arts.ch/genres/musical>)
+    ("op" <http://taxonomies.performing-arts.ch/genres/opera>)
+    ("ot" <http://taxonomies.performing-arts.ch/genres/operetta>)
+    ("p" <http://taxonomies.performing-arts.ch/genres/mime>)
+    ("r" <http://taxonomies.performing-arts.ch/genres/reading>)
+    ("s" <http://taxonomies.performing-arts.ch/genres/spokentheatre>)
+    ("sm" <http://taxonomies.performing-arts.ch/genres/dramawithmusic>)
+  }
+
+}

@@ -8,7 +8,7 @@ WITH <http://example.com/sts>
 
 DELETE {
   ?s spav:firstPerformanceDate ?date ;
-     spav:premiereType ?premiereType ;
+     spav:r_premiereType ?premiereTypes ;
      spav:r_isLocatedAt ?venueLabel .
 }
 INSERT { 
@@ -24,19 +24,32 @@ INSERT {
 }
 WHERE {
     
-    ?s a spav:E9_PerformingArtsProduction ;
-        spav:firstPerformanceDate ?date .
+    ?s a spav:E9_PerformingArtsProduction .
 
-    OPTIONAL { ?s spav:premiereType ?premiereType . }
-
+    OPTIONAL { ?s spav:firstPerformanceDate ?date . }    
+    
     OPTIONAL { ?s spav:r_isLocatedAt ?venueLabel . }    
     
-    BIND(URI(CONCAT("http://data.performing-arts.ch/performance/", STRUUID())) AS ?performanceUri)
+    OPTIONAL { ?s spav:r_premiereType ?premiereTypes . }
 
-    ?premiereTypeSplit apf:strSplit (?premiereType ",")
+    BIND(URI(CONCAT("http://data.performing-arts.ch/performance/", STRUUID())) AS ?performanceUri)
 
     BIND(URI(CONCAT("http://data.performing-arts.ch/venue/", SHA1(?venueLabel))) AS ?venueUri)
 
-    BIND(URI(CONCAT("http://taxonomies.performing-arts.ch/premiereType/", ?premiereTypeSplit)) AS ?premiereTypeUri)
+    ?premiereTypeSplit apf:strSplit (?premiereTypes ",")
+    BIND(LCASE(REPLACE(?premiereTypeSplit, " ", "")) AS ?premiereTypeKey)
 
+    VALUES (?premiereTypeKey ?premiereTypeUri) { 
+      ("ea" <http://taxonomies.performing-arts.ch/premiereType/ea>)
+      ("ma" <http://taxonomies.performing-arts.ch/premiereType/ma>)
+      ("de" <http://taxonomies.performing-arts.ch/premiereType/de>)
+      ("gs" <http://taxonomies.performing-arts.ch/premiereType/gs>)
+      ("ua" <http://taxonomies.performing-arts.ch/premiereType/ua>)
+      ("se" <http://taxonomies.performing-arts.ch/premiereType/se>)
+      ("wa" <http://taxonomies.performing-arts.ch/premiereType/wa>)
+      ("ni" <http://taxonomies.performing-arts.ch/premiereType/ni>)
+      ("ee" <http://taxonomies.performing-arts.ch/premiereType/ee>)
+      ("ie" <http://taxonomies.performing-arts.ch/premiereType/ie>)
+      ("fe" <http://taxonomies.performing-arts.ch/premiereType/fe>)
+    }
 }

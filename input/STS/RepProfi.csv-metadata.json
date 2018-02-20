@@ -114,7 +114,7 @@
       },
       {
         "titles": "Gattung",
-        "propertyUrl": "http://vocab.performing-arts.ch/genre"
+        "propertyUrl": "http://vocab.performing-arts.ch/spa_gattung"
       },
       {
         "titles": "Kostueme",
@@ -166,7 +166,7 @@
       },
       {
         "titles": "Premierenart",
-        "propertyUrl": "http://vocab.performing-arts.ch/premiereType"
+        "propertyUrl": "http://vocab.performing-arts.ch/r_premiereType"
       },
       {
         "titles": "Premierendatum",

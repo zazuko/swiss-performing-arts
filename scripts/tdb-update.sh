@@ -26,6 +26,7 @@ tdbupdate --loc=target/tdb --update=construct/STA/skos.rq
 tdbupdate --loc=target/tdb --update=construct/STS/Entwuerfe-relations.rq
 tdbupdate --loc=target/tdb --update=construct/STS/Masken-relations.rq
 tdbupdate --loc=target/tdb --update=construct/STS/Modelle-relations.rq
+tdbupdate --loc=target/tdb --update=construct/STS/PerformingArtsProduction-Genre.rq
 tdbupdate --loc=target/tdb --update=construct/STS/PerformingArtsProduction-CorporateBody.rq
 tdbupdate --loc=target/tdb --update=construct/STS/PerformingArtsProduction-Person.rq
 tdbupdate --loc=target/tdb --update=construct/STS/PerformingArtsProduction-Performance.rq
