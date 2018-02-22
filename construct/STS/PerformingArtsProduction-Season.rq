@@ -11,7 +11,7 @@ DELETE {
 INSERT { 
   ?s spav:isPartOf ?seasonUri .
 
-  ?seasonUri a spav:E29_Theatre_Season ;
+  ?seasonUri a spav:E29_TheatreSeason ;
     rdfs:label ?label .
 }
 WHERE {
