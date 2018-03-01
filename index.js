@@ -30,26 +30,26 @@ function convertCsvw (filename) {
       }))
       .pipe(p.filter((quad) => {
         if (quad.predicate.value === 'http://vocab.performing-arts.ch/firstPerformanceDate' && !moment(quad.object.value).isValid()) {
-          console.log("Wrong date:" + quad.object.value)
+          console.error('Wrong date:' + quad.object.value)
           return false
         }
         return true
       }))
+      .pipe(p.filter((quad) => {
+        return quad.object.value !== '-'
+      }))
       .pipe(p.map((quad) => {
-
         let subject = quad.subject
         let predicate = quad.predicate
         let object = quad.object
 
+        let quads = []
+
         if (predicate.value === 'http://example.org/equivalentClass') {
-          if (object.value != '-') {
-            const curies =  object.value.split(';')
-            console.log(curies)
-            curies.forEach(element => {
-              const node = pm.resolve(element.trim())
-              console.log(node.value)
-            });
-          }
+          const curies = object.value.split(';')
+          curies.forEach(element => {
+            quads.push(p.rdf.quad(subject, p.rdf.namedNode('http://www.w3.org/2002/07/owl#equivalentClass'), pm.resolve(element.trim())))
+          })
         }
 
         if (predicate.value === 'http://vocab.performing-arts.ch/r_hasDate') {
@@ -62,31 +62,32 @@ function convertCsvw (filename) {
           const date = moment(object.value).format('YYYY-MM-DD')
 
           object = p.rdf.literal(date, p.rdf.namedNode(xsddate))
-         
         }
-        
 
-        return p.rdf.quad(subject, predicate, object)
+        quads.push(p.rdf.quad(subject, predicate, object))
+
+        return quads
       }))
+      .pipe(p.flatten())
       .pipe(p.ntriples.serialize())
       .pipe(p.file.write(filenameOutput))
   })
 }
 
 const filenames = [
-//  'STS/Entwuerfe.csv',
-//  'STS/Masken.csv',
-//  'STS/Modelle.csv',
-//  'STS/Plakate.csv',
-//  'STS/RepProfi.csv',
-//  'STS/stc_amateur_theatre_companies.csv',
-//  'STS/stc_anniversary_performing_arts_festivals.csv',
-//  'STS/stc_circuses.csv',
-//  'STS/stc_outdoor_theatre_events.csv',
-//  'STS/stc_performing_arts_festivals.csv',
-//  'STS/stc_professional_performing_arts_companies.csv',
-//  'STS/stc_puppet_theatre_companies.csv',
-//  'STS/stc_revues_cultural_nights_vorfasnacht.csv',
+  'STS/Entwuerfe.csv',
+  'STS/Masken.csv',
+  'STS/Modelle.csv',
+  'STS/Plakate.csv',
+  'STS/RepProfi.csv',
+  'STS/stc_amateur_theatre_companies.csv',
+  'STS/stc_anniversary_performing_arts_festivals.csv',
+  'STS/stc_circuses.csv',
+  'STS/stc_outdoor_theatre_events.csv',
+  'STS/stc_performing_arts_festivals.csv',
+  'STS/stc_professional_performing_arts_companies.csv',
+  'STS/stc_puppet_theatre_companies.csv',
+  'STS/stc_revues_cultural_nights_vorfasnacht.csv',
   'SPA_Classes.csv',
   'SPA_Qualifiers.csv',
   'SPA_Relations.csv',

@@ -44,19 +44,21 @@
       },
       {
         "titles": "Inverse Relation",
-        "propertyUrl": "http://example.org/inverseOf"
+        "suppressOutput": true
       },
       {
         "titles": "Inverse Relation (Ontology)",
-        "suppressOutput": true
+        "propertyUrl": "http://www.w3.org/2002/07/owl#inverseOf",
+        "valueUrl": "http://vocab.performing-arts.ch/{Inverse Relation (Ontology)}"
       },
       {
         "titles": "subPropertyOf",
-        "propertyUrl": "http://example.org/subPropertyOf"
+        "suppressOutput": true
       },
       {
         "titles": "subPropertyOf (Ontology)",
-        "suppressOutput": true
+        "propertyUrl": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
+        "valueUrl": "http://vocab.performing-arts.ch/{subPropertyOf (Ontology)}"
       },
       {
         "titles": "Remark",
