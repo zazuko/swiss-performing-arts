@@ -48,7 +48,8 @@ function convertCsvw (filename) {
         if (predicate.value === 'http://example.org/equivalentClass') {
           const curies = object.value.split(';')
           curies.forEach(element => {
-            quads.push(p.rdf.quad(subject, p.rdf.namedNode('http://www.w3.org/2002/07/owl#equivalentClass'), pm.resolve(element.trim())))
+            // some URIs still contain spaces -> we simply remove them. Probably breaks the URI though
+            quads.push(p.rdf.quad(subject, p.rdf.namedNode('http://www.w3.org/2002/07/owl#equivalentClass'), pm.resolve(element.trim().replace(' ', ''))))
           })
         }
 
